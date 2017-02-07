@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="6709.rdf">
+  <lb:ficha>6709</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>HADLEY, G.</lb:autor>
+  <lb:clasificacion>QA184 H34</lb:clasificacion>
+  <lb:anio>1961</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6811.rdf">
+  <lb:ficha>6811</lb:ficha>
+  <lb:titulo>ELEMENTS OF LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>PAIGE, LOWELL J.</lb:autor>
+  <lb:clasificacion>QA184 P35</lb:clasificacion>
+  <lb:anio>1961</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6807.rdf">
+  <lb:ficha>6807</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA : AN INTRODUCTORY APPROACH</lb:titulo>
+  <lb:autor>CURTIS, CHARLES W.</lb:autor>
+  <lb:clasificacion>QA184 C87</lb:clasificacion>
+  <lb:anio>1963</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6843.rdf">
+  <lb:ficha>6843</lb:ficha>
+  <lb:titulo>A GEOMETRIC INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>PEDOE, DANIEL</lb:autor>
+  <lb:clasificacion>QA184 P43</lb:clasificacion>
+  <lb:anio>1963</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6704.rdf">
+  <lb:ficha>6704</lb:ficha>
+  <lb:titulo>MATRICES AND LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>SCHNEIDER, HANS</lb:autor>
+  <lb:clasificacion>QA184 S35</lb:clasificacion>
+  <lb:anio>1968</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6739.rdf">
+  <lb:ficha>6739</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>SHIELDS, PAUL C.</lb:autor>
+  <lb:clasificacion>QA184 S55</lb:clasificacion>
+  <lb:anio>1968</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6808.rdf">
+  <lb:ficha>6808</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA : AN INTRODUCTORY APPROACH</lb:titulo>
+  <lb:autor>CURTIS, CHARLES W.</lb:autor>
+  <lb:clasificacion>QA184 C87 1968</lb:clasificacion>
+  <lb:anio>1968</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6812.rdf">
+  <lb:ficha>6812</lb:ficha>
+  <lb:titulo>A FIRST COURSE IN LINEAL ALGEBRA</lb:titulo>
+  <lb:autor>ZELINSKY, DANIEL</lb:autor>
+  <lb:clasificacion>QA184 Z44</lb:clasificacion>
+  <lb:anio>1968</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6868.rdf">
+  <lb:ficha>6868</lb:ficha>
+  <lb:titulo>SCHAUM'S OUTLINE OF THEORY AND PROBLEMS OF LINEAR</lb:titulo>
+  <lb:autor>LIPSCHUTZ, SEYMOUR</lb:autor>
+  <lb:clasificacion>QA184 L567</lb:clasificacion>
+  <lb:anio>1968</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="6749.rdf">
+  <lb:ficha>6749</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>PILLIS, JOHN DE</lb:autor>
+  <lb:clasificacion>QA184 P54</lb:clasificacion>
+  <lb:anio>1969</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6813.rdf">
+  <lb:ficha>6813</lb:ficha>
+  <lb:titulo>APPLIED LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>NOBLE, BEN</lb:autor>
+  <lb:clasificacion>QA184 N62</lb:clasificacion>
+  <lb:anio>1969</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+  <lb:ficha>6498</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA AND GEOMETRY</lb:titulo>
+  <lb:autor>DIEUDONNE, JEAN</lb:autor>
+  <lb:clasificacion>QA184 D54</lb:clasificacion>
+  <lb:anio>1969</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6876.rdf">
+  <lb:ficha>6876</lb:ficha>
+  <lb:titulo>AN INTRODUCTION TO MATRICES AND LINEAR TRANSFORMAT</lb:titulo>
+  <lb:autor>STAIB, JOHN H.</lb:autor>
+  <lb:clasificacion>QA184 S73</lb:clasificacion>
+  <lb:anio>1969</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6710.rdf">
+  <lb:ficha>6710</lb:ficha>
+  <lb:titulo>INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>THOMPSON, ROBERT C.</lb:autor>
+  <lb:clasificacion>QA184 T46</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6732.rdf">
+  <lb:ficha>6732</lb:ficha>
+  <lb:titulo>FUNDAMENTALS OF LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>AMES, DENNIS B.</lb:autor>
+  <lb:clasificacion>QA184 A44</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6755.rdf">
+  <lb:ficha>6755</lb:ficha>
+  <lb:titulo>AN INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>FISHER, ROBERT C.</lb:autor>
+  <lb:clasificacion>QA184 F58</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6778.rdf">
+  <lb:ficha>6778</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>KOLMAN, BERNARD</lb:autor>
+  <lb:clasificacion>QA184 K64</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6780.rdf">
+  <lb:ficha>6780</lb:ficha>
+  <lb:titulo>INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>KRAUSE, EUGENE F.</lb:autor>
+  <lb:clasificacion>QA184 K73</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6816.rdf">
+  <lb:ficha>6816</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>MURDOCH, D. C.</lb:autor>
+  <lb:clasificacion>QA184 M87</lb:clasificacion>
+  <lb:anio>1970</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6659.rdf">
+  <lb:ficha>6659</lb:ficha>
+  <lb:titulo>INTRODUCTION TO LINEAR AND ABSTRACT ALGEBRA
+</lb:titulo>
+  <lb:autor>THOMPSON, ROBERT C.</lb:autor>
+  <lb:clasificacion>QA184 T46 1971</lb:clasificacion>
+  <lb:anio>1971</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6708.rdf">
+  <lb:ficha>6708</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>HOFFMAN, KENNETH</lb:autor>
+  <lb:clasificacion>QA184 H64</lb:clasificacion>
+  <lb:anio>1971</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6872.rdf">
+  <lb:ficha>6872</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR AND MATRIX ALGEBRA : THE VIEWPOI</lb:titulo>
+  <lb:autor>MOORE, JOHN T.</lb:autor>
+  <lb:clasificacion>QA184 M66</lb:clasificacion>
+  <lb:anio>1972</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6836.rdf">
+  <lb:ficha>6836</lb:ficha>
+  <lb:titulo>A FIRST COURSE IN LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>ZELINSKY, DANIEL</lb:autor>
+  <lb:clasificacion>QA184 Z44 1973</lb:clasificacion>
+  <lb:anio>1973</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="7319.rdf">
+  <lb:ficha>7319</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>HOFFMAN, KENNETH</lb:autor>
+  <lb:clasificacion>QA184 H644</lb:clasificacion>
+  <lb:anio>1973</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6901.rdf">
+  <lb:ficha>6901</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA AND ITS APPLICATIONS
+</lb:titulo>
+  <lb:autor>STRANG, GILBERT</lb:autor>
+  <lb:clasificacion>QA184 S77</lb:clasificacion>
+  <lb:anio>1976</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="6869.rdf">
+  <lb:ficha>6869</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL Y TEORIA DE MATRICES</lb:titulo>
+  <lb:autor>NERING, EVAR D.</lb:autor>
+  <lb:clasificacion>QA184 N47</lb:clasificacion>
+  <lb:anio>1977</lb:anio>
+  <lb:ejemplares>3</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6738.rdf">
+  <lb:ficha>6738</lb:ficha>
+  <lb:titulo>COMPUTATIONAL LINEAR ALGEBRA WITH MODELS</lb:titulo>
+  <lb:autor>WILLIAMS, GARETH</lb:autor>
+  <lb:clasificacion>QA184 W54</lb:clasificacion>
+  <lb:anio>1978</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6796.rdf">
+  <lb:ficha>6796</lb:ficha>
+  <lb:titulo>FUNDAMENTOS DE ALGEBRA LINEAL Y APLICACIONES</lb:titulo>
+  <lb:autor>FLOREY, FRANCIS G.</lb:autor>
+  <lb:clasificacion>QA184 F46</lb:clasificacion>
+  <lb:anio>1980</lb:anio>
+  <lb:ejemplares>4</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="12.rdf">
+  <lb:ficha>12</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>KOLMAN, BERNARD</lb:autor>
+  <lb:clasificacion>QA184 K646</lb:clasificacion>
+  <lb:anio>1981</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6781.rdf">
+  <lb:ficha>6781</lb:ficha>
+  <lb:titulo>INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>JOHNSON, LEE W.</lb:autor>
+  <lb:clasificacion>QA184 J64</lb:clasificacion>
+  <lb:anio>1981</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6703.rdf">
+  <lb:ficha>6703</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>ROBERTS, A. WAYNE</lb:autor>
+  <lb:clasificacion>QA184 R62</lb:clasificacion>
+  <lb:anio>1982</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="3917.rdf">
+  <lb:ficha>3917</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>ANTON, HOWARD</lb:autor>
+  <lb:clasificacion>QA184 A57 1984</lb:clasificacion>
+  <lb:anio>1984</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="3914.rdf">
+  <lb:ficha>3914</lb:ficha>
+  <lb:titulo>INTRODUCCION AL ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>ANTON, HOWARD</lb:autor>
+  <lb:clasificacion>QA184 A575</lb:clasificacion>
+  <lb:anio>1986</lb:anio>
+  <lb:ejemplares>9</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6705.rdf">
+  <lb:ficha>6705</lb:ficha>
+  <lb:titulo>LINEAR SUPERALGEBRA</lb:titulo>
+  <lb:autor>SANCHEZ, OSCAR A.</lb:autor>
+  <lb:clasificacion>QA184 S25</lb:clasificacion>
+  <lb:anio>1986</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6741.rdf">
+  <lb:ficha>6741</lb:ficha>
+  <lb:titulo>INTRODUCTION TO LINEAR ALGEBRA</lb:titulo>
+  <lb:autor>ANDERSON, ROBERT F. V.</lb:autor>
+  <lb:clasificacion>QA184 A53</lb:clasificacion>
+  <lb:anio>1986</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6712.rdf">
+  <lb:ficha>6712</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>LUDLOW-WIECHERS, J.</lb:autor>
+  <lb:clasificacion>QA184 L83</lb:clasificacion>
+  <lb:anio>1987</lb:anio>
+  <lb:ejemplares>3</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6777.rdf">
+  <lb:ficha>6777</lb:ficha>
+  <lb:titulo>TEORIA Y PROBLEMAS DE ALGEBRA LINEAL Y SUS APLICAC</lb:titulo>
+  <lb:autor>TORREGROSA SANCHEZ, JUAN RAMON</lb:autor>
+  <lb:clasificacion>QA184 T67</lb:clasificacion>
+  <lb:anio>1987</lb:anio>
+  <lb:ejemplares>4</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="2597.rdf">
+  <lb:ficha>2597</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>GROSSMAN, STANLEY I.</lb:autor>
+  <lb:clasificacion>QA184 G76</lb:clasificacion>
+  <lb:anio>1988</lb:anio>
+  <lb:ejemplares>11</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6724.rdf">
+  <lb:ficha>6724</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL Y ANALISIS NUMERICO</lb:titulo>
+  <lb:autor>GREENBERG, PETER</lb:autor>
+  <lb:clasificacion>QA184 G74</lb:clasificacion>
+  <lb:anio>1989</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6810.rdf">
+  <lb:ficha>6810</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL APLICADA</lb:titulo>
+  <lb:autor>NOBLE, BEN</lb:autor>
+  <lb:clasificacion>QA184 N625</lb:clasificacion>
+  <lb:anio>1989</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6714.rdf">
+  <lb:ficha>6714</lb:ficha>
+  <lb:titulo>INTRODUCCION AL ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>LANG, SERGE</lb:autor>
+  <lb:clasificacion>QA184 L35</lb:clasificacion>
+  <lb:anio>1990</lb:anio>
+  <lb:ejemplares>6</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="2412.rdf">
+  <lb:ficha>2412</lb:ficha>
+  <lb:titulo>APLICACIONES DE ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>GROSSMAN, STANLEY I.</lb:autor>
+  <lb:clasificacion>QA184 G768</lb:clasificacion> 
+  <lb:anio>1992</lb:anio> 
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="2599.rdf">
+  <lb:ficha>2599</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>GROSSMAN, STANLEY I.</lb:autor>
+  <lb:clasificacion>QA184 G76 1992</lb:clasificacion> 
+  <lb:anio>1992</lb:anio> 
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6711.rdf">
+  <lb:ficha>6711</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>LIPSCHUTZ, SEYMOUR</lb:autor>
+  <lb:clasificacion>QA184 L56</lb:clasificacion>  
+  <lb:anio>1992</lb:anio> 
+  <lb:ejemplares>4</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6723.rdf">
+  <lb:ficha>6723</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>GERBER, HARVEY</lb:autor>
+  <lb:clasificacion>QA184 G47</lb:clasificacion>  
+  <lb:anio>1992</lb:anio> 
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="3918.rdf">
+  <lb:ficha>3918</lb:ficha>
+  <lb:titulo>ELEMENTARY LINEAR ALGEBRA</lb:titulo>  
+  <lb:autor>ANTON, HOWARD </lb:autor>
+  <lb:clasificacion>QA184 A57 1994</lb:clasificacion> 
+  <lb:anio>1994</lb:anio> 
+  <lb:ejemplares>6</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="2487.rdf">
+  <lb:ficha>2487</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>GROSSMAN, STANLEY I.  </lb:autor>
+  <lb:clasificacion>QA184 G76 1996</lb:clasificacion>
+  <lb:anio>1996</lb:anio>
+  <lb:ejemplares>12</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6802.rdf">
+  <lb:ficha>6802</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA</lb:titulo> 
+  <lb:autor>FRIEDBERG, STEPHEN H.</lb:autor>
+  <lb:clasificacion>QA184 F75</lb:clasificacion>  
+  <lb:anio>1997</lb:anio> 
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="6713.rdf">
+  <lb:ficha>6713</lb:ficha>
+  <lb:titulo>LINEAR ALGEBRA WITH APPLICATIONS</lb:titulo> 
+  <lb:autor>LEON, STEVEN J.</lb:autor>
+  <lb:clasificacion>QA184 L46</lb:clasificacion>  
+  <lb:anio>1998</lb:anio> 
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6797.rdf">
+  <lb:ficha>6797</lb:ficha>
+  <lb:titulo>ALIANZA FAMILIAR DE MATRICES</lb:titulo> 
+  <lb:autor>GOMEZ GARCiA, DANIEL</lb:autor>
+  <lb:clasificacion>QA184 G64</lb:clasificacion>  
+  <lb:anio>1999</lb:anio> 
+  <lb:ejemplares>3</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6818.rdf">
+  <lb:ficha>6818</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL CON APLICACIONES</lb:titulo>  
+  <lb:autor>NAKOS, GEORGE</lb:autor>
+  <lb:clasificacion>QA184 N35</lb:clasificacion>  
+  <lb:anio>1999</lb:anio> 
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="3915.rdf">
+  <lb:ficha>3915</lb:ficha>
+  <lb:titulo>INTRODUCCION AL ALGEBRA LINEAL</lb:titulo> 
+  <lb:autor>ANTON, HOWARD</lb:autor>
+  <lb:clasificacion>QA184 A575 2002</lb:clasificacion>
+  <lb:anio>2002</lb:anio> 
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="2090.rdf">
+  <lb:ficha>2090</lb:ficha>
+  <lb:titulo>ALGEBRA LINEAL</lb:titulo>
+  <lb:autor>GROSSMAN S., STANLEY</lb:autor>
+  <lb:clasificacion>QA184 G76 2008</lb:clasificacion>
+  <lb:anio>2008</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>Algebra Lineal</lb:area>
+</rdf:Description>
+
+</rdf:RDF> 

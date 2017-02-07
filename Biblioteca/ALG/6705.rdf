@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="introduction">
+<ct:tema>INTRODUCTION</ct:tema>
+<ct:subtema></ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="preliminaries">
+<ct:tema>PRELIMINARIES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>SUPERVECTOR SPACE</ct:subtema>
+        <ct:subtema>THE TENSOR PRODUCT</ct:subtema>
+        <ct:subtema>ASSOCIATIVE SUPERALGEBRA</ct:subtema>
+        <ct:subtema>THE TENSOR PRODUCT OF TWO SUPERALGEBRA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="computations with coordinates">
+<ct:tema>COMPUTATIONS WITH COORDINATES</ct:tema>
+<ct:subtema></ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="the case of right modules">
+<ct:tema>THE CASE OF RIGHT MODULES</ct:tema>
+<ct:subtema></ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales">
+<ct:tema>SISTEMAS DE ECUACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>ECUACIONES LINEALES. SOLUCIONES</ct:subtema>
+        <ct:subtema>ECUACIONES LINEALES CON DOS INCÓGNITAS</ct:subtema>
+        <ct:subtema>SISTEMAS DE ECUACIONES LINEALES. SISTEMAS EQUIVALENTES. OPERACIONES ELEMENTALES</ct:subtema>
+        <ct:subtema>SISTEMAS EN FORMA TRIANGULAR Y ESCALONADA</ct:subtema>
+        <ct:subtema>ALGORITMO DE REDUCCIÓN</ct:subtema>
+        <ct:subtema>MATRICES</ct:subtema>
+        <ct:subtema>EQUIVALENCIA POR FILAS. OPERACIONES ELEMENTALES ENTRE FILAS</ct:subtema>
+        <ct:subtema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:subtema>
+        <ct:subtema>SISTEMAS DE ECUACIONES LINEALES HOMOGÉNEOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores en R^n y C^n. Vectores espaciales">
+<ct:tema>VECTORES EN R^N Y C^N. VECTORES ESPACIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>VECTORES EN R^N</ct:subtema>
+        <ct:subtema>SUMA DE VECTORES Y PRODUCTO POR UN ESCALAR</ct:subtema>
+        <ct:subtema>VECTORES Y ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>PRODUCTO ESCALAR</ct:subtema>
+        <ct:subtema>NORMA DE UN VECTOR</ct:subtema>
+        <ct:subtema>VECTORES LOCALIZADOS, HIPERPLANOS Y RECTAS EN R^N</ct:subtema>
+        <ct:subtema>VECTORES ESPACIALES. NOTACIÓN IJK EN R^3</ct:subtema>
+        <ct:subtema>NÚMEROS COMPLEJOS</ct:subtema>
+        <ct:subtema>VECTORES EN C^N</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices">
+<ct:tema>MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>MATRICES</ct:subtema>
+        <ct:subtema>SUMA DE MATRICES Y PRODUCTO POR UN ESCALAR</ct:subtema>
+        <ct:subtema>PRODUCTO DE MATRICES</ct:subtema>
+        <ct:subtema>TRASPUESTA DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRICES Y SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>MATRICES POR BLOQUES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices cuadradas. Matrices elementales">
+<ct:tema>MATRICES CUADRADAS. MATRICES ELEMENTALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>MATRICES CUADRADAS</ct:subtema>
+        <ct:subtema>DIAGONAL Y TRAZA. MATRIZ IDENTIDAD</ct:subtema>
+        <ct:subtema>POTENCIAS DE MATRICES. POLINOMIOS DE MATRICES</ct:subtema>
+        <ct:subtema>MATRICES INVERTIBLES (NO SINGULARES)</ct:subtema>
+        <ct:subtema>TIPOS ESPACIALES DE MATRICES CUADRADAS</ct:subtema>
+        <ct:subtema>MATRICES COMPLEJAS</ct:subtema>
+        <ct:subtema>MATRICES CUADRADAS POR BLOQUES</ct:subtema>
+        <ct:subtema>MATRICES ELEMENTALES. APLICACIONES</ct:subtema>
+        <ct:subtema>OPERACIONES ELEMENTALES ENTRE COLUMNAS. EQUIVALENCIA DE MATRICES</ct:subtema>
+        <ct:subtema>MATRICES SIMÉTRICAS CONGRUENTES. LEY INERCIA</ct:subtema>
+        <ct:subtema>FORMAS CUADRATICAS</ct:subtema>
+        <ct:subtema>SIMILARIDAD</ct:subtema>
+        <ct:subtema>FACTORIZACIÓN LU</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+<ct:tema>ESPACIOS VECTORIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>EJEMPLOS DE ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>SUBESPACIOS</ct:subtema>
+        <ct:subtema>COMBINACIONES LINEALES. ENVOLVENTES LINEALES</ct:subtema>
+        <ct:subtema>DEPENDENCIA E INDEPENDENCIA LINELA</ct:subtema>
+        <ct:subtema>BASES Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>ECUACIONES LINEALES Y ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>SUMAS Y SUMAS DIRECTAS</ct:subtema>
+        <ct:subtema>COORDENADAS</ct:subtema>
+        <ct:subtema>CAMBIO DE BASE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios con producto interno. Ortogonalidad">
+<ct:tema>ESPACIOS CON PRODUCTO INTERNO. ORTOGONALIDAD</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>ESPACIOS CON PRODUCTO INTERNO</ct:subtema>
+        <ct:subtema>DESIGUALDAD DE CAUCHY-SCHWARZ. APLICACIONES</ct:subtema>
+        <ct:subtema>ORTOGONALIDAD</ct:subtema>
+        <ct:subtema>CONJUNTOS ORTOGONALES Y BASES. PROYECCIONES</ct:subtema>
+        <ct:subtema>PROCESO DE ORTOGONALIZACIÓN DE GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>PRODUCTOS INTERNOS Y MATRICES</ct:subtema>
+        <ct:subtema>ESPACIOS COMPLEJOS CON PRODUCTO INTERNO</ct:subtema>
+        <ct:subtema>ESPACIOS VECTORIALES NORMADOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>DETERMINANTES DE ÓRDENES UNO Y DOS</ct:subtema>
+        <ct:subtema>DESCRIPTION DE ORDEN TRES</ct:subtema>
+        <ct:subtema>PERMUTACIONES</ct:subtema>
+        <ct:subtema>DETERMINANTES DE ORDEN ARBITRARIO</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+        <ct:subtema>MENORES Y COFACTORES</ct:subtema>
+        <ct:subtema>ADJUNTO CLÁSICO</ct:subtema>
+        <ct:subtema>APLIACIONES A LAS ECUACIONES LINEALES. REGLA DE CRAMER</ct:subtema>
+        <ct:subtema>SUBMATRICES. MENORES GENERALES. MENORES PRINCIPALES</ct:subtema>
+        <ct:subtema>MATRICES POR BLOQUES Y DETERMINANTES</ct:subtema>
+        <ct:subtema>DETERMINANTES Y VOLUMEN</ct:subtema>
+        <ct:subtema>MULTINEALIDAD Y DETERMINANTES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores propios y vectores propios. Diagonalizacion">
+<ct:tema>VALORES PROPIOS Y VECTORES PROPIOS. DIAGONALIZACION</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>POLINOMIOS DE MATRICES</ct:subtema>
+        <ct:subtema>POLINOMIO CARACTERISTICO. TEOREMA DE CAYLEY-HAMILTON</ct:subtema>
+        <ct:subtema>VALORES PROPIOS Y VECTORES PROPIOS</ct:subtema>
+        <ct:subtema>CÁLCULO DE VALORES PROPIOS Y VECTORES PROPIOS. DIAGONALIZACIÓN DE MATRICES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN DE MATRICES REALES Y SIMÉTRICAS</ct:subtema>
+        <ct:subtema>POLINOMIO MÍNIMO</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aplicaciones lineales">
+<ct:tema>APLICACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>APLICACIONES LINEALES</ct:subtema>
+        <ct:subtema>NÚCLEO E IMAGEN DE UNA APLICACIÓN LINEALES</ct:subtema>
+        <ct:subtema>APLICACIONES LINEALES SINGULARES Y NO SINGULARES. ISOMORFISMOS</ct:subtema>
+        <ct:subtema>OPERACIONES CON APLICACIONES LINEALES</ct:subtema>
+        <ct:subtema>ALGEBRA DE OPERADORES LINEALES A(V)</ct:subtema>
+        <ct:subtema>OPERADORES INVERTIBLES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices y aplicaciones lineales">
+<ct:tema>MATRICES Y APLICACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>REPRESENTACIÓN MATRICIAL DE UN OPERADOR LINEAL</ct:subtema>
+        <ct:subtema>CAMBIO DE BASE Y OPERADORES LINEALES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN DE OPERADORES LINEALES</ct:subtema>
+        <ct:subtema>MATRICES Y APLICACIONES LINEALES GENERALES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas canonicas">
+<ct:tema>FORMAS CANONICAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMA TRIANGULAR</ct:subtema>
+        <ct:subtema>INVARIANCIA</ct:subtema>
+        <ct:subtema>DESCOMPOSICIONES EN SUMA DIRECTA INVARIANTE</ct:subtema>
+        <ct:subtema>DESCOMPOSICIÓN PRIMARIA</ct:subtema>
+        <ct:subtema>OPERADORES NILPOTENTES</ct:subtema>
+        <ct:subtema>FORMA CANÓNICA DE JORDAN</ct:subtema>
+        <ct:subtema>SUBESPACIOS CICLÍCOS</ct:subtema>
+        <ct:subtema>FORMA CANÓNICA RACIONAL</ct:subtema>
+        <ct:subtema>ESPACIOS COCIENTE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Funcionales lineales y espacio dual">
+<ct:tema>FUNCIONALES LINEALES Y ESPACIO DUAL</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FUNCIONALES LINEALES Y ESPACIO DUAL</ct:subtema>
+        <ct:subtema>BASE DUAL</ct:subtema>
+        <ct:subtema>ESPACIO SEGUNDO DUAL</ct:subtema>
+        <ct:subtema>ANIQUILADORES</ct:subtema>
+        <ct:subtema>TRANPUESTA DE UNA APLICACIÓN LINEAL</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas biliniales, Cuadraticas y hermiticas">
+<ct:tema>FORMAS BILINIALES, CUADRATICAS Y HERMITICAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMAS BILINIALES</ct:subtema>
+        <ct:subtema>FORMAS BILINIALES Y MATRICES</ct:subtema>
+        <ct:subtema>FORMAS BILINIALES ALTERNADAS</ct:subtema>
+        <ct:subtema>FORMAS BILINIALES SIMÉTRICAS. FORMAS CUADRÁTICAS</ct:subtema>
+        <ct:subtema>FORMAS BILINIALES SIMÉTRICAS REALES. LEY DE INERCIA</ct:subtema>
+        <ct:subtema>FORMAS HERMÍTICAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Operadores lineales en espacios con producto interno">
+<ct:tema>OPERADORES LINEALES EN ESPACIOS CON PRODUCTO INTERNO</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>OPERADORES ADJUNTOS</ct:subtema>
+        <ct:subtema>ANALOGIA ENTRE A(V) Y C. OPERADORES ESPACIALES</ct:subtema>
+        <ct:subtema>OPERADORES AUTOADJUNTOS</ct:subtema>
+        <ct:subtema>OPERADORES ORTOGONALES Y UNITARIOS</ct:subtema>
+        <ct:subtema>MATRICES ORTOGONALES Y UNITARIAS</ct:subtema>
+        <ct:subtema>CAMBIO DE BASE ORTONORMAL</ct:subtema>
+        <ct:subtema>OPERADORES POSITIVOS</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN Y FORMAS CANÓNICAS EN ESPACIOS EUCLÍDEOS</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN Y FORMAS CANÓNICAS EN ESPACIOS UNITARIOS</ct:subtema>
+        <ct:subtema>TEOREMA ESPECTRAL</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Conjuntos y relaciones">
+<ct:tema>CONJUNTOS Y RELACIONES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>CONJUNTO, ELEMENTOS</ct:subtema>
+        <ct:subtema>OPERACIONES ENTRE CONJUNTOS</ct:subtema>
+        <ct:subtema>PRODUCTO CARTESIANO DE CONJUNTOS</ct:subtema>
+        <ct:subtema>RELACIONES</ct:subtema>
+        <ct:subtema>RELACIONES DE EQUIVALENCIA</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estructuras algebraicas">
+<ct:tema>ESTRUCTURAS ALGEBRAICAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>GRUPOS</ct:subtema>
+        <ct:subtema>ANILLOS, DOMINIOS DE INTEGRIDAD Y CUERPOS</ct:subtema>
+        <ct:subtema>MODULOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Polinomios sobre un cuerpo">
+<ct:tema>POLINOMIOS SOBRE UN CUERPO</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>DIVISILIDAD. MÁXIMO COMUN DIVISOR</ct:subtema>
+        <ct:subtema>FACTORIZACIÓN</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

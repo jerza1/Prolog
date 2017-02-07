@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="The real number system">
+  <ct:tema>THE REAL NUMBER SYSTEM</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>REAL NUMBERS</ct:subtema>
+      <ct:subtema>SETS, INTEGERS, AND THE PRINCIPLE OF MATHEMATICAL INDUCTION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors, matrices, and linear equations">
+  <ct:tema>VECTORS, MATRICES, AND LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTORY REMARKS ON ANALYTIC GEOMETRIC</ct:subtema>
+      <ct:subtema>THE VECTOR SPACE R</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE</ct:subtema>
+      <ct:subtema>THE CONCEPTS OF BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>SYSTEMS OF HOMEGENEOUS EQUATIONS</ct:subtema>
+      <ct:subtema>LINEAR MANIFOLDS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>EXIXTENCE AND UNIQUENESS OF DETERMINANTS</ct:subtema>
+      <ct:subtema>THE MULTIPLICATION THEOREMY OFR DETERMINANTS</ct:subtema>
+      <ct:subtema>FURTHER PROPERTIES OF DETERMINANTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Polynomials and complex numbers">
+  <ct:tema>POLYNOMIALS AND COMPLEX NUMBERS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTORS AND MATRICES DEFINED OVER AND ARBITRARY FIELD</ct:subtema>
+      <ct:subtema>POLYNOMIALS</ct:subtema>
+      <ct:subtema>COMPLEX NUMBERS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector spacess and linear transformations">
+  <ct:tema>VECTOR SPACESS AND LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ABSTRACT VECTOR SPACES</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+      <ct:subtema>THE MINIMAL POLYNOMIAL</ct:subtema>
+      <ct:subtema>INVARIANT SUBSPACES</ct:subtema>
+      <ct:subtema>THE TRIANGULAR FORM THEOREM</ct:subtema>
+      <ct:subtema>AN EXAMPLE</ct:subtema>
+      <ct:subtema>APPLICATION TO DIFFERENTIAL EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Convex sets and n-dimensional geometry">
+  <ct:tema>CONVEX SETS AND N-DIMENSIONAL GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE CONCEPT OF SIMMETRY</ct:subtema>
+      <ct:subtema>INNER PRODUCTS</ct:subtema>
+      <ct:subtema>THE STRUCTURE OF ORTHOGONAL TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>PRINCIPAL-AXIS THEOREM</ct:subtema>
+      <ct:subtema>FINITE SYMMETRY GROUPS IN THREE DIMENSIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF>

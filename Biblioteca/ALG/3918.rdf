@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Systems of linear equations and matrices">
+ <ct:tema>SYSTEMS OF LINEAR EQUATIONS AND MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCTION TO SYSTEMS OF LINEAR EQUATION</ct:subtema>
+        <ct:subtema>GAUSSIAN ELIMINATION </ct:subtema>
+        <ct:subtema>MATRICES AND MATRIX OPERATIONS </ct:subtema>
+        <ct:subtema>INVERSES; RULES OF MATRIX ARITHMETIC </ct:subtema>
+        <ct:subtema>ELEMENTARY MATRICES AND A METHOD TO FINDING A^-1 </ct:subtema>
+        <ct:subtema>FURTHER RESULTS ON SYSTEMS OF EQUATIONS AND INVERSIBILITY</ct:subtema>
+        <ct:subtema>DIAGONAL, TRIANGULAR, AND SYMMETRIC MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Determinants">
+ <ct:tema>DETERMINANTS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>THE DETERMINANT FUNCTION</ct:subtema>
+        <ct:subtema>EVALUATION DETERMINANTS BY ROW REDUCTION</ct:subtema>
+        <ct:subtema>PROPERTIES OF THE DETERMINING FUNCTION</ct:subtema>
+        <ct:subtema>COFACTOR EXAPANSION; CRAMER´S RULE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors in 2-space and 3-space">
+ <ct:tema>VECTORS IN 2-SPACE AND 3-SPACE</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCTION TO VECTORS (GEOMETRIC)</ct:subtema>
+        <ct:subtema>NORM OF A VECTOR; VECTOR ARITHMETIC</ct:subtema>
+        <ct:subtema>DOT PRODUCT; PROJECTIONS</ct:subtema>
+        <ct:subtema>CROSS PRODUCT</ct:subtema>
+        <ct:subtema>LINES AND PLANES IN 3-SPACE </ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Euclidean vector spaces">
+ <ct:tema>EUCLIDEAN VECTOR SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>EUCLIDEAN N-SPACE</ct:subtema>
+        <ct:subtema>LINEAR TRANSFORMATIONS FROM R^N TO R^M</ct:subtema>
+        <ct:subtema>PROPERTIES OF LINEAR TRANSFORMATIONS FROM R^N TO R^M</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="General vector spaces">
+ <ct:tema>GENERAL VECTOR SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>REAL VECTOR SPACES</ct:subtema>
+        <ct:subtema>SUBESPACES</ct:subtema>
+        <ct:subtema>LINEAR INDEPENDENCE</ct:subtema>
+        <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+        <ct:subtema>ROW SPACE, COLUMN SPACE AND NULLSPACE</ct:subtema>
+        <ct:subtema>RANK AND NULLITY</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inner product spaces">
+ <ct:tema>INNER PRODUCT SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INNER PRODUCTS</ct:subtema>
+        <ct:subtema>ANGLE AND ORTHOGONALITY IN INNER PRODUCT SPACES</ct:subtema>
+        <ct:subtema>ORTHONORMAL BASES; GRAM-SCHIMIDT PROCESS; QR-DESCOMPOSITION</ct:subtema>
+        <ct:subtema>BEST APPROXIMATION; LEAST SQUARES</ct:subtema>
+        <ct:subtema>ORTHOGONAL MATRICES; CHANGE OF BASIS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues, eigenvectors">
+ <ct:tema>EIGENVALUES, EIGENVECTORS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+        <ct:subtema>DIAGONALIZATION</ct:subtema>
+        <ct:subtema>ORTHOGONAL DIAGONALIZATION</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear transformations">
+ <ct:tema>LINEAR TRANSFORMATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>GENERAL LINEAR TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>KERNEL AND RANGE</ct:subtema>
+        <ct:subtema>INVERSE LINEAR TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>MATRICES OF GENERAL LINEAR TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>SIMILARITY</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Additional topics">
+ <ct:tema>ADDITIONAL TOPICS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>APPLICATION TO DIFFERENTIAL EQUATIONS</ct:subtema>
+        <ct:subtema>GEOMETRY OF LINEAR OPERATORS ON R^2</ct:subtema>
+        <ct:subtema>LEAST SQUARES FITTING TO DATA</ct:subtema>
+        <ct:subtema>APPROXIMATION PROBLEMS; FOURIER SERIES</ct:subtema>
+        <ct:subtema>QUADRATIC FORMS</ct:subtema>
+        <ct:subtema>DIAGONALIZATION QUADRATIC FORMS; CONIC SECTIONS</ct:subtema>
+        <ct:subtema>QUADRATIC SURFACES</ct:subtema>
+        <ct:subtema>COMPARRISON OF PROCEDURES FOR SOLVING LINEAR SYSTEMS</ct:subtema>
+        <ct:subtema>LU-DECOMPOSITIONS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Complex vector spaces">
+ <ct:tema>COMPLEX VECTOR SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>COMPLEX NUMBERS</ct:subtema>
+        <ct:subtema>MODULUS; COMPLEX CONJUGATE; DIVISION</ct:subtema>
+        <ct:subtema>POLAR FORM; DEMOIVRE´S THEOREM</ct:subtema>
+        <ct:subtema>COMPLEX VECTOR SPACES</ct:subtema>
+        <ct:subtema>COMPLEX INNER PRODUCT SPACES</ct:subtema>
+        <ct:subtema>UNITARY, NORMAL AND HERMITIAN MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

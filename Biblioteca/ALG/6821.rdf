@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Real numbers">
+  <ct:tema>REAL NUMBERS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Axioms of Euclidean Geometry">
+  <ct:tema>AXIOMS OF EUCLIDEAN GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUBSPACES; LINEAR VARIETIES</ct:subtema>
+      <ct:subtema>LINEAR MAPPINGS, MULTILINEAR MAPPINGS, AFFINE MAPPINGS</ct:subtema>
+      <ct:subtema>LINES AND HYPERPLANES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Afline plane geometry">
+  <ct:tema>AFLINE PLANE GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BASES;MATRICES</ct:subtema>
+      <ct:subtema>DETERMINANTS</ct:subtema>
+      <ct:subtema>ORIENTATION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Euclidean plane geometry">
+  <ct:tema>EUCLIDEAN PLANE GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LENGTH; ORTHOGONALITY; ISOMETRY</ct:subtema>
+      <ct:subtema>ORTHOGONAL BASES; ADJOINT ENDOMORPHISMS</ct:subtema>
+      <ct:subtema>THE SIMILITUDE GROUP</ct:subtema>
+      <ct:subtema>ANGLES</ct:subtema>
+      <ct:subtema>COMPLEX NUMBERS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Three-dimensional aane geometry">
+  <ct:tema>THREE-DIMENSIONAL AANE GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BASES; MATRICES</ct:subtema>
+      <ct:subtema>BILINEAR AND TRILINEAR FORMS. DETERMINANTS. ORIENTATION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Three-dimensional Euclidean geometry">
+  <ct:tema>THREE-DIMENSIONAL EUCLIDEAN GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ORTHOGONAL BASES; ADJOINT ENDOMORPHIS</ct:subtema>
+      <ct:subtema>SIMILITUDE GROUP. ANGLES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Numerical Solution of Simultaneous Linear Equations">
+  <ct:tema>THE NUMERICAL SOLUTION OF SIMULTANEOUS LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>ILL-CONDITIONING</ct:subtema>
+      <ct:subtema>SCALING AND THE RECOGNITION OF ILL-CONDITIONING</ct:subtema>
+      <ct:subtema>NEARLY-SINGULAR MATRICES AND NUMERICAL RANK</ct:subtema>
+      <ct:subtema>ROUNDING AND THE CHOICE OF PIVOTS</ct:subtema>
+      <ct:subtema>CHOICE OF PIVOTS (CONTINUED)</ct:subtema>
+      <ct:subtema>RESIDUALS</ct:subtema>
+      <ct:subtema>THE AVOIDANCE OFILL-CONDITIONING; A LEAST-SQUARES EXAMPLE </ct:subtema>
+      <ct:subtema>A SUMMARY OF THE PRACTICAL PROCEDURE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues and Eigenvactors">
+  <ct:tema>EIGENVALUES AND EIGENVACTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION: A PHYSICAL EXAMPLE</ct:subtema>
+      <ct:subtema>DEFINITIONS AND BASIC PROPERTIES </ct:subtema>
+      <ct:subtema>INNER PRODUCTS AND HERMITIAN MATRICES</ct:subtema>
+      <ct:subtema>ORTHOGONALITY   </ct:subtema>
+      <ct:subtema> ORTHOGONAL EXPANSIONS, WITH AN APPLICATION  TO FORCED VIBRATION</ct:subtema>
+      <ct:subtema>ITERATIVE METHODS FOR CALCULATING EIGENVALUE</ct:subtema>
+      <ct:subtema>THE ITERATIVE SOLUTION OF SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Unitary Transformations">
+  <ct:tema>UNITARY TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>UNITARY MATRICES</ct:subtema>
+      <ct:subtema>GRAM-SCHMIDT ORTHOGONALIZATION</ct:subtema>
+      <ct:subtema>REDUCTION OF A GENERAL SQUARE MATRIX TO TRIANGULAR FORM</ct:subtema>
+      <ct:subtema>REDUCTION OF HERMITIAN MATRICES TO DIAGONAL FORM</ct:subtema>
+      <ct:subtema>THE METHODS OF JACOBI AND GIVENS</ct:subtema>
+      <ct:subtema>A SPECIAL ORTHOGONAL TRANSFORMATION, AND HOUSEHOLDER'S METHOD</ct:subtema>
+      <ct:subtema>BIORTHOGONALITY</ct:subtema>
+      <ct:subtema>SINGULAR VALUES AND SINGULAR VECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Similarity Transformations">
+  <ct:tema>SIMILARITY TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>REDUCTION TO DIAGONAL FORM</ct:subtema>
+      <ct:subtema>DEFECTIVE MATRICES</ct:subtema>
+      <ct:subtema>REDUCTION TO TRIANGULAR FORM</ct:subtema>
+      <ct:subtema>NILPOTENT MATRICES</ct:subtema>
+      <ct:subtema>THE JORDAN CANONICAL FORM</ct:subtema>
+      <ct:subtema>SYSTEMS OF DIFFERENTIAL EQUATIONS WITH CONSTANT COEFFICIENTS</ct:subtema>
+      <ct:subtema>MINIMUM POLYNOMIALS AND THE CAYLEY-HAMILTON THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Quadratic Forms and Variational Principles">
+  <ct:tema>QUADRATIC FORMS AND VARIATIONAL PRINCIPLES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>A GEOMETRICAL EXAMPLE INVOLVING A QUADRATIC FORM</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>DEFINITE QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>SIMULTANEOUS DIAGONALIZATION OF TWO QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>DESCENT METHODS FOR SOLVING SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>A GEOMETRICAL INTRODUCTION TO RAYLEIGH'S PRINCIPLE</ct:subtema>
+      <ct:subtema>RAYLEIGH'S PRINCIPLE</ct:subtema>
+      <ct:subtema>THE TEMPLE-KATO BRACKETS FOR EIGENVALUE</ct:subtema>
+      <ct:subtema>THE MINIMAX CHARACTERIZATION OF EIGENVALUE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Norms and Error Estimates">
+  <ct:tema>NORMS AND ERROR ESTIMATES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR NORMS</ct:subtema>
+      <ct:subtema>MATRIX NORMS</ct:subtema>
+      <ct:subtema>COMPUTABLE ERROR BOUNDS FOR LINEAR SYSTEMS</ct:subtema>
+      <ct:subtema>NORMS AND THE CONDITION OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>SCALING TO MINIMIZE ||PAQ|| ||Q-1A-1P-1||</ct:subtema>
+      <ct:subtema>COMPUTABLE ERROR BOUNDS FOR EIGENVALUE</ct:subtema>
+      <ct:subtema>ERROR BOUNDS FOR EIGENVALUES AND EIGENVECTORS (CONTINUED)</ct:subtema>
+<ct:subtema>THE CONDITION OF EIGENVALUES AND EIGENVECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abstract Vector Spaces and Linear Transformations">
+  <ct:tema>ABSTRACT VECTOR SPACES AND LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ABSTRACT VECTOR SPACES</ct:subtema>
+      <ct:subtema>ABSTRACT SPACES AND ISOMORPHISM</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>COORDINATES, CHANGE OF BASIS, AND LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>ORTHOGONALITY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

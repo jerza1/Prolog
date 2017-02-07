@@ -1,0 +1,45 @@
+
+1. phrase(oracion,[por,favor,quiero,que,me,muestres,libros,de],Z).
+2. phrase(oracion,[por,favor,dame,los,libros,que,tengan,informacion,sobre,tema],Z).
+3. phrase(oracion,[por,favor,solicito,libros,acerca,de,tema],Z).
+4. phrase(oracion,[por,favor,quiero,los,libros,del,autor],Z). %autor,año,area
+5. phrase(oracion,[disculpa,estoy,buscando,libros,del,autor],Z).%autor,año,area
+6. phrase(oracion,[disculpa,busco,algunos,libros,sobre,tema],Z).
+7. phrase(oracion,[disculpa,podrias,darme,informacion,sobre,titulo],Z).
+8. phrase(oracion,[disculpa,necesito,libros,que,hablen,de,tema],Z).
+9. phrase(oracion,[por,favor,dame,informacion,acerca,de,titulo],Z).
+10. phrase(oracion,[por,favor,quiero,informacion,sobre],Z).
+11. phrase(oracion,[disculpa,quiero,libros,del,autor,],Z).%autor,año,area
+12. phrase(oracion,[disculpa,quiero,un,libro,sobre,tema],Z).
+13. phrase(oracion,[por,favor,ayudame,a,encontrar,un,libro,sobre,tema],Z).
+14. phrase(oracion,[disculpa,necesito,encontrar,libros,del,titulo],Z).%autor,año,area
+15. phrase(oracion,[por,favor,muestrame,todos,los,libros,del,autor],Z).%autor,año,area
+
+1. por favor quiero que me muestres libros de [tema,subtema,titulo,autor,area]
+2. por favor dame los libros que tengan informacion sobre [tema,subtema,titulo,autor,area]
+3. por favor solicito libros acerca de [tema,subtema,titulo,autor,area]
+4. por favor quiero los libros del [autor,año] 
+5. disculpa estoy buscando libros del [autor,año]
+6. disculpa busco algunos libros sobre [tema,subtema,titulo,autor,area]
+7. disculpa podrias darme informacion sobre [tema,subtema,titulo,autor,area]
+8. disculpa necesito libros que hablen de [tema,subtema,titulo,autor,area]
+9. por favor dame informacion acerca de [tema,subtema,titulo,autor,area]
+10. por favor quiero informacion sobre [tema,subtema,titulo,autor,area]
+11. disculpa quiero libros del [autor,año]
+12. disculpa quiero un libro sobre [tema,subtema,titulo,autor,area]
+13. por favor ayudame a encontrar un libro sobre [tema,subtema,titulo,autor,area]
+14. disculpa necesito encontrar libros del [autor,año]
+15. por favor muestrame todos los libros del [autor,año]
+
+
+Ejemplos de busquedas desde la interfaz
+Titulo	2. Por favor dame los libros que tengan informacion sobre linear algebra
+Area	3. Por favor solicito libros acerca de algebra lineal
+Autor	4. Por favor quiero los libros del autor Johnson, Lee W.
+Tema	6. Disculpa busco algunos libros sobre determinantes
+Subtema	8. Disculpa necesito libros que hablen de subespacios
+Titulo	9. Por favor dame informacion acerca de teoria y problemas de algebra lineal y sus aplicac
+Año	    11. Disculpa quiero libros del año 1992
+Tema	13. Por favor ayudame a encontrar un libro sobre métodos numéricos
+Año 	14. Disculpa necesito encontrar libros del año 1986
+Autor	15. Por favor muestrame todos los libros del autor Hoffman, Kenneth

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vector Spaces and Applications">
+  <ct:tema>VECTOR SPACES AND APPLICATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ADDITION AND SCALAR MULTIPLICATION OF VECTORS</ct:subtema>
+      <ct:subtema>PRODUCTS OF VECTORS</ct:subtema>
+      <ct:subtema>SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>LINEAR PROGRAMMING</ct:subtema>
+      <ct:subtema>ABSTRACT VECTOR SPACES</ct:subtema>
+      <ct:subtema>BASES AND DIMENSION</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations and Their Matrices">
+  <ct:tema>LINEAR TRANSFORMATIONS AND THEIR MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>FUNCTIONS</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>RANK AND NULLITY</ct:subtema>
+      <ct:subtema>ALGEBRAIC PROPERTIES OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>MATRICES OF LINEAR TRANSFORMATIONS (THE 2 X 2 CASE)</ct:subtema>
+      <ct:subtema>MATRICES OF LINEAR TRANSFORMATIONS (THE M X N CASE)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+  <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>ALGEBRA DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>ISOMORFISMO</ct:subtema>
+      <ct:subtema>REPRESENTACIÓN DE TRANSFORMACIONES POR MATRICES</ct:subtema>
+      <ct:subtema>FUNCIONES LINEALES</ct:subtema>
+      <ct:subtema>EL DOBLE DUAL</ct:subtema>
+      <ct:subtema>TRANSPUESTA DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Systems of Linear Equations">
+  <ct:tema>SYSTEMS OF LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ROW- AND COLUMN-ECHELON MATRICES</ct:subtema>
+      <ct:subtema>EL ÁLGEBRA DE LOS POLINOMIOS</ct:subtema>
+      <ct:subtema>SYSTEMS EQUATION REVISITED</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants: A Classical Approach">
+  <ct:tema>DETERMINANTS: A CLASSICAL APPROACH</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PERMUTACIONES</ct:subtema>
+      <ct:subtema>DEFINITION OF THE DETERMINANTS</ct:subtema>
+      <ct:subtema>EXPANSION BY MINORS</ct:subtema>
+      <ct:subtema>OTRAS PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+      <ct:subtema>THE PRODUCT THEOREM AND APPLICATIONS OF DET (.)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants: A Nonclassical Approach">
+  <ct:tema>DETERMINANTS: A NONCLASSICAL APPROACH</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION OF DET (.)</ct:subtema>
+      <ct:subtema>CONSEQUENCES OF THE NONCLASSICAL DEFINITION FOR DET</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Structure of Operators">
+  <ct:tema>STRUCTURE OF OPERATORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CHANGE OF BASES</ct:subtema>
+      <ct:subtema>EIGENVALUES OF EIGENVECTORS</ct:subtema>
+      <ct:subtema>DIAGONALIZABLE OPERATORS</ct:subtema>
+      <ct:subtema>THE INNER PRODUCT</ct:subtema>
+      <ct:subtema>UNITARY AND ORTHOGONAL TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>SELF-ADJOINT OPERATORS AND THEIR MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

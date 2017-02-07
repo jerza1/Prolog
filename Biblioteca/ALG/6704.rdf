@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduction">
+  <ct:tema>INTRODUCTION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR MODELS</ct:subtema>
+      <ct:subtema>LINEAR ALGEBRA</ct:subtema>
+      <ct:subtema>LEONTIEF'S INTERINDUSTRY MODEL OF AN ECONOMY</ct:subtema>
+      <ct:subtema>LINEAR PROGRAMMING</ct:subtema>
+      <ct:subtema>GRAPHICAL SOLUTION OF A LINEAR PROGRAMMING PROBLEM IN TWO VARIABLES</ct:subtema>
+      <ct:subtema>REGRESSION ANALYSIS</ct:subtema>
+      <ct:subtema>LINEAR CIRCUIT THEORY</ct:subtema>
+      <ct:subtema>OTHER LINEAR MODELS</ct:subtema>
+      <ct:subtema>THE ROAD AHEAD</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors">
+  <ct:tema>VECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PHYSICAL MOTIVATION FOR THE VECTOR CONCEPT</ct:subtema>
+      <ct:subtema>OPERATIONS WITH VECTORS</ct:subtema>
+      <ct:subtema>THE SCALAR PRODUCT</ct:subtema>
+      <ct:subtema>GENERALIZATION TO HIGHER DIMENSIONS</ct:subtema>
+      <ct:subtema>GENERALIZED VECTOR OPERATIONS</ct:subtema>
+      <ct:subtema>EUCLIDEAN SPACE AND THE SCALAR PRODUCT</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE</ct:subtema>
+      <ct:subtema>THE CONCEPT OF A BASIS</ct:subtema>
+      <ct:subtema>CHANGING A SINGLE VECTOR IN A BASIS</ct:subtema>
+      <ct:subtema>NUMBER OF VECTORS IN A BASIS FOR E^N</ct:subtema>
+      <ct:subtema>ORTHOGONAL BASES</ct:subtema>
+      <ct:subtema>GENERALIZED COORDINATE SYSTEMS</ct:subtema>
+      <ct:subtema>VECTOR SPACES AND SUBSPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices and Determinants">
+  <ct:tema>MATRICES AND DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MATRICES</ct:subtema>
+      <ct:subtema>MATRIX OPERATIONS</ct:subtema>
+      <ct:subtema>MATRIX MULTIPLICATION-INTRODUCTION</ct:subtema>
+      <ct:subtema>MATRIX MULTIPLICATION-FURTHER DEVELOPMENT</ct:subtema>
+      <ct:subtema>VECTORS AND MATRICES</ct:subtema>
+      <ct:subtema>IDENTITY, SCALAR, DIAGONAL, AND NULL MATRICES</ct:subtema>
+      <ct:subtema>THE TRANPOSE</ct:subtema>
+      <ct:subtema>SYMMETRIC AND SKEW-SYMMETRI MATRICES</ct:subtema>
+      <ct:subtema>PARTITIONING OF MATRICES</ct:subtema>
+      <ct:subtema>BASIC NOTION OF A DETERMINANT</ct:subtema>
+      <ct:subtema>GENERAL DEFINITION OF A DETERMINANT</ct:subtema>
+      <ct:subtema>SOME PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>EXPANSION BY COFACTORS</ct:subtema>
+      <ct:subtema>ADDITIONAL PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>LAPLACE EXPANSION</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>DETERMINANT OF THE PRODUCT OF RECTANGULAR MATRICES</ct:subtema>
+      <ct:subtema>THE MATRIX INVERSE</ct:subtema>
+      <ct:subtema>COMPUTATION OF INVERSE BY PARTITIONING</ct:subtema>
+      <ct:subtema>PRODUCT FORM OF THE INVERSE</ct:subtema>
+      <ct:subtema>MATRIX SERIES AND THE LEONTIEF INVERSE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear transformations, rank, and elementary transformations">
+  <ct:tema>LINEAR TRANSFORMATIONS, RANK, AND ELEMENTARY TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>PROPERTIES OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>RANK</ct:subtema>
+      <ct:subtema>RANK AND DETERMINANTS</ct:subtema>
+      <ct:subtema>ELEMENTARY TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>ECHELON MATRICES AND RANK</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Simultaneous linear equations">
+  <ct:tema>SIMULTANEOUS LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>GAUSSIAN ELIMINATION</ct:subtema>
+      <ct:subtema>GRAMER'S RULE</ct:subtema>
+      <ct:subtema>RULES OF RANK</ct:subtema>
+      <ct:subtema>FURTHER PROPERTIES</ct:subtema>
+      <ct:subtema>HOMOGENEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>GEOMETRIC INTERPRETATION</ct:subtema>
+      <ct:subtema>BASIC SOLUTIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="COnvex sets and n-dimensional geometry">
+  <ct:tema>CONVEX SETS AND N-DIMENSIONAL GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>POINT SETS</ct:subtema>
+      <ct:subtema>LINES AND HYPERPLANES</ct:subtema>
+      <ct:subtema>CONVEX SETS</ct:subtema>
+      <ct:subtema>THE CONVEX HULL</ct:subtema>
+      <ct:subtema>THEOREMS ON SEPARATING HYPERPLANES</ct:subtema>
+      <ct:subtema>A BASIC RESULT IN LINEAR PROGRAMMING</ct:subtema>
+      <ct:subtema>CONVEX HULL OF EXTEMEM POINTS</ct:subtema>
+      <ct:subtema>INTRODUCTION TO VONVEX CONES</ct:subtema>
+      <ct:subtema>CONVEX POLYHEDRAL CONES</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS OF REGIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Characteristic values problems and quadratic forms">
+  <ct:tema>CHARACTERISTIC VALUES PROBLEMS AND QUADRATIC FORMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CHARACTERISTIC VALUE PROBLEMS</ct:subtema>
+      <ct:subtema>SIMILARITY</ct:subtema>
+      <ct:subtema>CHARACTERISTIC VALUES PROBLEMS FOR SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>ADDIONAL PROPERTIES OF THE EIGENVECTORS OF A SYMMETRIC MATRIX</ct:subtema>
+      <ct:subtema>DIAGONALIZATION OF SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>CHARACTERISTIC VALUE PROBLEMS FOR NONSYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>QUARATIC FORMS</ct:subtema>
+      <ct:subtema>CHANGE OF VARIABLES</ct:subtema>
+      <ct:subtema>DEFINITE QUEADRATIC FORMS</ct:subtema>
+      <ct:subtema>DIAGONALIZATION BY COMPLETION OF THE SQUARE</ct:subtema>
+      <ct:subtema>ANOTHER SET OF NECESSARY AND SUFFICIENT CONDITIONS FOR POSITIVE AND NEGATIVE DEFINITE FORMS</ct:subtema>
+      <ct:subtema>SIMULTANEOUS DIAGONALIZATION OF TWO QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>GEOMETRIC INTERPRETATION; COORDINATES AND BASES</ct:subtema>
+      <ct:subtema>EQUIVALENCE AND SIMILARITY</ct:subtema>
+      <ct:subtema>ROTATION OF COORDINATES; ORTOGONAL TRANSFORMATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF> 
+ 

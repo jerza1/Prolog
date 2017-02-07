@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vectors and Matrices">
+  <ct:tema>VECTORS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION TO VECTORS</ct:subtema>
+      <ct:subtema>ADDITION AND SCALAR MULTIPLICATION OF VECTORS</ct:subtema>
+      <ct:subtema>INTRODUCTION TO MATRICES</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF MATRICES</ct:subtema>
+      <ct:subtema>AN ANALYSIS OF MATRIX MULTIPLICATION</ct:subtema>
+      <ct:subtema>PROPERTIES OF MATRICES</ct:subtema>
+      <ct:subtema>A POPULATION MOVEMENT MODEL</ct:subtema>
+      <ct:subtema>COMMUNICATION MODEL AND GROUP RELATIONSHIPS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Systems of Linear Equations - A Quantitative Discusion">
+  <ct:tema>SYSTEMS OF LINEAR EQUATIONS - A QUANTITATIVE DISCUSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SYSTEMS OF TWO LINEAR EQUATIONS IN TWO VARIABLES</ct:subtema>
+      <ct:subtema>GENERAL SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>MODELS INVOLVING SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>USE OF PIVOTS</ct:subtema>
+      <ct:subtema>INVERSES OF MATRICES</ct:subtema>
+      <ct:subtema>LEONTIEF INPUT-OUTPUT MODELS IN ECONOMICS</ct:subtema>
+      <ct:subtema>ITERATIVE METHODS FOR LINEAR SYSTEM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector Spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>LINEAR COMBINATIONS OF VECTORS</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE OF VECTORS</ct:subtema>
+      <ct:subtema>BASES</ct:subtema>
+      <ct:subtema>INNER PRODUCTS, NORMS, ANGLES AND DISTANCES</ct:subtema>
+      <ct:subtema>PROJECTIONS AND THE GRAM-SCHMIDT ORTHOGANALIZATION PROCESS</ct:subtema>
+      <ct:subtema>FUNCTIONS SPACES</ct:subtema>
+      <ct:subtema>THE INNER PRODUCT OF SPECIAL RELATIVITY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Mappings">
+  <ct:tema>MAPPINGS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MAPPING DEFINED BY SQUARE MATRICES</ct:subtema>
+      <ct:subtema>LINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>MAPPINGS AND SYSTEMS OF EQUATIONS</ct:subtema>
+      <ct:subtema>MATRIX REPRESENTATIONS OF LINEAR MAPPINGS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION TO DETERMINANTS</ct:subtema>
+      <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>THE EVALUATION OF A DETERMINANT</ct:subtema>
+      <ct:subtema>VECTOR PRODUCTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="System of Linear Equations - A Qualitative Discussion">
+  <ct:tema>SYSTEM OF LINEAR EQUATIONS - A QUALITATIVE DISCUSSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>EXISTENCE AND UNIQUENESS OF SOLUTIONS</ct:subtema>
+      <ct:subtema>CRAMER'S RULE</ct:subtema>
+      <ct:subtema>A FORMULA FOR THE INVERSE OF A MATRIX</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+      <ct:subtema>AN APPLICATION OF EIGENVALUES AND EIGENVECTORS</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS BY ITERATION</ct:subtema>
+      <ct:subtema>SIMILARITY TRANSFORMATIONS - DIAGONALILATION OF SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>COORDINATE TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>NORMAL MODE: OF OSCILLATING SYSTEMS</ct:subtema>
+      <ct:subtema>THE CONCEPT OF A COORDINATE SYSTEM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Programming (Prerequisite - Section2-2)">
+<ct:tema>LINEAR PROGRAMMING (PREREQUISITE - SECTION2-2)</ct:tema>
+<ct:subtema>
+  <rdf:seq>
+      <ct:subtema>SYSTEMS OF LINEAR INEQUALITIES</ct:subtema>
+      <ct:subtema>LINEAR PROGRAMMING A GEOMETRICAL INTRODUCTION</ct:subtema>
+      <ct:subtema>THE SIMPLEX METHOD</ct:subtema>
+      <ct:subtema>GEOMETRICAL EXPLANATION OF THE SIMPLEX METHOD</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Computing">
+  <ct:tema>COMPUTING</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION TO COMPUTING</ct:subtema>
+      <ct:subtema>NTRODUCTION TO BASIC</ct:subtema>
+      <ct:subtema>MATRICES AND VECTORS (SECTION 1-3)</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF A MATRIX BY A SCALAR (SECTION 1-3)</ct:subtema>
+      <ct:subtema>ADDITION OF MATRICES (SECTION 1-3)</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF MATRICES (SECTION 1-4)</ct:subtema>
+      <ct:subtema>SIGNIFICANT FIGURES</ct:subtema>
+      <ct:subtema>PROGRAMS FOR SYSTEMS WITHOUT BUILT-IN MATRIX COMMANDS</ct:subtema>
+      <ct:subtema>ECHELON FORM OF A MATRIX (SECTION 2-2)</ct:subtema>
+      <ct:subtema>INVERSE OF A MATRIX USING GAUSS-JORDAN ELIMINATION (SECTION 2-5)</ct:subtema>
+      <ct:subtema>DETERMINANT (SECTION 5-3)</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS (SECTION 6-7)</ct:subtema>
+      <ct:subtema>SIMPLEX METHOD (SECTION 7-3)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

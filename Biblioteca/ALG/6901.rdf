@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Gaussian elimination">
+  <ct:tema>GAUSSIAN ELIMINATION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>AN EXAMPLE OF GAUSSIAN ELIMINATION</ct:subtema>
+      <ct:subtema>GAUSSIAN ELIMINATION = TRIANGULAR FACTORIZATION</ct:subtema>
+      <ct:subtema>ROW EXCHANGES, INVERSES, AND TRANSPOSES</ct:subtema>
+      <ct:subtema>BAND MATRICES, APPLICATIONS, AND ROUNDDOFF REVIEW EXERCISES</ct:subtema>
+      <ct:subtema>REVIEW EXCERCISES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The theory of simultaneous linear equations">
+  <ct:tema>THE THEORY OF SIMULTANEOUS LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR SPACES AND SUBSPACES</ct:subtema>
+      <ct:subtema>THE SOLUTION OF M EQUATIONS IN N UNKNOWNS</ct:subtema>
+      <ct:subtema>LINEAR INDEPENDENDE, BASIS, AND DIMENSION</ct:subtema>
+      <ct:subtema>THE FOUR FUNDAMENTAL SUBSPACES</ct:subtema>
+      <ct:subtema>ORTHOGONALITY OF VECTORS AND SUBSPACES</ct:subtema>
+      <ct:subtema>PAIRS OF SUBSPACES AND PRODUCTS OF MATRICES </ct:subtema>
+      <ct:subtema>REVIEW EXCERCISES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Orthogonal projections and least squares">
+  <ct:tema>ORTHOGONAL PROJECTIONS AND LEAST SQUARES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INNER PRODUCTS AND PROJECTIONS ONTO LINES</ct:subtema>
+      <ct:subtema>PROJECTIONS ONTO SUBSPACES AND LEAST SQUARES APPROXIMATIONS</ct:subtema>
+      <ct:subtema>ORTHOGONAL BASES, ORTHOGONAL MATRICES, AND GRAM-SCHMIDT ORTHOGONALIZATION</ct:subtema>
+      <ct:subtema>THE PSEUDOINVERSE AND THE SINGULAR VALUE DECOMPOSITION</ct:subtema>
+      <ct:subtema>WEIGHTED LEAST SQUARES</ct:subtema>
+      <ct:subtema>REVIEW EXERCISES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTIONS</ct:subtema>
+      <ct:subtema>THE PROPERTIES OF THE DETERMINANT</ct:subtema>
+      <ct:subtema>FORMULAS FOR THE DETERMINANT</ct:subtema>
+      <ct:subtema>APPLICATIONS OF DETERMINANTS</ct:subtema>
+      <ct:subtema>REVIEW EXCERCISES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues and eigenvectors">
+  <ct:tema>EIGENVALUES AND EIGENVECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>THE DIAGONAL FORM OF A MATRIX</ct:subtema>
+      <ct:subtema>DIFFERENCE EQUATIONS AND THE POWER A^K</ct:subtema>
+      <ct:subtema>DIFFERENTIAL EQUATIONS AND EXPONENTIAL E^AT</ct:subtema>
+      <ct:subtema>THE COMPLEX CASE: HERMITIAN AND UNITARY MATRICES</ct:subtema>
+      <ct:subtema>SIMILARITY TRANSFORMATIONS AND TRIANGULAR FORMS</ct:subtema>
+      <ct:subtema>REVIEW EXERCISES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Positive definite matrices">
+  <ct:tema>POSITIVE DEFINITE MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MINIMA, MAXIMA, AND SADDLE POINTS</ct:subtema>
+      <ct:subtema>TEST FOR POSITIVE DEFINITENESS</ct:subtema>
+      <ct:subtema>SEMIDEFINITE AND INDEFINITE MATRICES; AX = ABX</ct:subtema>
+      <ct:subtema>MINIMUM PRINCIPLES AND RAYLEIGH'S QUOTIENT</ct:subtema>
+      <ct:subtema>THE RAYLEIGH-RITZ PRINCIPLE AND FINITE ELEMENTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Computations with matrices">
+  <ct:tema>COMPUTATIONS WITH MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTIONS</ct:subtema>
+      <ct:subtema>THE NORM AND CONDITION NUMBER OF A MATRIX</ct:subtema>
+      <ct:subtema>THE COMPUTATION OF EIGENVALUES</ct:subtema>
+      <ct:subtema>ITERATIVE METHODS FORAX = B</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear programming and game theory">
+  <ct:tema>LINEAR PROGRAMMING AND GAME THEORY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR INEQUALITIES</ct:subtema>
+      <ct:subtema>THE SIMPLEX METHOD</ct:subtema>
+      <ct:subtema>THE THEORY OF DUALITY</ct:subtema>
+      <ct:subtema>NETWORK MODELS</ct:subtema>
+      <ct:subtema>GAME THEORY AND THE MINIMAX THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix A">
+  <ct:tema>APPENDIX A</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS, AMTRICES, AND CHANGE OF BASIS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix B">
+  <ct:tema>APPENDIX B</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE JORDAN FORM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix C">
+  <ct:tema>APPENDIX C</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>COMPUTER CODES FOR LINER ALGEBRA</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF>

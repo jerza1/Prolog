@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="VECTORS IN Rn AND Cn">
+  <ct:tema>VECTORS IN RN AND CN</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>VECTORS IN RN</ct:subtema>
+      <ct:subtema>VECTOR ADDITION AND SCALAR MULTIPLICATION</ct:subtema>
+      <ct:subtema>DOT PRODUCT</ct:subtema>
+      <ct:subtema>NORM AND DISTANCEIN RN</ct:subtema>
+      <ct:subtema>COMPLEX NUMBERS</ct:subtema>
+      <ct:subtema>VECTORS IN CN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR EQUATIONS">
+  <ct:tema>LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>LINEAR EQUATION</ct:subtema>
+      <ct:subtema>SYSTEM OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>SOLUTION OF A SYSTEM OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>SOLUTION OF A HOMOGENEOUS SYSTEM OF LINEAR EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MATRICES">
+  <ct:tema>MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>MATRICES</ct:subtema>
+      <ct:subtema>MATRIX ADDITION AND SCALAR MULTIPLICATION</ct:subtema>
+      <ct:subtema>MATRIX MULTIPLICATION</ct:subtema>
+      <ct:subtema>TRANSPOSE</ct:subtema>
+      <ct:subtema>MATRICES AND SYSTEMSOF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>ECHELON MATRICES</ct:subtema>
+      <ct:subtema>ROW EQUIVALENCE AND ELEMENTARY ROW OPERATIONS</ct:subtema>
+      <ct:subtema>SQUARE MATRICES</ct:subtema>
+      <ct:subtema>ALGEBRA OF SQUARE MATRICES</ct:subtema>
+      <ct:subtema>INVERTIBLE MATRICES</ct:subtema>
+      <ct:subtema>BLOCK MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES AND SUBSPACE">
+  <ct:tema>VECTOR SPACES AND SUBSPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>EXAMPLES OF VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACE</ct:subtema>
+      <ct:subtema>LINEAR COMBINATIONS, LINEAR SPANS</ct:subtema>
+      <ct:subtema>ROW SPACE OF A MATRIX</ct:subtema>
+      <ct:subtema>SUMS AND DIRECT SUMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="BASIS AND DIMENSION">
+  <ct:tema>BASIS AND DIMENSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>TION LINEAR DEPENDENCE</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>DIMENSION AND SUBSPACES</ct:subtema>
+      <ct:subtema>RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>APPLICATIONS TO LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>COORDINATES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR MAPPINGS">
+  <ct:tema>LINEAR MAPPINGS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MAPPINGS</ct:subtema>
+      <ct:subtema>LINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>KERNEL AND IMAGE OF A LINEAR MAPPING</ct:subtema>
+      <ct:subtema>SINGULAR AND NONSINGULAR MAPPINGS</ct:subtema>
+      <ct:subtema>LINEAR MAPPINGS AND SYSTEM OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>OPERATIONS WITH LINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>ALGEBRA OF LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>INVERTIBLE OPERATORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MATRICES AND LINEAR OPERATORS">
+  <ct:tema>MATRICES AND LINEAR OPERATORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>MATRIX REPRESENTATION OF A LINEAR OPERATOR</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS</ct:subtema>
+      <ct:subtema>SIMILARITY</ct:subtema>
+      <ct:subtema>MATRICES AND LINEAR MAPPINGS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DETERMINANTS">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>PERMUTATIONS</ct:subtema>
+      <ct:subtema>DETERMINANT</ct:subtema>
+      <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>MINORS AND COFACTORS</ct:subtema>
+      <ct:subtema>CLASSICAL ADJOINT</ct:subtema>
+      <ct:subtema>APPLICATIONS TO LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>DETERMINANT OF A LINEAR OPERATOR</ct:subtema>
+      <ct:subtema>MULTILINEARITY AND DETERMINANTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="EIGENVALUES AND EIGENVECTORS">
+  <ct:tema>EIGENVALUES AND EIGENVECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>POLYNOMIALS OF MATRICES AND LINEAR OPERATOS</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS.</ct:subtema>
+      <ct:subtema>DIAGONALIZATION AND EIGENVECTORS</ct:subtema>
+      <ct:subtema>CHARACTERISTIC POLYNOMIAL, CAYLEY-HAMILTON THEOREM</ct:subtema>
+      <ct:subtema>MINIMUM POLYNOMIAL</ct:subtema>
+      <ct:subtema>CHARACTERISTIC AND MINIMUM POLYNOMIALS 01 LINEAR OPERATORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="CANONICAL FORMS">
+  <ct:tema>CANONICAL FORMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>TRIANGULAR FORM</ct:subtema>
+      <ct:subtema>INVARIANCE</ct:subtema>
+      <ct:subtema>INVARIANT DIRECT-SUM DECOMPOSITIONS</ct:subtema>
+      <ct:subtema>PRIMARY DECOMPOSITION</ct:subtema>
+      <ct:subtema>NILPOTENT OPERATORS, JORDAN CANONICAL FORM</ct:subtema>
+      <ct:subtema>CYCLIC SUBSPACES</ct:subtema>
+      <ct:subtema>RATIONAL CUNONICAL FORM</ct:subtema>
+      <ct:subtema>QUOTIENT APACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR FUNCTIONALS AND THE DUAL SPACE">
+  <ct:tema>LINEAR FUNCTIONALS AND THE DUAL SPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>LINEAR FUNCTIONAL AND THE DUAL SPACES</ct:subtema>
+      <ct:subtema>DUAL BASIS</ct:subtema>
+      <ct:subtema>SECOND DUAL SPACE</ct:subtema>
+      <ct:subtema>ANNIHILATORS</ct:subtema>
+      <ct:subtema>TRANSPOSE OF A LINEAR MAPPING</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="BILINEAR, QUADRATIC AND HERMITIAN FORMS">
+  <ct:tema>BILINEAR, QUADRATIC AND HERMITIAN FORMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BILINCAR FORMS</ct:subtema>
+      <ct:subtema>BILINEAR FORMS AND MATRICES</ct:subtema>
+      <ct:subtema>ALTERNATING BILINOAR FORMS</ct:subtema>
+      <ct:subtema>SYMMETRIC BILINEAR FORMS, QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>REAL SYMMETRIC BILINEAR FORMS</ct:subtema>
+      <ct:subtema>LAW OF INERTIA</ct:subtema>
+      <ct:subtema>HERMITINN FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INNER PRODUCT SPACES">
+  <ct:tema>INNER PRODUCT SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>CAUCHY-SCHWARS INEQUALITY</ct:subtema>
+      <ct:subtema>ORTHOGONALITY</ct:subtema>
+      <ct:subtema>ORTHONORMAL SETS</ct:subtema>
+      <ct:subtema>GRAM-SCHMIDT ORTHOGONALXATION PROCESS</ct:subtema>
+      <ct:subtema>LINEAR FUNCTIONALS AND ADJOINT OPERATORS</ct:subtema>
+      <ct:subtema>ANALOGY BETWEEN A(V) AND C, SPECIAL OPERATORS</ct:subtema>
+      <ct:subtema>ORTHOGONAL AND UNITARY OPERATORS</ct:subtema>
+      <ct:subtema>ORTHOGONAL AND UNITARY MATRICES</ct:subtema>
+      <ct:subtema>CHANGE OF ORTHONORMAL BASIS</ct:subtema>
+      <ct:subtema>POSITIVE OPERATORS</ct:subtema>
+      <ct:subtema>DIAGONALIZATION AND CANONICAL FORMS IN EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>DIAGONALIZATION AND CANONICAL FORMS IN UNITARY SPACES</ct:subtema>
+      <ct:subtema>SPECTRAL THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="SETS AND RELATIONS">
+  <ct:tema>SETS AND RELATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SETS ELEMENTS</ct:subtema>
+      <ct:subtema>SETS OPERATIONS</ct:subtema>
+      <ct:subtema>PRODUCT SETS</ct:subtema>
+      <ct:subtema>RELATIONS</ct:subtema>
+      <ct:subtema>EQUIVALENCE RELATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ALGEBRAIC STRUCTURES">
+  <ct:tema>ALGEBRAIC STRUCTURES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>GROUPS</ct:subtema>
+      <ct:subtema>RINGS, INTEGRAL DOMAINS AND FIELDS</ct:subtema>
+      <ct:subtema>MODULES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="POLYNOMIALS OVER A FIELD">
+  <ct:tema>POLYNOMIALS OVER A FIELD</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>RING OF POLYNOMIALS</ct:subtema>
+      <ct:subtema>NOTATION</ct:subtema>
+      <ct:subtema>FACTORIZATION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF> 

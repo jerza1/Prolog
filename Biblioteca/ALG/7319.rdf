@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Ecuaciones lineales">
+  <ct:tema>ECUACIONES LINEALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CUERPOS</ct:subtema>
+      <ct:subtema>SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+      <ct:subtema>MATRICES Y OPERACIONES ELEMENTALES DE FILA</ct:subtema>
+      <ct:subtema>MATRICES ESCALÓN REDUCIDAS POR FILAS</ct:subtema>
+      <ct:subtema>MULTIPLICACIÓN DE MATRICES</ct:subtema>
+      <ct:subtema>MATRICES INVERSIBLES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+  <ct:tema>ESPACIOS VECTORIALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ESPACIOS VECTORIALES</ct:subtema>
+      <ct:subtema>SUBESPACIOS</ct:subtema>
+      <ct:subtema>BASES Y DIMENSIÓN</ct:subtema>
+      <ct:subtema>COORDENADAS</ct:subtema>
+      <ct:subtema>RESUMEN DE EQUIVALENCIA POR FILAS</ct:subtema>
+      <ct:subtema>CÁLCULOS RELATIVOS A SUBESPACIOS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+  <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>ALGEBRA DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>ISOMORFISMO</ct:subtema>
+      <ct:subtema>REPRESENTACIÓN DE TRANSFORMACIONES POR MATRICES</ct:subtema>
+      <ct:subtema>FUNCIONES LINEALES</ct:subtema>
+      <ct:subtema>EL DOBLE DUAL</ct:subtema>
+      <ct:subtema>TRANSPUESTA DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Polinomios">
+  <ct:tema>POLINOMIOS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ALGEBRAS</ct:subtema>
+      <ct:subtema>EL ÁLGEBRA DE LOS POLINOMIOS</ct:subtema>
+      <ct:subtema>INTERPOLACIÓN DE LAGRANGE</ct:subtema>
+      <ct:subtema>IDEALES DE POLINOMIOS</ct:subtema>
+      <ct:subtema>FACTORIZACIÓN PRIMA DE UN POLINOMIO</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+  <ct:tema>DETERMINANTES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ANILLOS CONMUTATIVOS</ct:subtema>
+      <ct:subtema>FUNCIONES DETERMINANTES</ct:subtema>
+      <ct:subtema>PERMUTACIONES Y UNICIDAD DE LOS DETERMINANTES</ct:subtema>
+      <ct:subtema>OTRAS PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+      <ct:subtema>MÓDULOS</ct:subtema>
+      <ct:subtema>FUNCIONES MULTILINEALES</ct:subtema>
+      <ct:subtema>EL ANILLO DE GRASSMAN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas canónicas elementales">
+  <ct:tema>FORMAS CANÓNICAS ELEMENTALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCCIÓN</ct:subtema>
+      <ct:subtema>VALORES PROPIOS</ct:subtema>
+      <ct:subtema>POLINOMIOS ANULADORES</ct:subtema>
+      <ct:subtema>SUBESPACIOS INVARIANTES</ct:subtema>
+      <ct:subtema>TRIANGULACIÓN SIMULTÁNEA; DIAGONALIZACIÓN SIMULTÁNEA</ct:subtema>
+      <ct:subtema>DESCOMPOSICIONES EN SUMA DIRECTA</ct:subtema>
+      <ct:subtema>SUMAS DIRECTAS INVARIANTES</ct:subtema>
+      <ct:subtema>TEOREMA DE DESCOMPOSICIÓN PRIMA</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Las formas racional y de Jordan">
+  <ct:tema>LAS FORMAS RACIONAL Y DE JORDAN</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUBESPACIOS CÍCLICOS Y ANULADORES</ct:subtema>
+      <ct:subtema>DESCOMPOSICIONES CÍCLICAS Y FORMA RACIONAL</ct:subtema>
+      <ct:subtema>LA FORMA DE JORDAN</ct:subtema>
+      <ct:subtema>CÁLCULO DE FACTORES INVARIANTES</ct:subtema>
+      <ct:subtema>RESUMEN: OPERADORES SEMISIMPLES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios con producto interno">
+  <ct:tema>ESPACIOS CON PRODUCTO INTERNO</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PRODUCTOS INTERNOS</ct:subtema>
+      <ct:subtema>ESPACIOS PRODUCTO INTERNO</ct:subtema>
+      <ct:subtema>FUNCIONES LINEALES Y ADJUNTAS</ct:subtema>
+      <ct:subtema>OPERADORES UNITARIOS</ct:subtema>
+      <ct:subtema>OPERADORES NORMALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Operadores sobre espacios producto interno">
+  <ct:tema>OPERADORES SOBRE ESPACIOS PRODUCTO INTERNO</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCCIÓN</ct:subtema>
+      <ct:subtema>FORMAS SOBRE ESPACIOS PRODUCTO INTERN</ct:subtema>
+      <ct:subtema>FORMAS POSITIVAS</ct:subtema>
+      <ct:subtema>MÁS SOBRE FORMAS</ct:subtema>
+      <ct:subtema>TEORÍA ESPECTRAL</ct:subtema>
+      <ct:subtema>OTRAS PROPIEDADES DE LOS OPERADORES NORMALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas bilineales">
+  <ct:tema>FORMAS BILINEALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>FORMAS BILINEALES</ct:subtema>
+      <ct:subtema>FORMAS BILINEALES SIMÉTRICAS</ct:subtema>
+      <ct:subtema>FORMAS BILINEALES ANTISIMÉTRICAS</ct:subtema>
+      <ct:subtema>GRUPOS QUE PRESERVAN LAS FORMAS BILINEALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Apendices">
+  <ct:tema>APENDICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CONJUNTOS</ct:subtema>
+      <ct:subtema>FUNCIONES</ct:subtema>
+      <ct:subtema>RELACIONES DE EQUIVALENCIA</ct:subtema>
+      <ct:subtema>ESPACIOS COCIENTES</ct:subtema>
+      <ct:subtema>RELACIONES DE EQUIVALENCIA EN ALGEBRA LINEAL</ct:subtema>
+      <ct:subtema>EL AXIOMA DE ELECCIÓN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF> 

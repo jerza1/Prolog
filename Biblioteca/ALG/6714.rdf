@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vectores">
+<ct:tema>VECTORES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINICIÓN DE PUNTOS EN EL ESPACIO</ct:subtema>
+        <ct:subtema>VECTORES ANCLADOS</ct:subtema>
+        <ct:subtema>PRODUCTO ESCALAR</ct:subtema>
+        <ct:subtema>LA NORMA DE UN VECTOR</ct:subtema>
+        <ct:subtema>RECTAS PARAMÉTRICAS</ct:subtema>
+        <ct:subtema>PLANOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices y ecuaciones lineales">
+<ct:tema>MATRICES Y ECUACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>MATRICES</ct:subtema>
+        <ct:subtema>MULTIPLIACIÓN DE MATRICES</ct:subtema>
+        <ct:subtema>ECUACIONES LINEALES HOMOGÉNEAS Y ELIMINACIÓN</ct:subtema>
+        <ct:subtema>OPERACIONES POR RENGLONES Y ELIMINACIÓN DE GAUSS</ct:subtema>
+        <ct:subtema>OPERACIONES POR RENGLONES Y MATRICES ELEMENTALES</ct:subtema>
+        <ct:subtema>COMBINACIONES LINEALES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+<ct:tema>ESPACIOS VECTORIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINICIONES</ct:subtema>
+        <ct:subtema>COMBINACIONES LINEALES</ct:subtema>
+        <ct:subtema>CONJUNTOS CONVEXOS</ct:subtema>
+        <ct:subtema>INDEPENDENCIA LINEAL</ct:subtema>
+        <ct:subtema>DIMENSIÓN</ct:subtema>
+        <ct:subtema>EL RANGO DE UNA MATRIZ</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aplicaciones lineales">
+<ct:tema>APLICACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>APLICACIONES LINEALES</ct:subtema>
+        <ct:subtema>EL NÚCLEO Y LA IMAGEN DE UNA APLICACIÓN LINEAL</ct:subtema>
+        <ct:subtema>EL RANGO Y LAS ECUACIONES LINEALES DE NUEVO</ct:subtema>
+        <ct:subtema>LA MATRIZ ASOCIADA CON UNA APLICACIÓN LINEAL</ct:subtema>
+        <ct:subtema>CAMBIO DE BASES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Composición y aplicaciones inversas">
+<ct:tema>COMPOSICIÓN Y APLICACIONES INVERSAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>COMPOSICIÓN DE APLICACIONES LINEALES</ct:subtema>
+        <ct:subtema>INVERSAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Productos escalares y ortogonalidad">
+<ct:tema>PRODUCTOS ESCALARES Y ORTOGONALIDAD</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>PRODUCTOS ESCALARES</ct:subtema>
+        <ct:subtema>BASES ORTOGONALES</ct:subtema>
+        <ct:subtema>APLICACIONES BILINEALES Y MATRICES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DETERMINANTES DE ORDEN 2</ct:subtema>
+        <ct:subtema>DETERMINANTES DE 3 X 3 Y DE N X N</ct:subtema>
+        <ct:subtema>EL RANGO DE UNA MATRIZ Y SUBDETERMINANTES</ct:subtema>
+        <ct:subtema>REGLA DE CRAMER</ct:subtema>
+        <ct:subtema>INVERSAS DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>INTERPRETACIONES DE LOS DETERMINANTES COMO ÁREA Y COMO VOLUMEN</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores propios y valores propios">
+<ct:tema>VECTORES PROPIOS Y VALORES PROPIOS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>VECTORES PROPIOS Y VALORES PROPIOS</ct:subtema>
+        <ct:subtema>EL POLINOMIO CARACTERÍSTICO</ct:subtema>
+        <ct:subtema>VALORES PROPIOS Y VECTORES PROPIOS DE MATRICES SIMÉTRICAS</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN DE UNA APLIACIÓN LINEAL SIMÉTRICA</ct:subtema>
+        <ct:subtema>NÚMEROS COMPLEJOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

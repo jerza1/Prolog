@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTRODUCTORY TOPICS">
+  <ct:tema>INTRODUCTORY TOPICS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>FUNCTIONS</ct:subtema>
+      <ct:subtema>EQUIVALENCE RELATIONS</ct:subtema>
+      <ct:subtema>FIELDS</ct:subtema>
+      <ct:subtema>ELEMENTARY PROPERTIES OF FIELDS</ct:subtema>
+      <ct:subtema>THE REAL AND THE COMPLEX NUMBERS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>DEFINITION AND EXAMPLES OF VECTOR SPACES</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>ISOMORPHISMS OF VECTOR SPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR TRANSFORMATIONS AND MATRICES">
+  <ct:subtema>LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ROW AND COLUMN SPACES. SYSTEMS OF LINEAR EQUATIONS">
+  <ct:subtema>ROW AND COLUMN SPACES. SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>ROW AND COLUMN SPACES</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DETERMINANTS">
+  <ct:subtema>DETERMINANTS</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>PERMUTATIONS</ct:subtema>
+      <ct:subtema>DETERMINANTS</ct:subtema>
+      <ct:subtema>EXPANSION THEOREMS</ct:subtema>
+      <ct:subtema>DETERMINANTAL RANK</ct:subtema>
+      <ct:subtema>THE VANDERMONDE DETERMINANT</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INTRODUCTIONTO EIGENVALUE THEORY">
+  <ct:tema>INTRODUCTIONTO EIGENVALUE THEORY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>AN EXAMPLE</ct:subtema>
+      <ct:subtema>EXTENSION OF THE FIELD</ct:subtema>
+      <ct:subtema>SIMILARITY OF MATRICES</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+      <ct:subtema>DIAGONAL REPRESENTATIONS OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE CAYLEY-HAMILTON THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INNER PRODUCT SPACES">
+  <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>LENGTHS ANGLES AND INNER PRODUCTS IN THREE DIMENSIONS</ct:subtema>
+      <ct:subtema>INNER PRODUCTS IN ABSTRACT VECTOR SPACES</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASIS</ct:subtema>
+      <ct:subtema>ORTHOGONAL COMPLEMENTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR TRANSFORMATIONS ON INNER PRODUCT SPACES">
+  <ct:tema>LINEAR TRANSFORMATIONS ON INNER PRODUCT SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>THE ADJOINT</ct:subtema>
+      <ct:subtema>ORTHOGONAL LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>SYMMETRIC LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE POLAR FACTORIZATION THEOREM</ct:subtema>
+      <ct:subtema>THE CROSS PRODUCT</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF>

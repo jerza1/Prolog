@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduction">
+  <ct:tema>INTRODUCTION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SET NOTATION</ct:subtema>
+      <ct:subtema>REAL NUMBERS, FIEL</ct:subtema>
+      <ct:subtema>SINGLE-VALUED MAPPINGS</ct:subtema>
+      <ct:subtema>PROOFS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors and Analytic Geometry of Space">
+  <ct:tema>VECTORS AND ANALYTIC GEOMETRY OF SPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>COORDINATE SYSTEMS IN SPACE</ct:subtema>
+      <ct:subtema>LINE SEGMENTS IN-SPACE</ct:subtema>
+      <ct:subtema>VECTORS</ct:subtema>
+      <ct:subtema>DEPENDENCE OF VECTORS</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE AND SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>CARTESIAN COORDINATE SYSTEMS; LENGTH AND INNER PRODUCTS OF VECTORS</ct:subtema>
+      <ct:subtema>THE OUTER PRODUCT OF VECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector Spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE VECTOR SPACE VAR) AND REAL VECTOR SPACES</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE AND GENERATORS</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE OF VECTORS AND SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>MATRIX MULTIPLICATION-FURTHER DEVELOPMENT</ct:subtema>
+      <ct:subtema>BASES AND DIMENSION OF VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACES OF VECTOR SPACES</ct:subtema>
+      <ct:subtema>INNER PRODUCTS OF VECTORS IN VN(R)</ct:subtema>
+      <ct:subtema>SYMMETRIC AND SKEW-SYMMETRI MATRICES</ct:subtema>
+      <ct:subtema>DUAL SPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Euclidean n-Space">
+  <ct:tema>EUCLIDEAN N-SPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINES AND COORDINATE SYSTEMS IN EN</ct:subtema>
+      <ct:subtema>PLANES IN EN</ct:subtema>
+      <ct:subtema>DISTANCE IN EUCLIDEAN N-SPACE, EN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>THE UNIQUENESS OF A FOR N = 2 AND 3</ct:subtema>
+      <ct:subtema>PERMUTATIONS AND THE UNIQUENESS OF A FOR ARBITRARY N</ct:subtema>
+      <ct:subtema>CLASSICAL NOTATION AND ELEMENTARY PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>MINORS, COFACTORS, AND THE EVALUATION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>APPLICATIONS OF DETERMINANTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformationsand Matrices">
+  <ct:tema>LINEAR TRANSFORMATIONSAND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>ELEMENTARY PROPERTIES OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>ALGEBRAIC OPERATIONS ON LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+      <ct:subtema>ALGEBRAIC OPERATIONS ON MATRICES</ct:subtema>
+      <ct:subtema>NONSINGULAR LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+      <ct:subtema>NONSINGULAR MATRICES AND CHANGESOF BASESIN VECTOR SPACES</ct:subtema>
+      <ct:subtema>MATRICES OF LINEAR TRANSFORMATIONS WITH RESPECT TO ARBITRARY BASES</ct:subtema>
+      <ct:subtema>SIMILARITY OF MATRICES AND EQUIVALENCE RELATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sets of Linear Transformations and Matrices">
+  <ct:tema>SETS OF LINEAR TRANSFORMATIONS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SOME SPECIAL TYPES OF SQUARE MATRICES AND RELATED LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES. INVERSES</ct:subtema>
+      <ct:subtema>THE RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>APPLICATIONS OF THE CONCEPT OF RANK</ct:subtema>
+      <ct:subtema>GROUPS</ct:subtema>
+      <ct:subtema>ORTHOGONAL GROUP OF LINEAR TRANSFORMATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+ 
+<rdf:Description
+rdf:about="Bilinear and Quadratic Form">
+  <ct:tema>BILINEAR AND QUADRATIC FORM</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BILINEAR MAPPINGS AND FORM</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>EQUIVALENCEOF QUADRATICFORMS; CONGRUENCEOF MATRICES</ct:subtema>
+      <ct:subtema>A GEOMETRIC INTERPRETATION OF EQUIVALENCE OF QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>GEOMETRIC APPLICATIONS OF BILINEAR AND QUADRATIC FORM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Complex Number Field, Polynomial Rings">
+  <ct:tema>COMPLEX NUMBER FIELD, POLYNOMIAL RINGS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE COMPLEX NUMBER FIELD C</ct:subtema>
+      <ct:subtema>UNIQUENESS OF THE COMPLEX NUMBER FIELD C</ct:subtema>
+      <ct:subtema>POLYNOMIAL RINGS</ct:subtema>
+      <ct:subtema>DIVISION ALGORITHM FOR POLYNOMIALS</ct:subtema>
+      <ct:subtema>FACTORIZATION OF POLYNOMIALS</ct:subtema>
+      <ct:subtema>FACTORIZATION OF POLYNOMIALS IN C[X] AND R[X]</ct:subtema>
+      <ct:subtema>THE PRACTICAL DETERMINATION OF ROOTS OF ALGEBRAIC EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Characteristic Values and Vectors of Linear Transformations">
+  <ct:tema>CHARACTERISTIC VALUES AND VECTORS OF LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CHARACTERISTIC VALUES AND VECTORS</ct:subtema>
+      <ct:subtema>SIMILARITY AND DIAGONAL MATRICES</ct:subtema>
+      <ct:subtema>ORTHOGONAL REDUCTION OF SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS AND GENERALIZED QUADRATIC SURFACE</ct:subtema>
+      <ct:subtema>UNITARY AND HERMITIAN MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Similarity of Matrices">
+  <ct:tema>SIMILARITY OF MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>NVARIANT SUBSPACES</ct:subtema>
+      <ct:subtema>CYCLIC SUBSPACES</ct:subtema>
+      <ct:subtema>DIRECT SUMS OF CYCLIC SUBSPACES; INVARIANT FACTORS</ct:subtema>
+      <ct:subtema>JORDAN CANONICAL FORM FOR MATRICES UNDER SIMILARITY</ct:subtema>
+      <ct:subtema>CLASSICAL CANONICAL FORMS FOR MATRICES</ct:subtema>
+      <ct:subtema>CLASSICAL CANONICAL FORMS FOR THE COMPLEX FIELD; HAMILTON-CAYLEY THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF> 

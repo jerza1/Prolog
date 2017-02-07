@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Matrix Algebra">
+  <ct:tema>MATRIX ALGEBRA</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>2 EQUALITY, ADDITION, AND MULTIPLICATION BY A SCALAR</ct:subtema>
+      <ct:subtema>3 THE MULTIPLICATION OF MATRICES</ct:subtema>
+      <ct:subtema>THE INVERSE MATRIX</ct:subtema>
+      <ct:subtema> THE PARTITIONING OF MATRICE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Some Simple Applications of Matrices">
+  <ct:tema>SOME SIMPLE APPLICATIONS OF MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>A PLANE PIN-JOINTED FRAMEWORK</ct:subtema>
+      <ct:subtema>THE APPLICATION OF DIGITAL COMPUTERS TO FRAMEWORK CALCULATIONS</ct:subtema>
+      <ct:subtema>THE METHOD OF LEAST SQUARES</ct:subtema>
+      <ct:subtema>A MARKOV CHAIN EXAMPLE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Simultaneous Linear Equations and Elementary Operations">
+  <ct:tema>SIMULTANEOUS LINEAR EQUATIONS AND ELEMENTARY OPERATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>THE METHODOF SUCCESSIVE ELIMINATION</ct:subtema>
+      <ct:subtema>THE EXISTENCE OF SOLUTIONS FOR A SET OF EQUATIONS</ct:subtema>
+      <ct:subtema>REDUCTION OF A SYSTEM OF EQUATIONS TO A SIMPLIFIED FORM</ct:subtema>
+      <ct:subtema>THE EXISTENCE OF SOLUTIONS FOR A SET OF EQUATION</ct:subtema>
+      <ct:subtema>EQUIVALENCE OF SETS OF EQUATIONS</ct:subtema>
+      <ct:subtema>ELEMENTARY ROW OPERATIONS AND THE ROW-Echelon normal
+form</ct:subtema>
+      <ct:subtema>UNIQUENESS OF THE ROW-ECHELON FORM</ct:subtema>
+      <ct:subtema>THEOREMS ON THE EXISTENCE OF SOLUTIONS FOR A SET OF EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Dependence and Vector Spaces">
+  <ct:tema>LINEAR DEPENDENCE AND VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>GEOMETRICAL VECTORS IN THREE-DIMENSIONAL SPACE</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE AND INDEPENDENCE OF VECTORS</ct:subtema>
+      <ct:subtema>VECTOR SPACE</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>EXAMPLES ON BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>A STANDARD FORM FOR A BASIS</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION (CONTINUED)</ct:subtema>
+      <ct:subtema>LINEAR EQUATIONS WITH AN "INTINITY OF SOLUTIONS"</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Rank and Inverses">
+  <ct:tema>RANK AND INVERSES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>PROPERTIESOF RANK</ct:subtema>
+      <ct:subtema>INVERSESOF M X N MATRICES</ct:subtema>
+      <ct:subtema>RANK AND THE LARGEST NONSINGULAR SUBMATRIX</ct:subtema>
+      <ct:subtema>THE RANK OF THE PRODUCT OF MATRICES</ct:subtema>
+      <ct:subtema>THE GENERALIZED INVERSE OF A MATRI</ct:subtema>
+      <ct:subtema>INVERSION OF MATRICES OF A SPECIAL FORM, AND "TEARING"</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Programming">
+  <ct:tema>LINEAR PROGRAMMING</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>THE SIMPLEX METHOD</ct:subtema>
+      <ct:subtema>THE THEORY OF THE SIMPLEX METHOD</ct:subtema>
+      <ct:subtema>THE SIMPLEX METHOD (CONTINUED)</ct:subtema>
+      <ct:subtema>GRAPHICAL REPRESENTATIONS</ct:subtema>
+      <ct:subtema>CONVEX SETS</ct:subtema>
+      <ct:subtema>DUALITY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants and Square Matrices">
+  <ct:tema>DETERMINANTS AND SQUARE MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>THE DEFINITION OF A DETERMINANT</ct:subtema>
+      <ct:subtema>BASIC PROPERTIES OF DETERMINANTS </ct:subtema>
+      <ct:subtema>DETERMINANTS AND ELEMENTARY ROW OPERATIONS</ct:subtema>
+      <ct:subtema>THE SOLUTION OF LINEAR EQUATIONS BY DETERMINANTS</ct:subtema>
+      <ct:subtema>GAUSSIAN ELIMINATION</ct:subtema>
+      <ct:subtema>TRIANGULAR DECOMPOSITION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+%%%%%%%%%%%%%%%%%%%%
+<rdf:Description
+rdf:about="The Numerical Solution of Simultaneous Linear Equations">
+  <ct:tema>THE NUMERICAL SOLUTION OF SIMULTANEOUS LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>ILL-CONDITIONING</ct:subtema>
+      <ct:subtema>SCALING AND THE RECOGNITION OF ILL-CONDITIONING</ct:subtema>
+      <ct:subtema>NEARLY-SINGULAR MATRICES AND NUMERICAL RANK</ct:subtema>
+      <ct:subtema>ROUNDING AND THE CHOICE OF PIVOTS</ct:subtema>
+      <ct:subtema>CHOICE OF PIVOTS (CONTINUED)</ct:subtema>
+      <ct:subtema>RESIDUALS</ct:subtema>
+      <ct:subtema>THE AVOIDANCE OFILL-CONDITIONING; A LEAST-SQUARES EXAMPLE </ct:subtema>
+      <ct:subtema>A SUMMARY OF THE PRACTICAL PROCEDURE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues and Eigenvactors">
+  <ct:tema>EIGENVALUES AND EIGENVACTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION: A PHYSICAL EXAMPLE</ct:subtema>
+      <ct:subtema>DEFINITIONS AND BASIC PROPERTIES </ct:subtema>
+      <ct:subtema>INNER PRODUCTS AND HERMITIAN MATRICES</ct:subtema>
+      <ct:subtema>ORTHOGONALITY   </ct:subtema>
+      <ct:subtema> ORTHOGONAL EXPANSIONS, WITH AN APPLICATION  TO FORCED VIBRATION</ct:subtema>
+      <ct:subtema>ITERATIVE METHODS FOR CALCULATING EIGENVALUE</ct:subtema>
+      <ct:subtema>THE ITERATIVE SOLUTION OF SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Unitary Transformations">
+  <ct:tema>UNITARY TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>UNITARY MATRICES</ct:subtema>
+      <ct:subtema>GRAM-SCHMIDT ORTHOGONALIZATION</ct:subtema>
+      <ct:subtema>REDUCTION OF A GENERAL SQUARE MATRIX TO TRIANGULAR FORM</ct:subtema>
+      <ct:subtema>REDUCTION OF HERMITIAN MATRICES TO DIAGONAL FORM</ct:subtema>
+      <ct:subtema>THE METHODS OF JACOBI AND GIVENS</ct:subtema>
+      <ct:subtema>A SPECIAL ORTHOGONAL TRANSFORMATION, AND HOUSEHOLDER'S METHOD</ct:subtema>
+      <ct:subtema>BIORTHOGONALITY</ct:subtema>
+      <ct:subtema>SINGULAR VALUES AND SINGULAR VECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Similarity Transformations">
+  <ct:tema>SIMILARITY TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INTRODUCTION</ct:subtema>
+      <ct:subtema>REDUCTION TO DIAGONAL FORM</ct:subtema>
+      <ct:subtema>DEFECTIVE MATRICES</ct:subtema>
+      <ct:subtema>REDUCTION TO TRIANGULAR FORM</ct:subtema>
+      <ct:subtema>NILPOTENT MATRICES</ct:subtema>
+      <ct:subtema>THE JORDAN CANONICAL FORM</ct:subtema>
+      <ct:subtema>SYSTEMS OF DIFFERENTIAL EQUATIONS WITH CONSTANT COEFFICIENTS</ct:subtema>
+      <ct:subtema>MINIMUM POLYNOMIALS AND THE CAYLEY-HAMILTON THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Quadratic Forms and Variational Principles">
+  <ct:tema>QUADRATIC FORMS AND VARIATIONAL PRINCIPLES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>A GEOMETRICAL EXAMPLE INVOLVING A QUADRATIC FORM</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>DEFINITE QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>SIMULTANEOUS DIAGONALIZATION OF TWO QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>DESCENT METHODS FOR SOLVING SIMULTANEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>A GEOMETRICAL INTRODUCTION TO RAYLEIGH'S PRINCIPLE</ct:subtema>
+      <ct:subtema>RAYLEIGH'S PRINCIPLE</ct:subtema>
+      <ct:subtema>THE TEMPLE-KATO BRACKETS FOR EIGENVALUE</ct:subtema>
+      <ct:subtema>THE MINIMAX CHARACTERIZATION OF EIGENVALUE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Norms and Error Estimates">
+  <ct:tema>NORMS AND ERROR ESTIMATES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR NORMS</ct:subtema>
+      <ct:subtema>MATRIX NORMS</ct:subtema>
+      <ct:subtema>COMPUTABLE ERROR BOUNDS FOR LINEAR SYSTEMS</ct:subtema>
+      <ct:subtema>NORMS AND THE CONDITION OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>SCALING TO MINIMIZE ||PAQ|| ||Q-1A-1P-1||</ct:subtema>
+      <ct:subtema>COMPUTABLE ERROR BOUNDS FOR EIGENVALUE</ct:subtema>
+      <ct:subtema>ERROR BOUNDS FOR EIGENVALUES AND EIGENVECTORS (CONTINUED)</ct:subtema>
+<ct:subtema>THE CONDITION OF EIGENVALUES AND EIGENVECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abstract Vector Spaces and Linear Transformations">
+  <ct:tema>ABSTRACT VECTOR SPACES AND LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ABSTRACT VECTOR SPACES</ct:subtema>
+      <ct:subtema>ABSTRACT SPACES AND ISOMORPHISM</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>COORDINATES, CHANGE OF BASIS, AND LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>ORTHOGONALITY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

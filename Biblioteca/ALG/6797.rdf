@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="D.G.O.:Álgebra lineal entera exacta">
+ <ct:tema>D.G.O.:ÁLGEBRA LINEAL ENTERA EXACTA</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>ALGORITMO D.G.O</ct:subtema>
+        <ct:subtema>PRIMERA VERSIÓN</ct:subtema>
+        <ct:subtema>SEGUNDA VERSIÓN</ct:subtema>
+        <ct:subtema>TERCERA VERSIÓN</ct:subtema>
+        <ct:subtema>CUARTA VERSIÓN</ct:subtema>
+        <ct:subtema>VERSIÓN DEFINITIVA</ct:subtema>
+        <ct:subtema>SISTEMAS FRACCIONARIOS</ct:subtema>
+        <ct:subtema>SISTEMAS INESTABLES</ct:subtema>
+        <ct:subtema>APLICACIONES DEL ALGORITMO D.G.O.</ct:subtema>
+        <ct:subtema>EVALUACIÓN DE DETERMINANTES DE MATRICES ENTERAS</ct:subtema>
+        <ct:subtema>INVERSIÓN DE MATRICES ENTERAS</ct:subtema>
+        <ct:subtema>ADJUNTA DE UNA MATRIZ ENTERA</ct:subtema>
+        <ct:subtema>SOLUCIÓN DE ECUACIONES ESPECIALES CON D.G.O.</ct:subtema>
+        <ct:subtema>SOLUCIÓN DE SISTEMAS SIMÉTRICOS</ct:subtema>
+        <ct:subtema>SOLUCIÓN DE SISTEMAS TRIDIAGONALES SIMÉTRICOS</ct:subtema>
+        <ct:subtema>PROBLEMAS DE CUADRADOS MÍNIMOS</ct:subtema>
+        <ct:subtema>CARACTERIZACIÓN DE MATRICES ENTERAS</ct:subtema>
+        <ct:subtema>IDENTIFICACIÓN DE MATRICES DEFINIDAS POSITIVAS</ct:subtema>
+        <ct:subtema>DETERMINACIÓN DEL RANGO DE UNA MATRIZ ENTERA</ct:subtema>
+        <ct:subtema>GENERACIÓN DE MATRICES ENTERAS USANDO D.G.O.</ct:subtema>
+        <ct:subtema>CREAR A CON DETERMINANTE DADO</ct:subtema>
+        <ct:subtema>CREAR A Y A^-1 ENTERAS</ct:subtema>
+        <ct:subtema>CREAR A CON VALORES Y VECTORES PROPIOS ENTEROS</ct:subtema>
+        <ct:subtema>CREAR A SIMÉTRICA CON VALORES Y VECTORES PROPIOS ENTERAS</ct:subtema>
+        <ct:subtema>PROGRAMA DGO.PAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DGL:Inversión matricial exacta in situ">
+ <ct:tema>DGL:INVERSIÓN MATRICIAL EXACTA IN SITU</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>PRODUCTO DIAGONALES</ct:subtema>
+        <ct:subtema>DEMOSTRACIÓN DEL ALGORITMO</ct:subtema>
+        <ct:subtema>PRIMERA PASO</ct:subtema>
+        <ct:subtema>SEGUNDA PASO</ct:subtema>
+        <ct:subtema>TERCERA PASO</ct:subtema>
+        <ct:subtema>CULMINACIÓN</ct:subtema>
+        <ct:subtema>ALGORITMO DGL</ct:subtema>
+        <ct:subtema>PIVOTEO NORMAL</ct:subtema>
+        <ct:subtema>PIVOTEO NORMAL ADICIONAL</ct:subtema>
+        <ct:subtema>ESTRATEGIAS DE PIVOTEO Y SIGNOS DEL DETERMINANTE</ct:subtema>
+        <ct:subtema>PIVOTEO PARCIAL CON INTERCAMBIO DEL DETERMINANTE</ct:subtema>
+        <ct:subtema>PIVOTEO PARCIAL CON INTERCAMBIO SIMULADO DE RENGLONES Y COLUMNAS</ct:subtema>
+        <ct:subtema>PIVOTEO TOTAL CON INTERCAMBIO DE RENGLONES Y COLUMNAS</ct:subtema>
+        <ct:subtema>INVERSIÓN DE MATRICES NO ENTERAS</ct:subtema>
+        <ct:subtema>MULTIPLICAR POR MÚLTIPLOS DE 10</ct:subtema>
+        <ct:subtema>OPERAR CON DECIMALES</ct:subtema>
+        <ct:subtema>INVERSIÓN DE MATRICES INESTABLES</ct:subtema>
+        <ct:subtema>MATRICES SINGULARES</ct:subtema>
+        <ct:subtema>PROGRAMACIÓN DEL ALGORITMO EN TURBO PASCAL</ct:subtema>
+        <ct:subtema>PROGRAMA DGL.PAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Rocío: Sistemas lineales simétricos">
+ <ct:tema>ROCÍO: SISTEMAS LINEALES SIMÉTRICOS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>IDEAS SOBRE EL CONTENIDO DE ESTE CAPÍTULO</ct:subtema>
+        <ct:subtema>MÉTODO DE FACTORIZACIÓN PARA MATRICES SIMÉTRICAS</ct:subtema>
+        <ct:subtema>SOLUCIÓN DE UN SISTEMA DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>EXPRESIONES CON ASIGNACIONES</ct:subtema>
+        <ct:subtema>OPERACIONES POR COLUMNAS</ct:subtema>
+        <ct:subtema>ECUACIONES DENSAS</ct:subtema>
+        <ct:subtema>RECURSO NEMOTÉCNICO PARA LA MODIFICACIÓN DE A Y B</ct:subtema>
+        <ct:subtema>ECUACIONES EN BANDA</ct:subtema>
+        <ct:subtema>AJUSTE DE LOS SUBÍNDICES</ct:subtema>
+        <ct:subtema>ECUACIONES RALAS</ct:subtema>
+        <ct:subtema>MATRICES RALAS EN ANÁLISIS ESTRUCTURAL</ct:subtema>
+        <ct:subtema>FORMA DE LA CARRETILLA</ct:subtema>
+        <ct:subtema>VECTOR DE COEFICIENTE UNIDIMENSIONAL</ct:subtema>
+        <ct:subtema>EJEMPLOS DE APLICACIÓN</ct:subtema>
+        <ct:subtema>SISTEMA EN BANDA</ct:subtema>
+        <ct:subtema>SISTEMA RALO</ct:subtema>
+        <ct:subtema>DETERMINANTES</ct:subtema>
+        <ct:subtema>VARIOS VECTORES INDEPENDIENTES</ct:subtema>
+        <ct:subtema>INVERSIÓN MATRICIAL</ct:subtema>
+        <ct:subtema>INVERSIÓN MATRICIAL POR ITERACIONES</ct:subtema>
+        <ct:subtema>ECUACIONES DE ERROR</ct:subtema>
+        <ct:subtema>ECUACIONES CON ELEMENTOS COMPLEJOS</ct:subtema>
+        <ct:subtema>ECUACIONES SIMÉTRICAS CON NÚMEROS COMPLEJOS</ct:subtema>
+        <ct:subtema>INVERSIÓN DE MATRICES CON ELEMENTOS COMPLEJOS</ct:subtema>
+        <ct:subtema>FORMA COMPACTA DEL ALGORITMO ROCÍO</ct:subtema>
+        <ct:subtema>OPTIMIZACIÓN DE LA ENUMERACIÓN DE LAS VARIABLES</ct:subtema>
+        <ct:subtema>CANTIDAD DE OPERACIONES</ct:subtema>
+        <ct:subtema>PRECISIÓN NUMÉRICA DEL ALGORITMO</ct:subtema>
+        <ct:subtema>PROGRAMACIÓN DEL ALGORITMO EN TURBO PASCAL</ct:subtema>
+        <ct:subtema>UNIDAD U_ROCIO.PAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ANA: Solución de un sistema tridiagonal">
+ <ct:tema>ANA: SOLUCIÓN DE UN SISTEMA TRIDIAGONAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>MÉTODO DE DIFERENCIAS FINITAS</ct:subtema>
+        <ct:subtema>DIFERENCIAS CENTRALES</ct:subtema>
+        <ct:subtema>EXPRESIONES ALGEBRAICA DE LA ECUACIÓN DIFERENCIAL</ct:subtema>
+        <ct:subtema>SOLUCIÓN DEL SISTEMA DE ECUACIONES RESULTANTE</ct:subtema>
+        <ct:subtema>DERIVACIÓN DEL ALGEBRAICA ANA</ct:subtema>
+        <ct:subtema>DEFLEXIONES DE VIGAS</ct:subtema>
+        <ct:subtema>FLECHA CIRCULAR. SOLUCIÓN ANALÍTICA</ct:subtema>
+        <ct:subtema>FLECHA CIRCULAR. SOLUCIÓN NUMÉRICA</ct:subtema>
+        <ct:subtema>VIGA ACARTELADA. SOLUCIÓN ANALÍTICA</ct:subtema>
+        <ct:subtema>VIGA ACARTELADA. SOLUCIÓN NUMÉRICA</ct:subtema>
+        <ct:subtema>PROGRAMACIÓN DEL ALGORITMO</ct:subtema>
+        <ct:subtema>PROGRAMA ANA.BAS EN BASIC</ct:subtema>
+        <ct:subtema>PROGRAMA ANA.PAS EN TURBO PASCAL</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Forma producto, inversión matricial exacta">
+ <ct:tema>FORMA PRODUCTO, INVERSIÓN MATRICIAL EXACTA</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMA PRODUCTO DE LA INVERSA</ct:subtema>
+        <ct:subtema>OBTENCIÓN DE EI+1</ct:subtema>
+        <ct:subtema>ADJUNTA Y DETERMINANTE DE BI+1</ct:subtema>
+        <ct:subtema>FORMA PRODUCTO DE LA INVERSA EXACTA</ct:subtema>
+        <ct:subtema>EJEMPLO PARA UNA MATRIZ DE ORDEN</ct:subtema>
+        <ct:subtema>INVERSIÓN MATRICIAL INICIANDO CON I</ct:subtema>
+        <ct:subtema>OTRA INVERSIÓN MATRICIAL INICIANDO CON I</ct:subtema>
+        <ct:subtema>INVERSIÓN MATRICIAL CON VECTORES BÁSICOS</ct:subtema>
+        <ct:subtema>OTRA INVERSIÓN MATRICIAL CON VECTORES BÁSICOS</ct:subtema>
+        <ct:subtema>INVERSIÓN DE MATRICES CON ELEMENTOS NO ENTEROS</ct:subtema>
+        <ct:subtema>USAR ARITMÉTICA DE PUNTO FLOTANTE</ct:subtema>
+        <ct:subtema>MULTIPLICAR POR POTENCIAS DE 10</ct:subtema>
+        <ct:subtema>MATRICES SINGULARES</ct:subtema>
+        <ct:subtema>UTILIZACIÓN DEL ALGORITMO EN LA PROGRAMACIÓN LINEAL</ct:subtema>
+        <ct:subtema>PROGRAMACIÓN DEL ALGORITMO EN TURBO PASCAL</ct:subtema>
+        <ct:subtema>PROGRAMA INV-PROD.PAS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+</rdf:RDF>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Preliminares">
+<ct:tema>PRELIMINARES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>CONJUNTOS</ct:subtema>
+		<ct:subtema>FUNCIONES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ecuaciones lineales y matriciales">
+<ct:tema>ECUACIONES LINEALES Y MATRICIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+		<ct:subtema>MATRICES: OPERACIONES ENTRE MATRICES</ct:subtema>
+		<ct:subtema>PROPIEDADES ALGEBRAICAS DE LAS OPERACIONES ENTRE MATRUCES</ct:subtema>
+		<ct:subtema>TIPOS ESPECIALES DE MATRICES Y MATRICES PARTICIONADAS</ct:subtema>
+		<ct:subtema>MATRICES NO SINGULARES</ct:subtema>
+		<ct:subtema>FORMA ESCALONADA DE UNA MATRIZ</ct:subtema>
+		<ct:subtema>MATRICES ELEMENTALES</ct:subtema>
+		<ct:subtema>MATRICES EQUIVALENTE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales reales">
+<ct:tema>ESPACIOS VECTORIALES REALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>VECTORES EN EL PLANO</ct:subtema>
+		<ct:subtema>ESPACION VECTORIALES Y SUBESPACIOS</ct:subtema>
+		<ct:subtema>SUBESPACIOS</ct:subtema>
+		<ct:subtema>RECTAS EN R3</ct:subtema>
+		<ct:subtema>INDEPENDENCIA LINEA Y BASES</ct:subtema>
+		<ct:subtema>COORDENADAS E ISOMORFISMO</ct:subtema>
+		<ct:subtema>COORDENADAS</ct:subtema>
+		<ct:subtema>ISOMORFISMO</ct:subtema>
+		<ct:subtema>EL RANFO DE UN MATRIZ</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios con producto interno">
+<ct:tema>ESPACIOS CON PRODUCTO INTERNO</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>EL PRODUCTO INTERNO ESTÁNDAR EN R3</ct:subtema>
+		<ct:subtema>PLANOS</ct:subtema>
+		<ct:subtema>ESPACIOS CON PRODUCTO INTERNO</ct:subtema>
+		<ct:subtema>EL PROCESO DE GRAM-SCHMIDT</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales y matrices">
+<ct:tema>TRANSFORMACIONES LINEALES Y MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>DEFINICIÓN Y EJEMPLOS</ct:subtema>
+		<ct:subtema>EL NÚCLEO Y EL RECORRIDO DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+		<ct:subtema>LA MATRIZ DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+		<ct:subtema>EL ESPACIO VECTORIAL DE LAS MATRICES Y EL ESPACIO VECTORIAL DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+		<ct:subtema>SEMEJANZA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>DEFINICIÓN</ct:subtema>
+		<ct:subtema>PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+		<ct:subtema>DESARROLO POR COFACTORES</ct:subtema>
+		<ct:subtema>LA INVERSA DE UNA MATRIZ</ct:subtema>
+		<ct:subtema>OTRAS APLICACIONES DE LOS DETERMINANTES</ct:subtema>
+		<ct:subtema>DETERMINANTES Y PRODUCTO CRUZ</ct:subtema>
+		<ct:subtema>DETERMINANTES DESDE EL PUNTO DE VISTA DEL CÁCULO</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores y vectores propios">
+<ct:tema>VALORES Y VECTORES PROPIOS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>DIAGONALIZACIÓN </ct:subtema>
+		<ct:subtema>DIAGONALIZACIÓN DE MATRICES SIMETRICAS</ct:subtema>
+		<ct:subtema>FORMAS CUADRATICAS REALES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ecuaciones difereciales">
+<ct:tema>ECUACIONES DIFERECIALES</ct:tema>
+<ct:subtema></ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="sistemas de ecuaciones lineales">
+<ct:tema>SISTEMAS DE ECUACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>APLICACIONES LINEALES</ct:subtema>
+        <ct:subtema>OPERACIONES Y PROPIEDADES. INVERSA</ct:subtema>
+        <ct:subtema>NÚCLEO E IMAGEN</ct:subtema>
+        <ct:subtema>MATRICES Y DETERMINANTES </ct:subtema>
+        <ct:subtema>OPERACIONES CON MATRICES. PROPIEDADES</ct:subtema>
+        <ct:subtema>DETERMINANTES DE UNA MATRIZ. PROPIEDADES</ct:subtema>
+        <ct:subtema>RANGO DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>INVERSA DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRIZ ASOCISADA A UNA APLICACION LINEAL</ct:subtema>
+        <ct:subtema>METODO DE ELIMINACION DE GAUSS</ct:subtema>
+        <ct:subtema>FACTORIZACION DE GAUSS</ct:subtema>
+        <ct:subtema>METODO DE JORDAN-GAUSS PARA EL CÁLCULO DE LA INVERSA</ct:subtema>
+        <ct:subtema>MATRICES DE BANDAS</ct:subtema>
+        <ct:subtema>APROXIMACION A PRBLEMAS DISCRETOS</ct:subtema>
+        <ct:subtema>ESPACIOS FUNDAMENTALES DE UN MATRIZ</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Geometria de un espacio vectorial">
+<ct:tema>GEOMETRIA DE UN ESPACIO VECTORIAL</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>PRODUCTO ESCALAR</ct:subtema>
+        <ct:subtema>NORMA, DISTANCIA Y ÁNGULO</ct:subtema>
+        <ct:subtema>CONCEPTO DE ORTOGONALIDAD</ct:subtema>
+        <ct:subtema>SUBESPACIOS OTOGONALES</ct:subtema>
+        <ct:subtema>PROYECCIÓN ORTOGONAL</ct:subtema>
+        <ct:subtema>PROCESO DE ORTOGONALIZACIÓN DE GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>MATRIZ ORTOGONAL. MATRIZ UNITARIA</ct:subtema>
+        <ct:subtema>METODOS DE LOS MINIMOS CUADRADOS</ct:subtema>
+        <ct:subtema>MATRIZ PSEUDOINVERSA</ct:subtema>
+        <ct:subtema>ESPACIOS DE DIMENSIÓN NO FINITA. ESPACIOS DE FUNCIONES</ct:subtema>
+        <ct:subtema>BASES DE ORTONORMALES</ct:subtema>
+        <ct:subtema>COEFICIENTES DE FOURIER</ct:subtema>
+        <ct:subtema>SERIE DE FOURIER</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Teoria espectral en dimensión finita">
+<ct:tema>TEORIA ESPECTRAL EN DIMENSIÓN FINITA</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>VALORES Y VECTORES PROPIOS</ct:subtema>
+        <ct:subtema>MATRICES SEMEJANTES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRICES SIMETRICAS Y HERMETICAS</ct:subtema>
+        <ct:subtema>MATRICES ANTISIMETRICAS Y ANTIHERMETICAS</ct:subtema>
+        <ct:subtema>MATRICES ORTOGONALES Y UNITARIAS</ct:subtema>
+        <ct:subtema>MATRICES NORMALES</ct:subtema>
+        <ct:subtema>FORMA CANONICA DE JORDAN</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>ECUACIONES EN DIFERENCIAS</ct:subtema>
+        <ct:subtema>LA SUCESIÓN DE FIBONACCI</ct:subtema>
+        <ct:subtema>PROCESOS DE MARKOV</ct:subtema>
+        <ct:subtema>SUCESIONES RECURRENTES</ct:subtema>
+        <ct:subtema>MODELOS ECONÓMICOS DE VON NEUMANN</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS</ct:subtema>
+        <ct:subtema>MÁXIMOS Y MÍNIMOS DE FUNCIONES DE VARIAS VARIABLES</ct:subtema>
+        <ct:subtema>MATRIZ DEFINIDA POSITIVA</ct:subtema>
+        <ct:subtema>MATRIZ DEFINIDA NEGATIVA</ct:subtema>
+        <ct:subtema>MATRIZ INDEFINIDA</ct:subtema>
+        <ct:subtema>SUPERFICIES CUADRÁTICAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones diferenciales">
+<ct:tema>SISTEMAS DE ECUACIONES DIFERENCIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>SISTEMAS DE ECUACIONES DIFERENCIALES</ct:subtema>
+        <ct:subtema>SISTEMAS DE COEFICIENTES CONSTANTES</ct:subtema>
+        <ct:subtema>LA MATRIZ EXPONENCIAL</ct:subtema>
+        <ct:subtema>MÉTODO DE VARIACIÓN DE PARAMETROS</ct:subtema>
+        <ct:subtema>SISTEMAS DE COEFICIENTES VARIABLES</ct:subtema>
+        <ct:subtema>TRANSFORMADA DE LAPLACE</ct:subtema>
+        <ct:subtema>RESOLUCIÓN DE SISTEMAS DE ECUCIONES DIFERENCIALES</ct:subtema>
+        <ct:subtema>TEORIA CUALITATIVA DE LAS ECUCIONES DIFERENCIALES</ct:subtema>
+        <ct:subtema>SOLUCIÓN DE EQUILIBRIO</ct:subtema>
+        <ct:subtema>ESTABILIDAD DE LAS SOLUCIONES</ct:subtema>
+        <ct:subtema>ORIBITA Y PLANO DE FASES</ct:subtema>
+        <ct:subtema>PROPIEDADES CUALITATIVAS DE LAS ORBITAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Programación lineal">
+<ct:tema>PROGRAMACIÓN LINEAL</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>DESIGUALDAD LINEAL</ct:subtema>
+        <ct:subtema>CONJUNTO FACTIBLES, FUNCIÓN OBJETIVO Y SOLUCIÓN ÓPTIMA</ct:subtema>
+        <ct:subtema>RESOLUCIÓN GEOMETRICA</ct:subtema>
+        <ct:subtema>EL PROBLE DUAL</ct:subtema>
+        <ct:subtema>EL METODO SIMPLEX</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

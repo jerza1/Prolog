@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas lineales">
+ <ct:tema>SISTEMAS LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LOS SISTEMAS LINEALES</ct:subtema>
+        <ct:subtema>ELIMINACIÓN DE GAUSS</ct:subtema>
+        <ct:subtema>SOLUCIONES NUMÉRICAS</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores">
+ <ct:tema>VECTORES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>OPERACIONES VECTORIALES</ct:subtema>
+        <ct:subtema>PRODUCTO PUNTO</ct:subtema>
+        <ct:subtema>ESPACIO GENERADO POR UN CONJUNTO DE VECTORES</ct:subtema>
+        <ct:subtema>INDEPENDENCIA LINEAL</ct:subtema>
+        <ct:subtema>EL PRODUCTO AX</ct:subtema>
+        <ct:subtema>EL PRODUCTO CRUZ</ct:subtema>
+        <ct:subtema>LÍNEAS, PLANOS E HIPERPLANOS</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices">
+ <ct:tema>MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>OPERACIONES MATRICIALES</ct:subtema>
+        <ct:subtema>MATRIZ INVERSA</ct:subtema>
+        <ct:subtema>MATRICES ELEMENTALES E INVERTIBLES</ct:subtema>
+        <ct:subtema>FACTORIZACIÓN LU</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+ <ct:tema>ESPACIOS VECTORIALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>SUBESPACIOS DE R^N</ct:subtema>
+        <ct:subtema>ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>INDEPENDENCIA LINEAL Y BASES</ct:subtema>
+        <ct:subtema>DIMENSIÓN</ct:subtema>
+        <ct:subtema>VECTORES DE COORDENADAS Y CAMBIO DE BASE</ct:subtema>
+        <ct:subtema>RANGO Y NULIDAD</ct:subtema>
+        <ct:subtema>APLICACIONES A LA TEORÍA DE CODIFICACIÓN</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+ <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>TRANSFORMACIONES MATRICIALES</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>NÚCLEO Y CONTRADOMINIO</ct:subtema>
+        <ct:subtema>LA MATRIZ DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+        <ct:subtema>EL ÁLGEBRA DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+ <ct:tema>DETERMINANTES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>DETERMINANTES Y DESARROLLO CON COFACTORES</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+        <ct:subtema>LA ADJUNTA: LA REGLA DE CRAMER</ct:subtema>
+        <ct:subtema>DETERMINANTES CON PERMUTACIONES</ct:subtema>
+        <ct:subtema>APLICACIONES</ct:subtema>
+        <ct:subtema>MINIPROYECTOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalores y eigenvectores">
+ <ct:tema>EIGENVALORES Y EIGENVECTORES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>EIGENVALORES Y EIGENVECTORES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>APROXIMACIONES DE EIGENVALORES Y EIGENVECTORES</ct:subtema>
+        <ct:subtema>APLICACIONES A SISTEMAS DINÁMICOS</ct:subtema>
+        <ct:subtema>APLICACIONES A LAS CADENAS DE MARKOV</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Productos punto e interno">
+ <ct:tema>PRODUCTOS PUNTO E INTERNO</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>CONJUNTOS ORTOGONALES Y MATRICES</ct:subtema>
+        <ct:subtema>PROYECCIONES ORTOGONALES: PROCESO DE GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>LA FACTORIZACIÓN QR</ct:subtema>
+        <ct:subtema>MÍNIMOS CUADRADOS</ct:subtema>
+        <ct:subtema>ORTOGONALIZACIÓN DE MATRICES SIMÉTRICAS</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS Y SECCIONES CÓNICAS</ct:subtema>
+        <ct:subtema>LA DESCOMPOSICIÓN EN VALORES SINGULARES (SVD)</ct:subtema>
+        <ct:subtema>PRODUCTOS INTERNOS</ct:subtema>
+        <ct:subtema>APLICACIONES Y TEMAS ADICIONALES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

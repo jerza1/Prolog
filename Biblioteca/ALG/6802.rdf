@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vector Spaces">
+ <ct:tema>VECTOR SPACES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>VECTOR SPACES</ct:subtema>
+        <ct:subtema>SUBSPACES</ct:subtema>
+        <ct:subtema>LINEAR COMBINATIONS AND SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+        <ct:subtema>LINEAR DEPENDENCE AND LINEAR INDEPENDENCE</ct:subtema>
+        <ct:subtema>BASES AND DIMENSION</ct:subtema>
+        <ct:subtema>MAXIMAL LINEARLY INDEPENDENCE SUBSETS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations and Matrices">
+ <ct:tema>LINEAR TRANSFORMATIONS AND MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>LINEAR TRANSFORMATIONS, NULL SPACES, AND RANGES</ct:subtema>
+        <ct:subtema>THE MATRIX REPRESENTATION OF A LINEAR TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>COMPOSITION OF LINEAR TRANSFORMATIONS AND MATRIX MULTIPLICATION</ct:subtema>
+        <ct:subtema>INVERTIBILITY AND ISOMORPHISMS</ct:subtema>
+        <ct:subtema>THE CHANGE OF COORDINATE MATRIX</ct:subtema>
+        <ct:subtema>DUAL SPACES</ct:subtema>
+        <ct:subtema>HOMOGENEOUS LINEAR DIFFERENTIAL EQUATIONS WITH CONSTANT COEFFICIENTS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Elementary Matrix Operations and Systems of Linear Equations ">
+ <ct:tema>ELEMENTARY MATRIX OPERATIONS AND SYSTEMS OF LINEAR EQUATIONS </ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>ELEMENTARY MATRIX OPERATIONS AND ELEMENTARY MATRICES</ct:subtema>
+        <ct:subtema>THE RANL OF A MATRIX AND MATRIX INVERSES</ct:subtema>
+        <ct:subtema>SYSTEMS OF LINEAR EQUATIONS - THEORETICAL ASPECTS</ct:subtema>
+        <ct:subtema>SYSTEMS OF LINEAR EQUATIONS - COMPUTATIONAL ASPECTS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>Systems of Linear Equations
+
+<rdf:Description
+rdf:about="Determinants">
+ <ct:tema>DETERMINANTS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DETERMINANTS OF ORDER 2</ct:subtema>
+        <ct:subtema>DETERMINANTS OF ORDER N</ct:subtema>
+        <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+        <ct:subtema>SUMMARY - IMPORTANT FACTS ABOUT. DETERMINANTS</ct:subtema>
+        <ct:subtema>A CHARACTERIZATION OF THE DETERMINANT</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Diagonalization">
+ <ct:tema>DIAGONALIZATION</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+        <ct:subtema>DIAGONALIZABILITY</ct:subtema>
+        <ct:subtema>MATRIX LIMITS AND MARKOV CHAINS</ct:subtema>
+        <ct:subtema>INVARIANT SUBSPACES AND THE CAYLEY-HAMILTON THEOREM</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inner Product Spaces">
+ <ct:tema>INNER PRODUCT SPACES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INNER PRODUCT NORMS</ct:subtema>
+        <ct:subtema>THE GRAM-SCHMIDT ORTHOGONALIZATION PROCESS AND ORTHOGONAL COMPLEMENTS</ct:subtema>
+        <ct:subtema>THE ADJOINT OF A LINEAR OPERATOR</ct:subtema>
+        <ct:subtema>NORMAL AND SELF-ADJOINT OPERATORS</ct:subtema>
+        <ct:subtema>UNITARY AND ORTHOGONAL OPERATORS AND THEIR MATRICES</ct:subtema>
+        <ct:subtema>ORTHOGONAL PROJECTIONS AND THE SPECTRAL THEOREM</ct:subtema>
+        <ct:subtema>BILINEAR AND QUADRATIC FORMS</ct:subtema>
+        <ct:subtema>EINSTEIN´S SPECIAL THEORY OF RELATIVITY</ct:subtema>
+        <ct:subtema>CONDITIONING AND THE RAYLEIGH QUOTIENT</ct:subtema>
+        <ct:subtema>THE GEOMETRY OF ORTHOGONAL OPERATORS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Canonical Forms">
+ <ct:tema>CANONICAL FORMS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>JORDAN CANONICAL FORM I</ct:subtema>
+        <ct:subtema>JORDAN CANONICAL FORM II</ct:subtema>
+        <ct:subtema>THE MINIMAL POLYNOMIAL</ct:subtema>
+        <ct:subtema>RATIONAL CANONICAL FORM</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendices">
+ <ct:tema>APPENDICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>SETS</ct:subtema>
+        <ct:subtema>FUNCTIONS</ct:subtema>
+        <ct:subtema>FIELDS</ct:subtema>
+        <ct:subtema>COMPLEX NUMBERS</ct:subtema>
+        <ct:subtema>POLYNOMIALS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

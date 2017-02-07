@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Systems of linear equations">
+<ct:tema>SYSTEMS OF LINEAR EQUATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>EQUIVALENT SYSTEMS OF EQUATIONS</ct:subtema>
+        <ct:subtema>VIGNETTE: BACK TO BASICS</ct:subtema>
+        <ct:subtema>FINDING THE SOLUTION SET</ct:subtema>
+        <ct:subtema>VIGNETTE: ROUGH APPROXIMATIONS CAN BECOME LUMPY</ct:subtema>
+        <ct:subtema>ROW ECHELEON FORM</ct:subtema>
+        <ct:subtema>VIGNETTE: KIRCHHOFF´S LAWS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The solution set for a linear system">
+<ct:tema>THE SOLUTION SET FOR A LINEAR SYSTEM</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>VECTORS IN R^N</ct:subtema>
+        <ct:subtema>VIGNETTE: A GEOMTRIC PROOF</ct:subtema>
+        <ct:subtema>DOT PRODUCTS AND PROJECTIONS</ct:subtema>
+        <ct:subtema>VIGNETTE: WHO NEEDS N DIMENSIONS?</ct:subtema>
+        <ct:subtema>SUBSPACES OF R^N</ct:subtema>
+        <ct:subtema>VIGNETTE: A BALANCING ACT</ct:subtema>
+        <ct:subtema>MULTIPLICATION OF MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: PETRIFIED MATRICES</ct:subtema>
+        <ct:subtema>THE ALGEBRA MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: INFORMATION PLEASE</ct:subtema>
+        <ct:subtema>VIGNETTE: NOT THE ONLY WAY TO FLY</ct:subtema>
+        <ct:subtema>THE INVERSE OF A MATRIX</ct:subtema>
+        <ct:subtema>VIGNETTE: GIVING YOU A LINE</ct:subtema>
+        <ct:subtema>DESCRIBING THE SOLUTION SET</ct:subtema>
+        <ct:subtema>VIGNETTE: TRANSPORTATION PROBLEMS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+<ct:tema>DETERMINANTS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>THE DEFINITION</ct:subtema>
+        <ct:subtema>VIGNETTE: EVEN AND ODD PERMUTATIONS</ct:subtema>
+        <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+        <ct:subtema>VIGNETTE: AN APPLICATION TO RANKS</ct:subtema>
+        <ct:subtema>APPLICATIONS</ct:subtema>
+        <ct:subtema>VIGNETTE: LEST WE FORGET</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors and vector spaces">
+<ct:tema>VECTORS AND VECTOR SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>VECTORS SPACES</ct:subtema>
+        <ct:subtema>VIGNETTE: ROOM FOR IMAGINATION</ct:subtema>
+        <ct:subtema>VIGNETTE: SOME SIGNIFICANT OBSERVATIONS</ct:subtema>
+        <ct:subtema>THE SPAN OF A SET</ct:subtema>
+        <ct:subtema>VIGNETTE: BARYCENTRIC COORDINATES</ct:subtema>
+        <ct:subtema>BASES AND THE DIMENSION OF A SPACE</ct:subtema>
+        <ct:subtema>VIGNETTE: SIMPSON´S RULE</ct:subtema>
+        <ct:subtema>COORDINATES AND BASES</ct:subtema>
+        <ct:subtema>VIGNETTE: THE CORRECT BASIS CAN MAKE IT CRYSTAL CLEAR</ct:subtema>
+        <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+        <ct:subtema>VIGNETTE: BOXED IN WITH THE CBS INEQUALITY</ct:subtema>
+        <ct:subtema>ORTHONORMAL SETS</ct:subtema>
+        <ct:subtema>VIGNETTE: A STEP TOWARD FOURIER SERIES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear transformations">
+<ct:tema>LINEAR TRANSFORMATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>DEFINITIONS</ct:subtema>
+        <ct:subtema>VIGNETTE: TRANSFORMED AREAS</ct:subtema>
+        <ct:subtema>MATRIX REPRESENTATIONS OF LINEAR TRANSFORMATION</ct:subtema>
+        <ct:subtema>VIGNETTE: THE DERIVATIVE AS A LINEAR</ct:subtema>
+        <ct:subtema>TRANSFORMATION</ct:subtema>
+        <ct:subtema>CHANGE OF BASIS</ct:subtema>
+        <ct:subtema>VIGNETTE: STANDARD BUT NOT BEST</ct:subtema>
+        <ct:subtema>THE NULL SPACE AND THE RANGE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Square matrices">
+<ct:tema>SQUARE MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+        <ct:subtema>VIGNETTE: A METHOD THAT ALLOWS MISTAKES</ct:subtema>
+        <ct:subtema>DIAGONALIZATION OF SYMMETRIC MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: SECOND DERIVATIVES AND SYMETRIC MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: CHIPPING AWAY; A METHOD WITH POWERS</ct:subtema>
+        <ct:subtema>QUADRATIC FORMS</ct:subtema>
+        <ct:subtema>VIGNETTE: FACTORING SECOND DEGREE POLYNOMIALS</ct:subtema>
+        <ct:subtema>POSITIVE MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: MINIMUMS FOR FUNCTIONS OF SEVERAL VARIABLES</ct:subtema>
+        <ct:subtema>NONSYMMETRIC MATRICES</ct:subtema>
+        <ct:subtema>VIGNETTE: THE FIBONACCI SEQUENCE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Programming">
+<ct:tema>LINEAR PROGRAMMING</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>GEOMETRIC APPROACH</ct:subtema>
+        <ct:subtema>EXTREME POINTS</ct:subtema>
+        <ct:subtema>THE SIMPLEX METHOD, PASHE II</ct:subtema>
+        <ct:subtema>THE SIMPLEX METHOD, PASHE I</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Markov chains">
+<ct:tema>MARKOV CHAINS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>THE POWERS OF THE TRANSITION MATRIX</ct:subtema>
+        <ct:subtema>REGULAR MARKOV CHAINS</ct:subtema>
+        <ct:subtema>ABSORBING MARKOV CHAINS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Differential equations">
+<ct:tema>DIFFERENTIAL EQUATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+        <ct:subtema>LINEAR HOMOGENEOUS DIFFERENTIAL EQUATIONS WITH CONSTANT COEFFICIENTS</ct:subtema>
+        <ct:subtema>A BASIS FOR THE SOLUTION SPACE</ct:subtema>
+        <ct:subtema>THE NONHOMOGENEOUS CASE</ct:subtema>
+        <ct:subtema>SYSTEMS OF LINEAR DIFFERENTIAL EQUATIONS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

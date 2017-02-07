@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Coordinate Geometry of the Plane">
+  <ct:tema>COORDINATE GEOMETRY OF THE PLANE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINE SEGMENTSIN THE PLANE</ct:subtema>
+      <ct:subtema>POSITION-RATIO OF A POINT ON A LINE</ct:subtema>
+      <ct:subtema>ANGLE BETWEEN TWO LINES</ct:subtema>
+      <ct:subtema>THE DIRECTION-RATIOS OF A LINE</ct:subtema>
+      <ct:subtema>THE INTERSECTION OF TWO LINES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors In Two Dimensions">
+  <ct:tema>VECTORS IN TWO DIMENSIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DIRECTED LINE SEGMENTSAND VECTOR</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE OF VECTORS</ct:subtema>
+      <ct:subtema>THE INNER PRODUCT OF TWO VECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Coordinate Geometry of Three Dimension">
+  <ct:tema>COORDINATE GEOMETRY OF THREE DIMENSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE AXES, AND LINES THROUGH THE ORIGIN</ct:subtema>
+      <ct:subtema>ANGLE BETWEEN TWOLINE</ct:subtema>
+      <ct:subtema>LINE SEGMENTS IN SPAC</ct:subtema>
+      <ct:subtema>POSITION-RATIOOF A POINT ON A LIN</ct:subtema>
+      <ct:subtema>THE EQUATION OF A PLAN</ct:subtema>
+      <ct:subtema>PLANES AND LINES</ct:subtema>
+      <ct:subtema>THE INTERSECTIONOF TWO PLANE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectorsin Three Dimension">
+  <ct:tema>VECTORSIN THREE DIMENSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTORSAND LINEAR DEPENDENCE</ct:subtema>
+      <ct:subtema>DETERMINANTS OF ORDERS 2 AND 3</ct:subtema>
+      <ct:subtema>VANISHING DETERMINANTS</ct:subtema>
+      <ct:subtema>THE INNER PRODUCT OF TWO VECTORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Equations with a Unique Solution">
+  <ct:tema>LINEAR EQUATIONS WITH A UNIQUE SOLUTION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>REGULAR SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>REGULAR SYSTEMS,THE GENERAL CASE</ct:subtema>
+      <ct:subtema>DEDUCTIONSFROM THE THEOREMSON REGULAR SYSTEMS</ct:subtema>
+      <ct:subtema>THE NOTION OF A BASIS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector Spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTORS AND VECTOR SPACE</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCEAND GENERATORS</ct:subtema>
+      <ct:subtema>THE ECHELON FORM</ct:subtema>
+      <ct:subtema>INTERSECTIONS AND JOINS OF SUBSPACE</ct:subtema>
+      <ct:subtema>THE INNER PRODUCT OF TWO VECTOR</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices">
+  <ct:tema>MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITIONS</ct:subtema>
+      <ct:subtema>REGULARITY AND INVERSE MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+ 
+<rdf:Description
+rdf:about="The Concept of Rank">
+  <ct:tema>THE CONCEPT OF RANK</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>PROPERTIES INVOLVING THE RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>HOMOGENEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>NON-HOMOGENEOUS LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>DETERMINANTS OF ORDER N</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear MappingsandMatrice">
+  <ct:tema>LINEAR MAPPINGSANDMATRICE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>LINEARMAPPINGS AND MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

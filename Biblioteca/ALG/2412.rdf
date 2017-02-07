@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Programación lineal">
+ <ct:tema>PROGRAMACIÓN LINEAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+		<ct:subtema>CONJUNTOS CONVEXOS Y DESIGUALDADES LINEALES</ct:subtema>
+		<ct:subtema>PROGRAMACIÓN LINEAL: MÉTODO DEL PUNTO DE ESQUINA</ct:subtema>
+		<ct:subtema>VARIABLES DE HOLGURA</ct:subtema>
+		<ct:subtema>MÉTODO SIMPLEX I: PROBLEMA ESTANDAR DE MAXIMACIÓN</ct:subtema>
+		<ct:subtema>MÉTODO SIMPLEX II: PROBLEMA DE MÍNIMO DUAL</ct:subtema>
+		<ct:subtema>RESEÑA SOBRE GEORGE DANTZING Y LA HISTORIA (Y EL FUTURO) DE LA PROGRAMACIÓN LINEAL</ct:subtema>
+		<ct:subtema>MÉTODO SIMPLEX III: BUSQUEDA DE UN SOLUCIÓN FACTIBLE</ct:subtema>
+	 </rdf:seq>
+	</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cadenas de Markov y teoría de juegos">
+ <ct:tema>CADENAS DE MARKOV Y TEORÍA DE JUEGOS</ct:tema>
+ <ct:subtema>
+	<rdf:seq>
+		<ct:subtema>JUEGOS DE DOS PARTICIPANTES: ESTRATEGIAS PURAS</ct:subtema>
+		<ct:subtema>JUEGOS DE DOS PARTICIPANTES: ESTRATEGIAS MIXTAS</ct:subtema>
+		<ct:subtema>JUEGOS MATRICIALES Y PROGRAMACIÓN LINEAL (OPTATIVO)</ct:subtema>
+		<ct:subtema>CADENAS DE MARKOV</ct:subtema>
+		<ct:subtema>CADENAS DE MARKOV ABSORBENTES</ct:subtema>
+		<ct:subtema>DOS APLICACIONES DE CADENAS DE MARKOV: TEORÍA DE COLAS Y UN MODELO EN PSICOLOGÍA</ct:subtema>
+ 	</rdf:seq>
+ </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

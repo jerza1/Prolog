@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Algebra matricial">
+<ct:tema>ALGEBRA MATRICIAL</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>IGUALDAD, SUMA Y MULTIPLICACIÓN POR UN ESCALAR</ct:subtema>
+        <ct:subtema>MULTIPLICACIÓN DE MATRICES</ct:subtema>
+        <ct:subtema>INVERSA DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRICES SEPARADAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Algunas aplicaciones simples y preguntas">
+<ct:tema>ALGUNAS APLICACIONES SIMPLES Y PREGUNTAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>COMPETENCIA ENTRE NEGOCIOS: CADENAS MARKOV</ct:subtema>
+        <ct:subtema>CRECIMIENTO DE LA POBLACIÓN:POTENCIAS DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>EQUILIBRIO EN REDES: ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>SISTEMAS OSCILATORIOS: EIGEN VALORES</ct:subtema>
+        <ct:subtema>MODELOS GENERALES: MÍNIMOS CUADRADOS</ct:subtema>
+        <ct:subtema>PLANEACIÓN DE PRODUCCIÓN: PROGRAMAS LINEALES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Solucion de ecuaciones de calculo de inversas: metodos">
+<ct:tema>SOLUCION DE ECUACIONES DE CALCULO DE INVERSAS: METODOS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>SOLUCION DE ECUACIONES MEDIANTE LA ELIMINACIÓN DE GAUSS</ct:subtema>
+        <ct:subtema>EXISTENCIA DE SOLUCIONES A SISTEMAS DE ECUACIONES: ALGUNOS EJEMPLOS Y PROCEDIMIENTOS</ct:subtema>
+        <ct:subtema>COMO ENCONTRAR UNA INVERSA MEDIANTE LA ELIMINACIÓN DE GAUSS</ct:subtema>
+        <ct:subtema>OPERACIONES DE RENGLÓN Y MATRICES ELEMENTALES</ct:subtema>
+        <ct:subtema>SELECCIÓN DE PIVOTES Y ELIMINACIÓN DE GAUSS EN LA PRÁCTICA</ct:subtema>
+        <ct:subtema>LA DESCOMPOSICIÓN LU</ct:subtema>
+        <ct:subtema>MEDIDAS DE TRABAJO Y SOLUCION DE SISTEMAS LIGERAMENTE MODIFICADOS</ct:subtema>
+        <ct:subtema>PROGRAMAS COMPUTACIONALES PARA LA ELIMINACIÓN DE GAUSS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Solucion de ecuaciones y calculo de inversas: teoria">
+<ct:tema>SOLUCION DE ECUACIONES Y CALCULO DE INVERSAS: TEORIA</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMA REDUCIDA DE GAUSS Y RANGO</ct:subtema>
+        <ct:subtema>POSIBILIDAD DE SOLUCION Y CONJUNTOS DE SOLUCIONES PARA SISTEMAS DE ECUACIONES</ct:subtema>
+        <ct:subtema>INVERSA Y RANGO</ct:subtema>
+        <ct:subtema>DETERMINANTES Y SUS PROPIEDADES</ct:subtema>
+        <ct:subtema>REPRESENTACIÓN DE INVERSAS Y SOLUCIONES MEDIANTE EL USO DE DETERMINANTES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores y espacios vectoriales">
+<ct:tema>VECTORES Y ESPACIOS VECTORIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN; VECTORES GEOMÉTRICOS</ct:subtema>
+        <ct:subtema>CONCEPTO GENERAL DE ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>DEPENDENCIA LINEAL E INDEPENDENCIA LINEAL</ct:subtema>
+        <ct:subtema>BASE, DIMENSIÓN Y COORDENADAS</ct:subtema>
+        <ct:subtema>BASES Y MATRICES</ct:subtema>
+        <ct:subtema>LONGITUD Y DISTANCIA EN ESPACIOS VECTORIALES: NORMAS</ct:subtema>
+        <ct:subtema>ANGULO EN LOS ESPACIOS VECTORIALES: PRODUCTOS INTERIORES</ct:subtema>
+        <ct:subtema>PROYECCIONES ORTOGONALES Y BASES: ESPACIOS GENERALES Y GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>PROYECCIONES ORTOGONALES Y BASES: R^P, C^P, QR Y MINIMOS CUADRADOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales y matrices">
+<ct:tema>TRANSFORMACIONES LINEALES Y MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN; TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>REPRESENTACIONES MATRICIALES DE TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>NORMAS DE TRANSFORMACIONES LINEALES Y MATRICES</ct:subtema>
+        <ct:subtema>INVERSAS DE MATRICES PERTURBADAS: CONDICIÓN DE ECUACIONES LINEALES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalores y eigenvectores: una panoramica">
+<ct:tema>EIGENVALORES Y EIGENVECTORES: UNA PANORAMICA</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>DEFINICIÓN Y PROPIEDADES BASICAS</ct:subtema>
+        <ct:subtema>EIGENSISTEMAS, FACTORIZACIONES Y REPRESENTACIONES DE TRANSFORMACIONES</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES DE SEMEJANZA: FORMA DE JORDAN</ct:subtema>
+        <ct:subtema>MATRICES UNITARIAS Y SEMEJANZA UNITARIA: FORMA DE SCHUR Y DIAGONAL</ct:subtema>
+        <ct:subtema>PROGRAMAS DE COMPUTADORAS PARA ENCONTRAR EIGENSISTEMAS</ct:subtema>
+        <ct:subtema>CONDICIÓN DEL PROBLEMA DE LOS EIGENSISTEMAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigensistemas de matrices simetricas, hermitianas y normales, con aplicaciones">
+<ct:tema>EIGENSISTEMAS DE MATRICES SIMETRICAS, HERMITIANAS Y NORMALES, CON APLICACIONES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMA Y DESCOMPOSICIÓN DE SCHUR; MATRICES NORMALES</ct:subtema>
+        <ct:subtema>EIGENSISTEMAS DE MATRICES NORMALES</ct:subtema>
+        <ct:subtema>APLICACIÓN: DESCOMPOSICIÓN EN VALORES SINGULARES</ct:subtema>
+        <ct:subtema>APLICACIÓN: MINIMOS CUADRADOS Y PSEUDOINVERSA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigensistemas de matrices arbitrarias generales, con aplicaciones">
+<ct:tema>EIGENSISTEMAS DE MATRICES ARBITRARIAS GENERALES, CON APLICACIONES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMA DE JORDAN</ct:subtema>
+        <ct:subtema>EIGENSISTEMAS PARA MATRICES ARBITRARIAS GENERALES</ct:subtema>
+        <ct:subtema>APLICACIÓN: EVOLUCIÓN DE SISTEMAS DISCRETOS Y POTENCIA DE MATRICES</ct:subtema>
+        <ct:subtema>APLICACIÓN: EVOLUCIÓN DE SISTEMAS CONTINUOS Y EXPONENCIALES DE MATRICES</ct:subtema>
+        <ct:subtema>APLICACIÓN: SOLUCIÓN ITERATIVA DE ECUACIONES LINEALES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas cuadraticas y caracterizaciones variacionales de eigenvalores">
+<ct:tema>FORMAS CUADRATICAS Y CARACTERIZACIONES VARIACIONALES DE EIGENVALORES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMAS CUADRATICAS EN R^2</ct:subtema>
+        <ct:subtema>FORMAS CUADRATICAS EN R^P Y EN C^P</ct:subtema>
+        <ct:subtema>VALORES EXTREMOS DE FORMAS CUADRATICAS: EL PRINCIPIO DE RAYLEIGH</ct:subtema>
+        <ct:subtema>VALORES EXTREMOS DE FORMAS CUADRATICAS: EL PRINCIPIO DE MINIMAX</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Programación lineal">
+<ct:tema>PROGRAMACIÓN LINEAL</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>ANÁLISIS DE UN EJEMPLO SENCILLO</ct:subtema>
+        <ct:subtema>UN PROGRAMA LINEAL GENERAL</ct:subtema>
+        <ct:subtema>RESOLUCIÓN DE UN PROGRAMA LINEAL GENERAL</ct:subtema>
+        <ct:subtema>DUALIDAD</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

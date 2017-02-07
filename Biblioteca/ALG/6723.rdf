@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN A LOS SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>MATRICES AUMENTADAS Y ELIMINACIÓN DE GAUSS-JORDAN</ct:subtema>
+        <ct:subtema>CONSISTENCIA, INCONSISTENCIA Y HOMOGENEIDAD DE SISTEMAS DE ECUACIONES</ct:subtema>
+        <ct:subtema>APLICACIONES DE LOS SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>MÉTODOS NUMÉRICOS PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices">
+ <ct:tema>MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN A LAS MATRICES</ct:subtema>
+        <ct:subtema>MULTIPLICACIÓN DE MATRICES</ct:subtema>
+        <ct:subtema>INVERSA DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRICES ELEMENTALES (OPCIONAL)</ct:subtema>
+        <ct:subtema>APLICACIONES (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+ <ct:tema>DETERMINANTES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN A LOS DETERMINANTES</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+        <ct:subtema>MATRIZ ADJUNTA Y REGLA DE CRAMER(OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Los espacios R^2, R^3 y R^n">
+ <ct:tema>LOS ESPACIOS R^2, R^3 Y R^N</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN A LOS VECTORES</ct:subtema>
+        <ct:subtema>PRODUCTOS INTERNOS Y PROYECCIONES</ct:subtema>
+        <ct:subtema>GEOMETRIA DEL ESPACIO R^3</ct:subtema>
+        <ct:subtema>EL ESPACIO R^N</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El algebra del espacio R^n">
+ <ct:tema>EL ALGEBRA DEL ESPACIO R^N</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>BASES DEL ESPACIO R^N</ct:subtema>
+        <ct:subtema>INDEPENCIA LINEAL</ct:subtema>
+        <ct:subtema>SUBESPACIOS DE R^N Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>RANGO DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>BASES ORTONORMALES</ct:subtema>
+        <ct:subtema>MÍNIMOS CUADRADOS (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+ <ct:tema>ESPACIOS VECTORIALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN A LOS ESPACIOS VECTORIALES</ct:subtema>
+        <ct:subtema>SUBESPACIOS Y ESPACIO GENERADO</ct:subtema>
+        <ct:subtema>BASES Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>ESPACIOS CON PRODUCTO INTERNO (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+ <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINICIÓN Y EJEMPLOS</ct:subtema>
+        <ct:subtema>ÁLGEBRA DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>REPRESENTACIÓN MATRICIAL DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+        <ct:subtema>MATRICES Y TRANSFORMACIONES LINEALES: RANGO Y NULIDAD</ct:subtema>
+        <ct:subtema>GRAFICACIÓN POR COMPUTADORA (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores característicos">
+ <ct:tema>VALORES CARACTERÍSTICOS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>VALORES CARACTERÍSTICOS Y VECTORES CARACTERÍSTICOS</ct:subtema>
+        <ct:subtema>MATRICES SEMEJANTES (O EQUIVALENTES) Y DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>MATRICES SIMÉTRICAS Y DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS</ct:subtema>
+        <ct:subtema>CADENA DE MARKOV (OPCIONAL)</ct:subtema>
+        <ct:subtema>MÉTODO DE POTENCIAS (OPCIONAL)</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Programación lineal">
+ <ct:tema>PROGRAMACIÓN LINEAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>MÉTODO SIMPLEX</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Apéndice">
+ <ct:tema>APÉNDICE</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>NÚMEROS COMPLEJOS</ct:subtema>
+        <ct:subtema>INDUCCIÓN MATEMÁTICA</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+</rdf:RDF>

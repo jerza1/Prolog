@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="ALG/">
+
+<rdf:Description
+rdf:about="6498.rdf">
+  <ct:tema>The Psychology of Human-Computer Interaction</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>Preface</ct:subtema>
+      <ct:subtema>SCIENCE BASE</ct:subtema>
+      <ct:subtema>TEXT-EDITING</ct:subtema>
+      <ct:subtema>ENGINEERING MODELS</ct:subtema>
+      <ct:subtema>TEXT-EDITING</ct:subtema>
+      <ct:subtema>Symbol Glossary</ct:subtema>
+      <ct:subtema>Bibliographic Index</ct:subtema>
+      <ct:subtema>Subject Index</ct:subtema>
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+<ct:tema>Preface</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>An Applied Information-Processing Psychology</ct:subtema>
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+<ct:tema>SCIENCE BASE</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>The Human Information-Processor</ct:subtema>
+      <ct:subtema>Subtema 2</ct:subtema>
+      <ct:subtema>Subtema 3</ct:subtema>
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+<ct:tema>TEXT-EDITING</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>System and User Variability</ct:subtema>
+      <ct:subtema>An Exercise in Task Analysis</ct:subtema>
+      <ct:subtema>The GOMS Model of Manuscript Editing</ct:subtema>
+      <ct:subtema>Extensions of the GOMS Analysis</ct:subtema>
+      <ct:subtema>Models of Devices for Text Selection</ct:subtema> 
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+<ct:tema>ENGINEERING MODELS</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>The Keystroke-Level Model</ct:subtema>
+      <ct:subtema>The Unit-Task Level of Analysis</ct:subtema>
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6498.rdf">
+<ct:tema>EXTENSIONS AND GENERALIZATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:Seq>
+      <ct:subtema>An Exploration into Circuit Desingn</ct:subtema>
+      <ct:subtema>Cognitive Skill</ct:subtema>
+      <ct:subtema>Applying Psychology to Design</ct:subtema>
+      <ct:subtema>Reprise</ct:subtema>
+    </rdf:Seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

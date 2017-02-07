@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+  <ct:tema>ESPACIOS VECTORIALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINICIONES</ct:subtema>
+      <ct:subtema>INDEPENDENCIA LINEAL Y DEPENDENCIA LINEAL</ct:subtema>
+      <ct:subtema>BASES DE ESPACIOS Y VECTORIALES</ct:subtema>
+      <ct:subtema>SUBESPACIOS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales y matrices">
+  <ct:tema>TRANSFORMACIONES LINEALES Y MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>MATRICES</ct:subtema>
+      <ct:subtema>MATRICES NO SINGULARES</ct:subtema>
+      <ct:subtema>CAMBIO DE BASE</ct:subtema>
+      <ct:subtema>FORMA NORMAL DE HERMITE</ct:subtema>
+      <ct:subtema>OPERACIONES ELEMENTALES Y MATRICES ELEMENTALES</ct:subtema>
+      <ct:subtema>PROBLEMAS LINEALES Y ECUACIONES LINEALES</ct:subtema>
+      <ct:subtema>OTRAS APLICACIONES DE LA FORMA NORMAL DE HERMITE</ct:subtema>
+      <ct:subtema>FORMAS NORMALES</ct:subtema>
+      <ct:subtema>CONJUNTOS COCIENTES, ESPACIOS COCIENTES</ct:subtema>
+      <ct:subtema>HOM(U,V)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes, eigenvalores y transformaciones de semejanza">
+  <ct:tema>DETERMINANTES, EIGENVALORES Y TRANSFORMACIONES DE SEMEJANZA</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PERMUTACIONES</ct:subtema>
+      <ct:subtema>DETERMINANTES</ct:subtema>
+      <ct:subtema>COFACTORES</ct:subtema>
+      <ct:subtema>EL TEOREMA DE HAMILTON-CAYLEY</ct:subtema>
+      <ct:subtema>EIGENVALORES Y EIGENVECTORES</ct:subtema>
+      <ct:subtema>ALGUNOS EJEMPLOS NUMÉRICOS</ct:subtema>
+      <ct:subtema>SEMEJANZA</ct:subtema>
+      <ct:subtema>LA FORMA NORMAL DE JORDAN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Funcionales, lineales,formas bilineales,formas cuadráticas">
+  <ct:tema>FUNCIONALES, LINEALES,FORMAS BILINEALES,FORMAS CUADRÁTICAS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>FUNCIONALES LINEALES</ct:subtema>
+      <ct:subtema>DUALIDAD</ct:subtema>
+      <ct:subtema>CAMBIO DE BASE</ct:subtema>
+      <ct:subtema>ANULADORES</ct:subtema>
+      <ct:subtema>LA DUAL DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+      <ct:subtema>DUALIDAD DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>SUMAS DIRECTAS</ct:subtema>
+      <ct:subtema>FORMAS BILINEALES</ct:subtema>
+      <ct:subtema>FORMAS CUADRÁTICAS</ct:subtema>
+      <ct:subtema>LA FORMA NORMAL</ct:subtema>
+      <ct:subtema>FORMAS CUADRÁTICAS REALES</ct:subtema>
+      <ct:subtema>FORMAS HERMITIANAS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones ortogonales y unitarias, matrices normales">
+  <ct:tema>TRANSFORMACIONES ORTOGONALES Y UNITARIAS, MATRICES NORMALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PRODUCTOS INTERNOS Y BASES ORTONORMALES</ct:subtema>
+      <ct:subtema>CONJUNTOS ORTONONNALES COMPLETOS</ct:subtema>
+      <ct:subtema>LA REPRESENTACIÓN DE UNA FUNCIÓN LINEAL MEDIANTE UN PRODUCTO INTERNO</ct:subtema>
+      <ct:subtema>LA TRANSFORMACIÓN ADJUNTA</ct:subtema>
+      <ct:subtema>MATRICES ORTOGONALES UNITARIAS</ct:subtema>
+      <ct:subtema>FORMA SUPERDIAGONAL</ct:subtema>
+      <ct:subtema>MATRICES NORMALES</ct:subtema>
+      <ct:subtema>TRANSFORMACIONES LINEALES NORMALES</ct:subtema>
+      <ct:subtema>MATRICES HERMITIANAS Y UNITARIAS</ct:subtema>
+      <ct:subtema>ESPACIOS VECTORIALES REALES</ct:subtema>
+      <ct:subtema>LOS PROCESOSDE CÁLCULO</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aplicaciones selectas de álgebra lineal">
+  <ct:tema>APLICACIONES SELECTAS DE ÁLGEBRA LINEAL</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>GEOMETRIA VECTORIAL</ct:subtema>
+      <ct:subtema>CONOS FINITOS Y DESIGUALES LINEALES</ct:subtema>
+      <ct:subtema>PROGRAMACIÓN LINEAL</ct:subtema>
+      <ct:subtema>APLICACIONES A LA TRORÍA DE LA COMUNICACIÓN</ct:subtema>
+      <ct:subtema>CÁLCULO VECTORIAL</ct:subtema>
+      <ct:subtema>DESCOMPOSCICIÓN ESPECTRAL DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>SISTEMAS DE ECUACIONES DIFERENCIALES LINEALES</ct:subtema>
+      <ct:subtema>OSCILACIOENS PEQUEÑAS DE SISTEMAS MECÁNICOS</ct:subtema>
+      <ct:subtema>REPRESENTACIONES DE GRUPOS FINITOS MEDIANTE MATRICES</ct:subtema>
+      <ct:subtema>APLICACIÓN DE LA TEORÍA DE LA REPRESENTACIÓN DE SISTEMAS MECÁNICOS SIMÉTRICOS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

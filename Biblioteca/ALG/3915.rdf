@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales y matrices">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LOS SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>ELIMINACIÓN GAUSSIANA</ct:subtema>
+        <ct:subtema>MATRICES Y OPERACIONES CON MATRICES</ct:subtema>
+        <ct:subtema>INVERSAS: REGLAS DE LA ARITMÉTICA DE MATRICES</ct:subtema>
+        <ct:subtema>MATRICES ELEMENTALES Y UN MÉTODO PARA HALLAR A^-1</ct:subtema>
+        <ct:subtema>OTROS RESULTADOS SOBRE SISTEMAS DE ECUACIONES E INVERTIBILIDAD</ct:subtema>
+        <ct:subtema>MATRICES DIAGONALES, TRIANGULARES Y SIMÉTRICAS</ct:subtema>
+        </rdf:seq>
+    </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>LA FUNCIÓN DETERMINANTE</ct:subtema>
+        <ct:subtema>EVALUACIÓN DE LOS DETERMINANTES POR REDUCCIÓN DE RENGLONES</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LA FUNCIÓN DETERMINANTE</ct:subtema>
+        <ct:subtema>DESARROLLO POR COFACTORES; REGLA DE CRAMER</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores en los espacios bidimensional y tridimensional">
+<ct:tema>VECTORES EN LOS ESPACIOS BIDIMENSIONAL Y TRIDIMENSIONAL</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LOS VECTORES (GEÓMETRICA)</ct:subtema>
+        <ct:subtema>NORMAS DE UN VECTOR; ARITMÉTICA VECTORIAL</ct:subtema>
+        <ct:subtema>PRODUCTO PUNTO; PROYECCIONES</ct:subtema>
+        <ct:subtema>PRODUCTO CRUZ</ct:subtema>
+        <ct:subtema>RECTAS Y PLANOS EN EL ESPACIO TRIDIMENSIONAL</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales euclidianos">
+<ct:tema>ESPACIOS VECTORIALES EUCLIDIANOS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>ESPACIO EUCLIDIANO N DIMENSIONAL</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES LINEALES DE R^N A R^M</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LAS TRANSFORMACIONES LINEALES DE R^N A R^M</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales  generales">
+<ct:tema>ESPACIOS VECTORIALES  GENERALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>ESPACIOS VECTORIALES REALES</ct:subtema>
+        <ct:subtema>SUBESPACIOS</ct:subtema>
+        <ct:subtema>INDEPENDENCIA LINEAL</ct:subtema>
+        <ct:subtema>BASE Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>ESPACIO RENGLÓN, ESPACIO COLUMNAY ESPACIO NULO</ct:subtema>
+        <ct:subtema>RANGO Y NULIDAD</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios con producto interior">
+<ct:tema>ESPACIOS CON PRODUCTO INTERIOR</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>PRODUCTOS INTERIORES</ct:subtema>
+        <ct:subtema>ÁNGULO Y ORTOGONALIDAD DE ESPACIOS CON PRODUCTO INTERIOR</ct:subtema>
+        <ct:subtema>BASES ORTONORMALES; PROCESOS DE GRAM-SCHMIDT; DESCOMPOSICIÓN QR</ct:subtema>
+        <ct:subtema>MEJOR APROXIMACIÓN: MÍNIMOS CUADRADOS</ct:subtema>
+        <ct:subtema>MATRICES ORTOGONALES; CAMBIO DE BASE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalores, eigenvectores">
+<ct:tema>EIGENVALORES, EIGENVECTORES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>EIGENVALORES Y EIGENVECTORES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN ORTOGONAL</ct:subtema>
+  </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+<ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>TRANSFORMACIONES LINEALES GENERALES</ct:subtema>
+        <ct:subtema>NÚCLEO Y RECORRIDO</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES LINEALES INVERSAS</ct:subtema>
+        <ct:subtema>MATRICES DE TRANSFORMACIONES LINEALES GENERALES</ct:subtema>
+        <ct:subtema>SEMEJANZA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Temas complementarios">
+<ct:tema>TEMAS COMPLEMENTARIOS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>APLICACIONES A LAS ECUACIONES DIFERENCIALES</ct:subtema>
+        <ct:subtema>GEOMETRÍA DE LOS OPERADORES LINEALES SOBRE R^2</ct:subtema>
+        <ct:subtema>AJUSTE DE DATOS POR MÍNIMOS CUADRADOS</ct:subtema>
+        <ct:subtema>PROBLEMAS DE APROXIMACIÓN: SERIES DE FOURIER</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN DE FORMAS CUADRÁTICAS; SECCIONES CÓNICAS</ct:subtema>
+        <ct:subtema>SUPERFICIES CUADRÁTICAS</ct:subtema>
+        <ct:subtema>COMPARACIÓN DE PROCEDIMIENTOS PARA RESOLVER SISTEMAS LINEALES</ct:subtema>
+        <ct:subtema>DESCOMPOSICIÓN LU</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales complejos">
+<ct:tema>ESPACIOS VECTORIALES COMPLEJOS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>NÚMEROS COMPLEJOS</ct:subtema>
+        <ct:subtema>MÓDULO; CONJUGADO COMPLEJO; DIVISIÓN</ct:subtema>
+        <ct:subtema>FORMA POLAR; TEOREMA DE DE MOIVRE</ct:subtema>
+        <ct:subtema>ESPACIOS VECTORIALES COMPLEJOS</ct:subtema>
+        <ct:subtema>ESPACIOS COMPLEJOS CON PRODUCTO INTERIOR</ct:subtema>
+        <ct:subtema>MATRICES UNITARIAS, NORMALES Y HERMITIANAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vectores lineales y vectores coordenados">
+  <ct:tema>VECTORES LINEALES Y VECTORES COORDENADOS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUMA DE VECTORES Y MULTIPLICACIÓN POR UN ESCALAR</ct:subtema>
+      <ct:subtema>VECTORES LINEALES EN MECÁNICA Y EN GEOMETRIA PLANA</ct:subtema>
+      <ct:subtema>VECTORES COORDENADAS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Geometria analítica por métodos vectoriales">
+  <ct:tema>GEOMETRIA ANALÍTICA POR MÉTODOS VECTORIALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LONGITUD Y DIRECCIÓN DE UN VECTOR COORDENADA</ct:subtema>
+      <ct:subtema>EL PRODUCTO ESCOLAR Y APLICACIONES</ct:subtema>
+      <ct:subtema>PROYECCIÓN DE VECTORES Y APLICACIONES</ct:subtema>
+      <ct:subtema>EL PRODUCTO VECTORIAL EN R3</ct:subtema>
+      <ct:subtema>ECUACIONES VECTORIALES Y PARAMÉTRICAS DE RECTAS Y PLANOS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales y matrices">
+  <ct:tema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MÉTODOS DE REDUCCIÓN DE GAUSS Y GAUSS-JORDAN</ct:subtema>
+      <ct:subtema>EL MÉTODO DE REDUCCIÓN APLICADO A UN SISTEMA GENERAL DE ECUACIONES LINEALES</ct:subtema>
+      <ct:subtema>ALII DE LOS SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+      <ct:subtema>SUMA DE MATRICES Y MULTIPLICACIÓN POR UN ESCALAR</ct:subtema>
+      <ct:subtema>MULTIPLICACIÓN DE MATRICES Y APLICACIONES</ct:subtema>
+      <ct:subtema>ALGEBRA MATRICIAL</ct:subtema>
+      <ct:subtema>MATRICES NO SINGULARES Y ELEMENTALES</ct:subtema>
+      <ct:subtema>INVERSA DE UNA MATRIZ POR MEDIO DE MATRICES ELEMENTALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+  <ct:tema>DETERMINANTES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LA FUNCIÓN DETERMINANTE</ct:subtema>
+      <ct:subtema>OTRAS PROPIEDADES DE LA FUNCIÓN DETERMINANANTE</ct:subtema>
+      <ct:subtema>MATRIZ INVERSA POR MEDIO DE LA MATRIZ ADJUNTA</ct:subtema>
+      <ct:subtema>REGLADE CRAMER(OPCIONAL)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales abstractos">
+  <ct:tema>ESPACIOS VECTORIALES ABSTRACTOS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINICIÓN Y EJEMPLOS DE ESPACIOS VECTORIALES</ct:subtema>
+      <ct:subtema>SUBESPACIOS</ct:subtema>
+      <ct:subtema>INDEPENDENCIA LINEAL Y DEPENDENCIA LINEAL</ct:subtema>
+      <ct:subtema>BASE Y DIMENSIÓN</ct:subtema>
+      <ct:subtema>ALGUNOS TEOREMAS SOBRE DIMENSIÓN</ct:subtema>
+      <ct:subtema>SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trasformaciones lineales y matrices">
+  <ct:tema>TRASFORMACIONES LINEALES Y MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BREVE REPASODE FUNCIONES</ct:subtema>
+      <ct:subtema>DEFINICIÓN Y EJEMPLOS DE TRASFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>PROPIEDADES DE LAS TRASFORMACIONES LINEALES</ct:subtema>
+      <ct:subtema>EL RANGO Y EL NÚCLEO; ISOMORFISMOS</ct:subtema>
+      <ct:subtema>LA MATRIZ DE UNA TRASFORMACIÓN REFERIDA A UN PAR DE BASES</ct:subtema>
+      <ct:subtema>SUMA, PRODUCTO Y MÚLTIPLOS ESCOLARESDE LOS TRASFORMACIONEE LINEALES</ct:subtema>
+      <ct:subtema>TRASFORMACIONES INVERTIBLES</ct:subtema>
+      <ct:subtema>EL RANGO DE UNA MATRIZ (OPCIONAL)</ct:subtema>
+      <ct:subtema>CAMBIO DE BASE</ct:subtema>
+      <ct:subtema>CÁLCULOS CON MATRICES SEMEJANTES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores propios, vectores propios y matrices diagonales">
+  <ct:tema>VALORES PROPIOS, VECTORES PROPIOS Y MATRICES DIAGONALES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VALORES PROPIOS Y VECTORES PROPIOS DE UN OPERADOR LINEAL</ct:subtema>
+      <ct:subtema>VALORES PROPIOS Y VECTORES PROPIOS DE UNA MATRIZ CUADRADA</ct:subtema>
+      <ct:subtema>FORMAS CUADRÁTICA</ct:subtema>
+      <ct:subtema>DIAGONALIZACIÓN DE FORMAS CUADRÁTICAS; APLICACIONES A CÓNICAS CENTRADAS Y SUPERFICIES CUADRÁTICAs</ct:subtema>
+      <ct:subtema>EL TEOREMA ESPECTRAL Y EL TEOREMA DE HAMILTON-CAYLEY (OPCIONAL)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios euclidianos">
+  <ct:tema>ESPACIOS EUCLIDIANOS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PRODUCTOS INTERNOS Y ESPACIOSEUCLIDIANOS</ct:subtema>
+      <ct:subtema>EL PROCESO DE GRAM-SCHMIDT</ct:subtema>
+      <ct:subtema>APLICACIONES DEL PRODUCTO INTERNO (OPCIONAL)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

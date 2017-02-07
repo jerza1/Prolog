@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales y matrices">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+    	<ct:subtema>INTRODUCCION</ct:subtema>
+    	<ct:subtema>DOS ECUACIONES LINEALES CON DOS INCÓGNITAS</ct:subtema>
+    	<ct:subtema>M ECUACIONES CON N INCÓGNITAS: ELIMINACIÓN DE GAUSS-JORDAN Y GAUSSIANA</ct:subtema>
+        <ct:subtema>SEMBLANZA DE ... CARL FRIEDRICH GAUSS</ct:subtema>
+    	<ct:subtema>SISTEMAS HOMOGÉNEOS DE ECUACIONES</ct:subtema>
+    	<ct:subtema>VECTORES Y MATRICES</ct:subtema>
+        <ct:subtema>SEMBLANZA DE ... SIR WILLIAM ROWAN HAMILTON</ct:subtema>
+    	<ct:subtema>PRODUCTOS VECTORIAL Y MATRICIAL</ct:subtema>
+        <ct:subtema>SEMBLANZA DE ... ARTHUR CAYLEY Y EL ÁLGEBRA DE MATRICES</ct:subtema>
+    	<ct:subtema>MATRICES Y SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+    	<ct:subtema>INVERSA DE UNA MATRIZ CUADRADA</ct:subtema>
+    	<ct:subtema>TRANSPUESTA DE UNA MATRIZ</ct:subtema>
+    	<ct:subtema>MATRICES ELEMENTALES Y MATRICES INVERSAS</ct:subtema>
+    	<ct:subtema>FACTORIZACIÓN LU DE UNA MATRIZ</ct:subtema>
+    	<ct:subtema>TEORIA DE GRÁFICAS: UNA APLICACIÓN DE MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+ <ct:tema>DETERMINANTES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+    	<ct:subtema>DEFINICIONES</ct:subtema>
+    	<ct:subtema>PROPIEDADES DE LOS DETERMINANTES</ct:subtema>
+    	<ct:subtema>DEMOSTRACIÓN DE TRES TEOREMAS IMPORTANTES Y ALGO DE HISTORIA</ct:subtema>
+        <ct:subtema>SEMBLANZA DE ... BREVE HISTORIA DE LOS DETERMINANTES</ct:subtema>
+    	<ct:subtema>DETERMINANTES E INVERSAS</ct:subtema>
+    	<ct:subtema>REGLA DE CRAMER (OPCIONAL)</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores en R^2 y R^3">
+ <ct:tema>VECTORES EN R^2 Y R^3</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+    	<ct:subtema>VECTORES EN EL PLANO</ct:subtema>
+	    <ct:subtema>EL PRODUCTO ESCALAR Y LAS PROYECCIONES EN R^2</ct:subtema>
+	    <ct:subtema>VECTORES EN EL ESPACIO</ct:subtema>
+	    <ct:subtema>EL PRODUCTO CRUZ DE DOS VECTORES</ct:subtema>
+        <ct:subtema>SEMBLANZA DE ... JOSIAH WILLARD GIBBS  Y LOS ORÍGENES DEL ANÁLISIS VECTORIAL</ct:subtema>
+	    <ct:subtema>RECTAS Y PLANOS EN EL ESPACIO</ct:subtema>
+	</rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+ <ct:tema>ESPACIOS VECTORIALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+    	<ct:subtema>INTRODUCCIÓN</ct:subtema>
+	    <ct:subtema>DEFINICIÓN Y PROPIEDADES BÁSICAS</ct:subtema>
+	    <ct:subtema>SUBESPACIOS</ct:subtema>
+	    <ct:subtema>COMBINACIÓN LINEA Y ESPACIO GENERADO</ct:subtema>
+	    <ct:subtema>INDEPENDENCIAL LINEAL</ct:subtema>
+	    <ct:subtema>BASES Y DIMENSIONES</ct:subtema>
+	    <ct:subtema>RANGO, NULIDAD, ESPACIO DE LOS RENGLONES Y ESPACIO DE LAS COLUMNAS DE UNA MATRIZ</ct:subtema>
+	    <ct:subtema>CAMBIO DE BASE</ct:subtema>
+	    <ct:subtema>BASES ORTONORMALES Y PROYECCIONES EN R^N</ct:subtema>
+	    <ct:subtema>APROXIMACIÓN POR MINIMOS CUADRADOS</ct:subtema>
+	    <ct:subtema>ESPACIOS CON PRODUCTO INTERNO Y PROYECCIONES</ct:subtema>
+	    <ct:subtema>FUNDAMENTOS DE LA TEORÍA DE ESPACIOS VECTORIALES: EXISTENCIA DE UNA BASE (OPCIONAL)</ct:subtema>
+	</rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+ <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+		<ct:subtema>DEFINICIÓN Y EJEMPLOS</ct:subtema>
+		<ct:subtema>PROPIEDADES DE LAS TRANSFORMACIONES LINEALES: IMAGEN Y NÚCLEO</ct:subtema>
+		<ct:subtema>REPRESENTACIÓN MATRICIAL DE UNA TRANSFORMACIO LINEAL</ct:subtema>
+		<ct:subtema>ISOMORFISMOS</ct:subtema>
+		<ct:subtema>ISOMETRÍAS</ct:subtema>
+	</rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores caracteristicos, vectores caracteristicos y formas canónicas">
+ <ct:tema>VALORES CARACTERISTICOS, VECTORES CARACTERISTICOS Y FORMAS CANÓNICAS</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+    	<ct:subtema>VALORES CARACTERISTICOS Y VECTORES CARACTERISTICOS</ct:subtema>
+    	<ct:subtema>UN MODELO DE CRECIMIENTO DE POBLACIÓN (OPCIONAL)</ct:subtema>
+    	<ct:subtema>MATRICES SEMEJANTES Y DIAGONALIZACIÓN</ct:subtema>
+    	<ct:subtema>MATRICES SIMÉTRICAS Y DIAGONAL ORTOGONAL</ct:subtema>
+    	<ct:subtema>FORMAS CUADRATICAS Y SECCIONES CÓNICAS</ct:subtema>
+    	<ct:subtema>FORMA CANÓNICA DE JORDAN</ct:subtema>
+    	<ct:subtema>UNA APLICACIÓN IMPORTANTE: FORMA MATRICIAL DE ECUACIONES DIFERENCIALES</ct:subtema>
+    	<ct:subtema>UNA PERSPERCTIVA DIFERENTE: LOS TEOREMAS DE CAYLEY-HAMILTON Y GERSHGORIN</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

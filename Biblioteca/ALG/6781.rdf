@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="MATRICES AND SYSTEMS OF LINEAR EQUATIONS">
+ <ct:tema>MATRICES AND SYSTEMS OF LINEAR EQUATIONS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION AND GAUSS ELIMINATION</ct:subtema>
+            <ct:subtema>MATRICES AND ECHELON FORM</ct:subtema>
+            <ct:subtema>REDUCTION TO ECHELON FORM AND SOLUTIONS OF HOMOGENEOUS SYSTEMS</ct:subtema>
+            <ct:subtema>MATRIX OPERATIONS</ct:subtema>
+            <ct:subtema>ALGEBRAIC PROPERTIES OF MATRIX OPERATIONS</ct:subtema>
+            <ct:subtema>LINEAR INDEPENDENCE</ct:subtema>
+            <ct:subtema>NONSINGULAR MATRICES AND APPLICATIONS TO INTERPOLATING DATA</ct:subtema>
+            <ct:subtema>MATRIX INVERSES AND THEIR PROPERTIES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THE VECTOR SPACE IRn">
+ <ct:tema>THE VECTOR SPACE IRN</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+            <ct:subtema>SUBSPACES IN R</ct:subtema>
+            <ct:subtema>BASES FOR SUBSPACES</ct:subtema>
+            <ct:subtema>DIMEN SION</ct:subtema>
+            <ct:subtema>ORTHOGONAL BASES FOR SUBSPACES</ct:subtema>
+            <ct:subtema>PROJECTIONS, LEAST-SQUARES SOLUTIONS OF INCONSISTENT SYSTEMS, AND APPLICATIONS TO DATA Fitting</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THE EIGEN VALUE PROBLEM">
+ <ct:tema>THE EIGEN VALUE PROBLEM</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+            <ct:subtema>DETERMINANTS AND THE EIGENVALUE PROBLEM</ct:subtema>
+            <ct:subtema>EIGENVALUES OF MATRICES</ct:subtema>
+            <ct:subtema>APPLICATIONS OF EIGENVALUES</ct:subtema>
+            <ct:subtema>COMPLEX EIGENVALUES AND EIGENVALUES OF SYMMETRIC MATRICES</ct:subtema>
+            <ct:subtema>SIMILARITY TRANSFORMATIONS AND DIAGONALIZATION</ct:subtema>
+            <ct:subtema>TRANSFORMATIONS TO HESSENBERG FORM AND ELEMENTARY SIMILARITY TRANSFORMATIONS</ct:subtema>
+            <ct:subtema>EIGENVALUES OF HESSENBERG MATRICES</ct:subtema>
+            <ct:subtema>MATRIX POLYNOMIALS AND THE CAYLEY–HAMILTON THEOREM</ct:subtema>
+            <ct:subtema>GENERALIZED EIGENVECTORS AND SOLUTIONS OF SYSTEMS OF DIFFERENTIAL EQUATIONS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES AND LINEAR TRANSFORMATIONS">
+ <ct:tema>VECTOR SPACES AND LINEAR TRANSFORMATIONS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+            <ct:subtema>VECTOR SPACES</ct:subtema>
+            <ct:subtema>SUBSPACES</ct:subtema>
+            <ct:subtema>LINEAR INDEPENDENCE, BASES, AND COORDINATES</ct:subtema>
+            <ct:subtema>DIMENSION</ct:subtema>
+            <ct:subtema>INNER-PRODUCT SPACES, ORTHOGONAL BASES, AND PROJECTIONS</ct:subtema>
+            <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+            <ct:subtema>OPERATIONS WITH LINEAR TRANSFORMATIONS</ct:subtema>
+            <ct:subtema>MATRIX REPRESENTATIONS FOR LINEAR TRANSFORMATIONS</ct:subtema>
+            <ct:subtema>CHANGE OF BASIS AND DIAGONALIZATION</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DETERMINANTS">
+ <ct:tema>DETERMINANTS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCTION</ct:subtema>
+            <ct:subtema>COFACTOR EXPANSIONS OF DETERMINANTS</ct:subtema>
+            <ct:subtema>COLUMN OPERATIONS AND DETERMINANTS</ct:subtema>
+            <ct:subtema>NONSINGULAR MATRICES AND CRAMER'S RULE</ct:subtema>
+            <ct:subtema>APPLICATIONS OF DETERMINANTS INVERSES AND WRONSKIANS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="NUMERICAL METHODS IN LINEAR ALGEBRA">
+ <ct:tema>NUMERICAL METHODS IN LINEAR ALGEBRA</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>COMPUTER ARITHMETIC AND ROUNDOFF</ct:subtema>
+            <ct:subtema>GAUSS ELIMINATION</ct:subtema>
+            <ct:subtema>THE POWER METHOD FOR EIGENVALUES</ct:subtema>
+            <ct:subtema>THE INVERSE POWER METHOD FOR THE EIGENVALUES PROBLEM</ct:subtema>
+            <ct:subtema>HOUSEHOLDER TRANSFORMATIONS AND REDUCTION TO HESSENBERG FORM</ct:subtema>
+            <ct:subtema>ESTIMATING THE EIGENVALUES OF HESSENBERG MATRICES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APPENDIX">
+ <ct:tema>APPENDIX</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>REVIEW OF GEOMETRIC VECTORS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="12.rdf">
+  <lb:ficha>6498</lb:ficha>
+  <lb:titulo>THE PSYCHOLOGY OF HUMAN-COMPUTER INTERACTION</lb:titulo>
+  <lb:autor>CARD, STUART K.</lb:autor>
+  <lb:clasificacion>QA76.9 I58 C37</lb:clasificacion>
+  <lb:anio>1983</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>SO</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="6190.rdf">
+  <lb:ficha>6090</lb:ficha>
+  <lb:titulo>Z (VERSION 1)</lb:titulo>
+  <lb:autor>RUIZ DE VELASCO, CARLOS</lb:autor>
+  <lb:clasificacion>QA76.9 I58 R85</lb:clasificacion>
+  <lb:anio>1981</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>SO</lb:area>
+</rdf:Description>
+
+</rdf:RDF> 

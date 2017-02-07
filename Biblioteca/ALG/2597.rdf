@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales y matrices">
+<ct:tema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>DOS ECUACIONES LINEALES CON DOS INCÓGNITAS</ct:subtema>
+        <ct:subtema>VECTORES</ct:subtema>
+        <ct:subtema>MATRICES</ct:subtema>
+        <ct:subtema>PRODUCTOS DE VECTORES Y MATRICES</ct:subtema>
+        <ct:subtema>M ECUACIONES CON N INCÓGNITAS: ELIMINACIÓN DE GAUSS-JORDAN Y GAUSSIANA</ct:subtema>
+        <ct:subtema>SISTEMAS HOMOGÉNEOS DE ECUACIONES</ct:subtema>
+        <ct:subtema>LA INVERSA DE UNA MATRIZ CUADRADA</ct:subtema>
+        <ct:subtema>TRANSPUESTA DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>MATRICES ELEMENTALES Y MATRICES INVERSAS</ct:subtema>
+        <ct:subtema>UNA PERSPECTIVA DIFERENTE: INVERSAS UNILATERALES DE MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINICIONES</ct:subtema>
+        <ct:subtema>PROPIEDADDES DE LOS DETERMINANTES</ct:subtema>
+        <ct:subtema>SI EL TIEMPO LO PERMITE: DEMOSTRACIÓN DE TRES TEOREMAS IMPORTANTES</ct:subtema>
+        <ct:subtema>DETERMINANTES E INVERSAS</ct:subtema>
+        <ct:subtema>REGLA DE CRAMER</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores en R^2 y R^3">
+<ct:tema>VECTORES EN R^2 Y R^3</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>VECTORES EN EL PLANO</ct:subtema>
+        <ct:subtema>EL PRODUCTO ESCALAR Y LAS PROYECCIONES EN R^2</ct:subtema>
+        <ct:subtema>VECTORES EN EL ESPACIO</ct:subtema>
+        <ct:subtema>EL PRODUCTO VECTORIAL(O CRUZ) DE DOS VECTORES</ct:subtema>
+        <ct:subtema>RECTAS Y PLANOS EN EL ESPACIO</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vecoriales">
+<ct:tema>ESPACIOS VECORIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>DEFINICIÓN Y PROPIEDADES BÁSICAS</ct:subtema>
+        <ct:subtema>SUBESPACIOS</ct:subtema>
+        <ct:subtema>COMBINACIÓN LINEAL Y GENERACIÓN DE ESPACIO</ct:subtema>
+        <ct:subtema>BASES Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>RANGO, NULIDAD, ESPACIO DE RENGLONES Y ESPACIO DE COLUMNAS DE UNA MATRIZ</ct:subtema>
+        <ct:subtema>CAMBIO DE BASE</ct:subtema>
+        <ct:subtema>BASES ORTONORMALES Y PROYECCIONES EN R^N</ct:subtema>
+        <ct:subtema>ESPACIOS CON PRODUCTO INTERNO Y PROYECCIONES</ct:subtema>
+        <ct:subtema>LA EXISTENCIA DE UNA BASE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tranformaciones lineales">
+<ct:tema>TRANFORMACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINICIÓN Y EJEMPLOS</ct:subtema>
+        <ct:subtema>PROPIEDADDES DE LAS TRANSFORMACIONES LINEALES: IMAGEN Y KERNEL (O NÚCLEO)</ct:subtema>
+        <ct:subtema>LA REPRESENTACIÓN MATRICIAL DE UNA TRANSFORMACIÓN LINEAL</ct:subtema>
+        <ct:subtema>ISOMORFISMO</ct:subtema>
+        <ct:subtema>ISOMETRÍA (OPCIONAL)</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores característicos, vectores característicos y formas canónicas">
+<ct:tema>VALORES CARACTERÍSTICOS, VECTORES CARACTERÍSTICOS Y FORMAS CANÓNICAS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>VALORES CARACTERÍSTICOS Y VECTORES CARACTERÍSTICOS</ct:subtema>
+        <ct:subtema>UN MODELO DE CRECIMIENTO DE POBLACIÓN (OPCIONAL)</ct:subtema>
+        <ct:subtema>MATRICES EQUIVALENTES Y DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>MATRICES SIMETRICAS Y DIAGONALIZACIÓN ORTOGONAL</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS Y SECCIONES CÓNICAS</ct:subtema>
+        <ct:subtema>FORMA CANÓNICA DE JORDAN</ct:subtema>
+        <ct:subtema>UNA APLICACIÓN IMPORTANTE: ECUACIONES DIFERENCIALES MATRICIALES</ct:subtema>
+        <ct:subtema>UNA PERSPECTIVA DIFERENTE: LOS TEOREMA DE CAYLEY-HAMILTON Y GERSHGORIN</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Métodos numéricos">
+<ct:tema>MÉTODOS NUMÉRICOS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>EL ERROR EN LOS CÁLCULOS NUMÉRICOS</ct:subtema>
+        <ct:subtema>RESOLUCIÓN DE SISTEMAS LINEALES I: ELIMINACIÓN GAUSSIANA CON APOYO</ct:subtema>
+        <ct:subtema>RESOLUCIÓN DE SISTEMAS LINEALES II: MÉTODOS ITERATIVOS</ct:subtema>
+        <ct:subtema>CÁLCULO DE VALORES CARACTERÍSTICOS Y VECTORES CARACTERÍSTICOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Apéndice">
+<ct:tema>APÉNDICE</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INDUCCIÓN MATEMÁTICA</ct:subtema>
+        <ct:subtema>NÚMEROS COMPLEJOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

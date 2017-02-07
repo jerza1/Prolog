@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Matrices">
+  <ct:tema>MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE ARITHMETIC OF MATRICES</ct:subtema>
+      <ct:subtema>PROPERTIES OF MATRIX ARITHMETIC</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+      <ct:subtema>A METHOD FOR FINDING A-1</ct:subtema>
+      <ct:subtema> SOLVING SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>THE FIRST DIAGONALIZATION PROBLEM</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>EQUIVALENCE RELATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectors">
+  <ct:tema>VECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>ISOMORPHIC VECTOR SPACES</ct:subtema>
+      <ct:subtema>LINEAR INDEPENDENCE</ct:subtema>
+      <ct:subtema>ANOTHER APPROACH TO DIMENSION</ct:subtema>
+      <ct:subtema>MORE ON BASES</ct:subtema>
+      <ct:subtema>THE ROW SPACE OF A MATRIX</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS MATRIX</ct:subtema>
+      <ct:subtema>COORDINATE SYSTEMS</ct:subtema>
+      <ct:subtema>CHANGING COORDINATE SYSTEMS</ct:subtema>
+      <ct:subtema>LINES AND PLANES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations">
+  <ct:tema>LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE KERNEL OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>MATRIX REPRESENTATIONS </ct:subtema>
+      <ct:subtema>ARITHMETIC OPERATIONS FOR LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR ALGEBRAS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Determinant Function">
+  <ct:tema>THE DETERMINANT FUNCTION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MATHEMATICAL INDUCTION</ct:subtema>
+      <ct:subtema>THE DETERMINANT FUNCTION</ct:subtema>
+      <ct:subtema>BASIC PROPERTIES</ct:subtema>
+      <ct:subtema>THEORY OF DETERMINANTS</ct:subtema>
+      <ct:subtema>MORE THEORY</ct:subtema>
+      <ct:subtema>A FORMULA FOR A-1</ct:subtema>
+      <ct:subtema>THE SECOND DIAGONALIZATION PROBLEM</ct:subtema>
+      <ct:subtema>AN APPLICATION TO LINEAR DIFFERENTIAL EQUATIONS</ct:subtema>
+      <ct:subtema>JORDAN MATRICES</ct:subtema>
+      <ct:subtema>THE VANDERMONDE DETERMINANT</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Euclidean Spaces">
+  <ct:tema>EUCLIDEAN SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LENGTH AND ANGLE</ct:subtema>
+      <ct:subtema>ABSTRACT EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>ISOMORPHIC EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASES</ct:subtema>
+      <ct:subtema>THE CHARACTERISTIC VALUE PROBLEM FOR SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>APPLICATIONS TO GEOMETRY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF>

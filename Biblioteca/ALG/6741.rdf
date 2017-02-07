@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Solutions of Linear Systems">
+ <ct:tema>SOLUTIONS OF LINEAR SYSTEMS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUTION</ct:subtema>
+        <ct:subtema>THE MATRIX REDUCTION METHOD</ct:subtema>
+        <ct:subtema>CONSISTENCY AND UNIQUENESS</ct:subtema>
+        <ct:subtema>APPLICATION OF LINEAR SYSTEMS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector Notation">
+ <ct:tema>VECTOR NOTATION</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>COORDINATE VECTORS</ct:subtema>
+        <ct:subtema>LINEAR SYSTEMS IN VECTOR NOTATION</ct:subtema>
+        <ct:subtema>TRANSFORMATION OF VECTOR SPACES</ct:subtema>
+        <ct:subtema>LINES AN PLANES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrix Algebra">
+ <ct:tema>MATRIX ALGEBRA</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>MATRIX ADDITION AND MULTIPLICATION</ct:subtema>
+        <ct:subtema>APPLICATIONS OF THE MATRIX PRODUCT</ct:subtema>
+        <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+        <ct:subtema>THE INVERSE MATRIX</ct:subtema>
+        <ct:subtema>TRIANGULAR MATRICES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices and Geomtry">
+ <ct:tema>MATRICES AND GEOMTRY</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>MATRIX REPRESENTATION OF LINEAR TRANSFORMATION</ct:subtema>
+        <ct:subtema>GEOMTRIC TRANSFORMATIONS AND THEIR MATRIX REPRESENTATIONS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+ <ct:tema>DETERMINANTS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DETERMINANTS AND ROW OPERATIONS</ct:subtema>
+        <ct:subtema>ALGEBRA OF DETERMINANTS</ct:subtema>
+        <ct:subtema>GEOMTRIC INTERPRETATION OF THE DETERMINANT</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Basis and Dimension">
+ <ct:tema>BASIS AND DIMENSION</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>LINEAR INDEPENDENCE</ct:subtema>
+        <ct:subtema>SPANNING SETS AND BASES</ct:subtema>
+        <ct:subtema>DIMENSION</ct:subtema>
+        <ct:subtema>TRANSFORMATIONS AND BASES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Metric Concepts">
+ <ct:tema>METRIC CONCEPTS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>ORTHONORMAL BASES</ct:subtema>
+        <ct:subtema>ORTHONORMAL TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>THE COMPLEX CASE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvectors and Applicacitions">
+ <ct:tema>EIGENVECTORS AND APPLICACITIONS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>EIGENVECTORS</ct:subtema>
+        <ct:subtema>DIAGONALIZATION</ct:subtema>
+        <ct:subtema>APPLICATIONS TO DISCRETE PROCESSES</ct:subtema>
+        <ct:subtema>APPLICATIONS TO SYSTEMS OF DIFFERENTIAL EQUIATIONS</ct:subtema>
+        <ct:subtema>SYMMETRIC MATRICES</ct:subtema>
+        <ct:subtema>QUADRATIC FORMS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Jordan Form">
+ <ct:tema>JORDAN FORM</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>STRINGS</ct:subtema>
+        <ct:subtema>JORDAN FORM</ct:subtema>
+        <ct:subtema>APPLICATIONS OF JORDAN FORM</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Numerical Methods">
+ <ct:tema>NUMERICAL METHODS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>NUMERICAL EFFICIENCY</ct:subtema>
+        <ct:subtema>ERROR AND APPROXIMATION</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Programming">
+ <ct:tema>LINEAR PROGRAMMING</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>THE SIMPLEX METHOD</ct:subtema>
+        <ct:subtema>DUALITY THEORY</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix">
+ <ct:tema>APPENDIX</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>COMPLEX NUMBRES</ct:subtema>
+        <ct:subtema>CRAMMER´S RULE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

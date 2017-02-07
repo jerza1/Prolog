@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="FUNDAMENTAL MATHEMATICAL CONCEPTS">
+  <ct:tema>FUNDAMENTAL MATHEMATICAL CONCEPTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LOGIC</ct:subtema>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>FUNCTIONS</ct:subtema>
+      <ct:subtema>OPERATIONS</ct:subtema>
+      <ct:subtema>HOMOMORPHISMS</ct:subtema>
+      <ct:subtema>THE REAL NUMBER SYSTEM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>A GENERALIZATION OF R</ct:subtema>
+      <ct:subtema>VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>DEPENDENCE</ct:subtema>
+      <ct:subtema>INDEPENDENCE AND BASES</ct:subtema>
+      <ct:subtema>DIMENSION</ct:subtema>
+      <ct:subtema>COMPLETING A BASIS</ct:subtema>
+      <ct:subtema>ORDERED BASES AND COORDINATES </ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR TRANSFORMATIONS AND MATRICES">
+  <ct:tema>LINEAR TRANSFORMATIONS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>RANK OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>NONSINGULAR LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>MATRIX OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>SYSTEMS OF MATRICES</ct:subtema>
+      <ct:subtema>MATRIX MANIPULATIONS</ct:subtema>
+      <ct:subtema>MATRICES AND COORDINATES</ct:subtema>
+      <ct:subtema>RANK OF A MATRIX</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR EQUATIONS AND DETERMINANTS">
+  <ct:tema>LINEAR EQUATIONS AND DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>EQUIVALENT SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>HOMOGENEOUS AND NONHOMOGENEOUS SYSTEMS</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+      <ct:subtema>SOME COMPUTATIONAL TECHNIQUES</ct:subtema>
+      <ct:subtema>DETERMINANTS</ct:subtema>
+      <ct:subtema>INVERSION VIA ADJOINT; CRAMER'S RULE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="CHANGING BASES">
+  <ct:tema>CHANGING BASES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>HOW EQUIVALENCE REVISITED</ct:subtema>
+      <ct:subtema>COLUMN EQUIVALENCE; EQUIVALENCE</ct:subtema>
+      <ct:subtema>SIMILARITY</ct:subtema>
+      <ct:subtema>EIGENVECTORS, EIGENVALUES, AND THE CHARACTERISTIC EQUATION</ct:subtema>
+      <ct:subtema>DISTINCT EIGENVALUES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="EUCLIDEAN SPACES">
+  <ct:tema>EUCLIDEAN SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>R2 AND THE DOT PRODUCT</ct:subtema>
+      <ct:subtema>RADOT AND CROSS PRODUCTS</ct:subtema>
+      <ct:subtema>EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>ORTHOGONAL VECTORS</ct:subtema>
+      <ct:subtema>ORTHOGONAL TRANSFORMATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

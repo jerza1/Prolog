@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vector Spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>GEOMETRIC VECTORS AND VECTOR SPACES</ct:subtema>
+      <ct:subtema>THE SPACE RN. SUBSPACES</ct:subtema>
+      <ct:subtema>FUNCTION SPACES. INDEPENDENCE AND DEPENDENCE</ct:subtema>
+      <ct:subtema>BASIS VECTORS. COORDINATES. DIMENSION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Maps and Matrices">
+  <ct:tema>LINEAR MAPS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR MAPS. ISOMORPHIC SPACES</ct:subtema>
+      <ct:subtema>PROPERTIES OF LINEAR MAPS</ct:subtema>
+      <ct:subtema>REPRESENTING LINEAR MAPS BY MATRICES. COORDINATE CHANGES</ct:subtema>
+      <ct:subtema>MATRIX ALGEBRA</ct:subtema>
+      <ct:subtema>THE SPACE OF LINEAR MAPS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="lnner Product Spaces">
+  <ct:tema>LNNER PRODUCT SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INNER PRODUCTS. NORMS</ct:subtema>
+      <ct:subtema>ORTHOGONAL PROJECTIONS. THE SCHWARZ AND TRIANGLE INEQUALITIES</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASES</ct:subtema>
+      <ct:subtema>ORTHOGONAL SUBSPACE. DIRECT SUMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Systems">
+  <ct:tema>LINEAR SYSTEMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SYSTEMSOF LUNAR EQUATIONS</ct:subtema>
+      <ct:subtema>SOLVING SYSTEMS. FINDING LNVERSES</ct:subtema>
+      <ct:subtema>TRIANGULAR DECOMPOSITION</ct:subtema>
+      <ct:subtema>GAUSSIAN ELIMINATION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SIGNED AREA AND VOLUME</ct:subtema>
+      <ct:subtema>DETERMINANTS OF MATRICES</ct:subtema>
+      <ct:subtema>THE DETERMINANT OF AN OPERATOR</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Geometric Characterization of 3 Linear Operator">
+  <ct:tema>THE GEOMETRIC CHARACTERIZATION OF 3 LINEAR OPERATOR</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE TRANSPOSE OF A LINEAR OPERATOR</ct:subtema>
+      <ct:subtema>PROJECTION AND REFLECTIONS</ct:subtema>
+      <ct:subtema>EIGENVALUES. THE SPECTRAL RESOLUTION IN EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>THE SPECTRAL THEOREM</ct:subtema>
+      <ct:subtema>THE GEOMETRIC DESCRIPTION OF A LINEAR OPERATOR IN A EUCLIDEAN SPACE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

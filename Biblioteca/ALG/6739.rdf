@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="MATRICES AND VECTORS">
+  <ct:tema>MATRICES AND VECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE ELIMINATION METHOD</ct:subtema>
+      <ct:subtema>NONHOMOGENEOUS SYSTEMS</ct:subtema>
+      <ct:subtema>EXISTENCE AND UNIQUENESS THEOREMS</ct:subtema>
+      <ct:subtema>VECTORS AND VECTOR SPACES</ct:subtema>
+      <ct:subtema>MATRIX EQUATIONS</ct:subtema>
+      <ct:subtema>THE THEORY OF MATRIX EQUATIONS</ct:subtema>
+      <ct:subtema>INDEPENDENCE</ct:subtema>
+      <ct:subtema>BASES AND COORDINATES</ct:subtema>
+      <ct:subtema>DIMENSION</ct:subtema>
+      <ct:subtema>THE DOT PRODUCT</ct:subtema>
+      <ct:subtema>ORTHOGONAL AND ORTHONORMAL SETS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TRANSFORMATIONS AND MATRICES">
+  <ct:tema>TRANSFORMATIONS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE MATRIX OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>SUMS AND SCALAR MULTIPLES</ct:subtema>
+      <ct:subtema>TRANSFORMATION AND MATRIX PRODUCTS</ct:subtema>
+      <ct:subtema>RULES AND SPECIAL PRODUCTS</ct:subtema>
+      <ct:subtema>HE INVERSE</ct:subtema>
+      <ct:subtema>THE INVERSE (CONTINUED)</ct:subtema>
+      <ct:subtema>CONDITIONS FOR INVERTIBILITY</ct:subtema>
+      <ct:subtema>DETERMINANTS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="REPRESENTATIONS OF LINEAR TRANSFORMATIONS">
+  <ct:tema>REPRESENTATIONS OF LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE MATRIX OF A LINEAR TRANSFORMATION WITH RESPECT TO A BASIS</ct:subtema>
+      <ct:subtema>CALCULATIONS WITH SIMILAR MATRICES</ct:subtema>
+      <ct:subtema>CHARACTERISTIC VECTORS</ct:subtema>
+      <ct:subtema>MATRICES SIMILAR TO DIAGONAL MATRICES</ct:subtema>
+      <ct:subtema>SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>TWO APPLICATIONS OF THE SPECTRAL THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR DIFFERENTIAL OPERATORS">
+  <ct:tema>LINEAR DIFFERENTIAL OPERATORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>FIRST-ORDCRLINEAR OPERATORS</ct:subtema>
+      <ct:subtema>SECOND-ORDER LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>THE TRANSLATION PRINCIPLE</ct:subtema>
+      <ct:subtema>HIGHER-ORDER LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>THE METHOD OF UNDETERMINED COEFFICIENTS</ct:subtema>
+      <ct:subtema>APPLICATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APPENDIX 1">
+  <ct:tema>APPENDIX 1</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ELEMENTARY ANALYTIC GEOMETRY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APPENDIX 1">
+  <ct:tema>APPENDIX 1</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DIMENSION THEORY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

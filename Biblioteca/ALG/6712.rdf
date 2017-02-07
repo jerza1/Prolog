@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones">
+<ct:tema>SISTEMAS DE ECUACIONES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>OPERACIONES ELEMENTALES</ct:subtema>
+        <ct:subtema>MATRIZ REDUCIDA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios vectoriales">
+<ct:tema>ESPACIOS VECTORIALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>BASE DE UN ESPACIO VECTORIAL</ct:subtema>
+        <ct:subtema>SUBESPACIO</ct:subtema>
+        <ct:subtema>SUMA DIRECTA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+<ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>UN TEOREMA FUERTE</ct:subtema>
+        <ct:subtema>ISOMORFISMO</ct:subtema>
+        <ct:subtema>LA MATRIZ DE UNA TRANSFORMACION LINEAL</ct:subtema>
+        <ct:subtema>MATRIZ DE CAMBIO DE BASE</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES EQUIVALENTES Y SIMILARES</ct:subtema>
+        <ct:subtema>VALORES PROPIOS Y VECTORES PROPIOS</ct:subtema>
+        <ct:subtema>ESPACIO DUAL</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinantes">
+<ct:tema>DETERMINANTES</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>PROPIEDADES</ct:subtema>
+        <ct:subtema>EL DESARROLLO DE UN DETERMINANTE POR MENORES</ct:subtema>
+        <ct:subtema>UN LEMA PRACTICO</ct:subtema>
+        <ct:subtema>REGLA DE CRAMER</ct:subtema>
+        <ct:subtema>GEOMETRIA Y DETERMINANTES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La forma canonica de Jordan">
+<ct:tema>LA FORMA CANONICA DE JORDAN</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>TEOREMA DE LA DESCOMPOSICIÓN PRIMA</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES NILPOTENTES</ct:subtema>
+        <ct:subtema>LA FORMA DE JORDAN</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacios con producto interior">
+<ct:tema>ESPACIOS CON PRODUCTO INTERIOR</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>ESPACIO DUAL</ct:subtema>
+        <ct:subtema>ADJUNTO Y TRANSPUESTA</ct:subtema>
+        <ct:subtema>OPERADORES HERMITIANOS Y SIMÉTRICOS</ct:subtema>
+        <ct:subtema>OPERADORES UNITARIOS Y ORTOGONALES</ct:subtema>
+        <ct:subtema>ISOMETRÍAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Formas bilineales y cuadráticas">
+<ct:tema>FORMAS BILINEALES Y CUADRÁTICAS</ct:tema>
+<ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN</ct:subtema>
+        <ct:subtema>FORMAS BILINEALES Y CUADRÁTICAS</ct:subtema>
+        <ct:subtema>FORMAS BILINEALES</ct:subtema>
+        <ct:subtema>FORMAS BILINEALES SIMÉTRICAS</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS Y ESPACIOS EUCLIDIANOS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

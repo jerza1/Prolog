@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="La linealidad y las Matrices">
+ <ct:tema>LA LINEALIDAD Y LAS MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>LAS MATRICES Y LAS OPERACIONES CON MATRICES</ct:subtema>
+        <ct:subtema>ASPECTOS LINEALES DEL ANÁLISIS NUMÉRICO NO-LINEAL</ct:subtema>
+        <ct:subtema>OPERADORES LINEALES EN ESPACIOS DE FUNCIONES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Fundamentos del Algebra Lineal">
+ <ct:tema>FUNDAMENTOS DEL ALGEBRA LINEAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>MATRICES</ct:subtema>
+        <ct:subtema>FUNCIONES LINEALES</ct:subtema>
+        <ct:subtema>ESPACIOS LINEALES ABSTRACTOS</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Los Algoritmos y la Computación">
+ <ct:tema>LOS ALGORITMOS Y LA COMPUTACIÓN</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>LOS ALGORITMOS Y LA PROGRAMACIÓN</ct:subtema>
+        <ct:subtema>LA COMPLEJIDAD COMPUTACIONAL</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas de Ecuaciones Lineales: Métodos">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES: MÉTODOS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DIRECTOS</ct:subtema>
+        <ct:subtema>GENERALIDADES SOBRE LOS SISTEMAS LINEALES</ct:subtema>
+        <ct:subtema>LA REGLA DE CRAMER</ct:subtema>
+        <ct:subtema>LA ELIMINACIÓN GAUSSIANA</ct:subtema>
+        <ct:subtema>LA REDUCCIÓN DE CROUT</ct:subtema>
+        <ct:subtema>INVERSÍÓN DE MATRICES Y CÁLCULO DEL DETERMINANTE</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas de Ecuaciones Lineales: Métodos">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES: MÉTODOS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>ITERATIVOS</ct:subtema>
+        <ct:subtema>PROCESOS DE ITERACIÓN</ct:subtema>
+        <ct:subtema>MÉTODOS ITERATIVOS ESTACIONARIOS</ct:subtema>
+        <ct:subtema>EL MÉTODO CLÁSICO</ct:subtema>
+        <ct:subtema>LOS MÉTODOS DE JACOBI Y DE GAUSS-SEIDEL</ct:subtema>
+        <ct:subtema>ACELERACIÓN DE SEIDEL</ct:subtema>
+        <ct:subtema>MÉTODOS ITERATIVOS NO-ESTACIONARIOS</ct:subtema>
+        <ct:subtema>MÉTODOS DE RELAJACIÓN SUCESIVA</ct:subtema>
+        <ct:subtema>MÉTODOS DEL GRADIENTE</ct:subtema>
+        <ct:subtema>MÉTODOS DEL GRADIENTE CONJUGADO</ct:subtema>
+        <ct:subtema>EL MÉTODO DE ACELERACIÓN</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Análisis del Error Computacional">
+ <ct:tema>ANÁLISIS DEL ERROR COMPUTACIONAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>PROPAGACIÓN DE ERRORES</ct:subtema>
+        <ct:subtema>ERROR EN LA SOLUCIÓN DE SISTEMAS LINEALES</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Valores Propios y Vectores Propios">
+ <ct:tema>VALORES PROPIOS Y VECTORES PROPIOS</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>PROPIEDADES DE PAREJAS PROPIAS</ct:subtema>
+        <ct:subtema>EL POLINOMIO CARACTERISTICO</ct:subtema>
+        <ct:subtema>MÉTODOS DE POTENCIAS</ct:subtema>
+        <ct:subtema>EJEMPLO: MODELOS ESTOCÁSTICOS</ct:subtema>
+        <ct:subtema>EL MÉTODO DE LA ITERACIÓN INVERSA</ct:subtema>
+        <ct:subtema>MATRICES SIMÉTRICAS</ct:subtema>
+        <ct:subtema>EJEMPLO: PEQUEÑAS VIBRACIONES</ct:subtema>
+        <ct:subtema>ROTACIONES Y MATRICES ORTOGONALES</ct:subtema>
+        <ct:subtema>EL ALGORTIMO DE JACOBI</ct:subtema>
+        <ct:subtema>EL MÉTODO DE GIVENS</ct:subtema>
+        <ct:subtema>LOS VALORES PROPIOS DE MATRICES TRIDIAGONALES</ct:subtema>
+        <ct:subtema>PROPIEDAD DE LA SUCESIÓN DE STURM</ct:subtema>
+        <ct:subtema>EL MÉTODO QR</ct:subtema>
+        <ct:subtema>LA DESCOMPOSICIÓN QR</ct:subtema>
+     </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

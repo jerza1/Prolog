@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Matrices and systems of equations">
+<ct:tema>MATRICES AND SYSTEMS OF EQUATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+        <ct:subtema>ROW ECHELON FORM</ct:subtema>
+        <ct:subtema>MATRIX ALGEBRA</ct:subtema>
+        <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+        <ct:subtema>PARTITIONED MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+<ct:tema>DETERMINANTS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>THE DETERMINANT OF A MATRIX</ct:subtema>
+        <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+        <ct:subtema>CRAMER´S RULE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector spaces">
+<ct:tema>VECTOR SPACES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINITION AND EXAMPLES</ct:subtema>
+        <ct:subtema>SUBSPACES</ct:subtema>
+        <ct:subtema>LINEAR INDEPENDENCE</ct:subtema>
+        <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+        <ct:subtema>CHANGE OF BASIS</ct:subtema>
+        <ct:subtema>ROW SPACE AND COLUMN SPACE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear transformations">
+<ct:tema>LINEAR TRANSFORMATIONS</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>DEFINITION AND EXAMPLES</ct:subtema>
+        <ct:subtema>MATRIX REPRESENTATIONS OF LINEAR TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>SIMILARITY</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Orthogonality">
+<ct:tema>ORTHOGONALITY</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>THE SCALAR PRODUCT IN R^N</ct:subtema>
+        <ct:subtema>ORTHOGONAL SUBSPACES</ct:subtema>
+        <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+        <ct:subtema>LEAST SQUARES PROBLEMS</ct:subtema>
+        <ct:subtema>ORTHONORMAL SETS</ct:subtema>
+        <ct:subtema>THE GRAM-SCHMIDT ORTHOGONALIZATION PROCESS</ct:subtema>
+        <ct:subtema>ORTHOGONAL POLYNOMIALS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues">
+<ct:tema>EIGENVALUES</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>EIGENVALUES AND EIGENVECTORS</ct:subtema>
+        <ct:subtema>SYSTEMS OF LINEAR DIFFERENTIAL EQUATIONS</ct:subtema>
+        <ct:subtema>DIAGONALIZATION</ct:subtema>
+        <ct:subtema>HERMITIAN MATRICES</ct:subtema>
+        <ct:subtema>QUADRATIC FORMS</ct:subtema>
+        <ct:subtema>POSITIVE DEFINITE MATRICES</ct:subtema>
+        <ct:subtema>NONNEGATIVE MATRICES</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Numerical linear algebra">
+<ct:tema>NUMERICAL LINEAR ALGEBRA</ct:tema>
+<ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>FLOATING-POINT NUMBERS</ct:subtema>
+        <ct:subtema>GAUSSIAN ELIMINATION</ct:subtema>
+        <ct:subtema>PIVOTING STRATEGIES</ct:subtema>
+        <ct:subtema>MATRIX NORMS AND CONDITION NUMBERS</ct:subtema>
+        <ct:subtema>ORTHOGONAL TRANSFORMATIONS</ct:subtema>
+        <ct:subtema>THE SINGULAR VALUE DECOMPOSITION</ct:subtema>
+        <ct:subtema>THE EIGENVALUE PROBLEM</ct:subtema>
+        <ct:subtema>LEAST SQUARES PROBLEMS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

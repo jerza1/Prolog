@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="geometric vectors">
+  <ct:tema>GEOMETRIC VECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTORS IN ELEMENTARY SCIENCE</ct:subtema>
+      <ct:subtema>VECTORS IN PLANE GEOMETRY</ct:subtema>
+      <ct:subtema>VECTORS IN ANALYTIC GEOMETRY</ct:subtema>
+      <ct:subtema>ISOMORPHISM OF THE TWO VECTOR SYSTEMS</ct:subtema>
+      <ct:subtema>THE DOT PRODUCT</ct:subtema>
+      <ct:subtema>SOME ANALYTIC VECTOR GEOMETRY</ct:subtema>
+      <ct:subtema>THE CROSS PRODUCT IN 3-SPACE</ct:subtema>
+      <ct:subtema>LINES AND PLANES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="matrices and linear equations">
+  <ct:tema>MATRICES AND LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MATRICES AS RECTANGULAR ARRAYS</ct:subtema>
+      <ct:subtema>ARITHMETIC OF MATRICES</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS: GAUSSIAN REDUCTION</ct:subtema>
+      <ct:subtema>SOLUTION BY GENERAL GAUSSIAN REDUCTION</ct:subtema>
+      <ct:subtema>DETERMINANTS</ct:subtema>
+      <ct:subtema>SOLUTION OF LINEAR SYSTEMS: CRAMER'S RULE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="real vector spaces">
+  <ct:subtema>REAL VECTOR SPACES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>REAL VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE OF VECTORS</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>TWO IMPORTANT THEOREMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="linear transformation and matrices">
+  <ct:subtema>LINEAR TRANSFORMATION AND MATRICES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>PROPERTIES OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>NONSINGULAR LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>MATRICES OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>MATRICES IN MULTIPLICATIVE SYSTEMS</ct:subtema>
+      <ct:subtema>INVERSION OF MATRICES</ct:subtema>
+      <ct:subtema>MATRIX INVERSION BY GAUSSIAN REDUCTION</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="inner product spaces">
+  <ct:subtema>INNER PRODUCT SPACES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>THE GRAM-SCHMIDT PROCESS OF ORTHOGONALIZATION</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASES AND ORTHOGONAL COMPLEMENTS</ct:subtema>
+      <ct:subtema>CHARACTERISTIC VALUES AND VECTORS</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS</ct:subtema>
+      <ct:subtema>SIMILARITY AND DIAGONAL MATRICES</ct:subtema>
+      <ct:subtema>GEOMETRY: ORTHOGONAL TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>GEOMETRY: QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>GEOMETRY: ORTHOGONAL REDUCTION OF QUADRATIC FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Vectors">
+  <ct:tema>VECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>COORDINATE SYSTEMS</ct:subtema>
+      <ct:subtema>VECTORS AND THEIR COMPONENTS</ct:subtema>
+      <ct:subtema>LENGTH OF A VECTOR</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF VECTORS BY SCAHRS</ct:subtema>
+      <ct:subtema>ADDITION OF VECTORS; LINEAR COMBINATIONS</ct:subtema>
+      <ct:subtema>DOT PRODUCTS</ct:subtema>
+      <ct:subtema>CROSS PRODUCTS</ct:subtema>
+      <ct:subtema>VECTORS IN N-SPACE</ct:subtema>
+      <ct:subtema>STILL MORE GENERAL VECTOR SPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planes and Lines">
+  <ct:tema>PLANES AND LINES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PLANES</ct:subtema>
+      <ct:subtema>LINES</ct:subtema>
+      <ct:subtema>VECTOR FUNCTIONS OF SCALARS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Functions">
+  <ct:tema>LINEAR FUNCTIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION</ct:subtema>
+      <ct:subtema>MATRICES</ct:subtema>
+      <ct:subtema>SUMS AND SCALAR MULTIPLES OF LINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>COMPOSITES OF LINEAR MAPPINGS AND PRODUCTS OF MATRICES</ct:subtema>
+      <ct:subtema>INVERSES</ct:subtema>
+      <ct:subtema>KERNEL AND IMAGE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Solution of Equations">
+  <ct:tema>SOLUTION OF EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SOLUTION PROCESS; REDUCTION TO ECHELON FORM</ct:subtema>
+      <ct:subtema>CLOSER ANALYSIS OF THE SOLUTIONS AND THE SOLUTION METHOD</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Dimension">
+  <ct:tema>DIMENSION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>DIMENSION</ct:subtema>
+      <ct:subtema>RANK</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants and Transposes">
+  <ct:tema>DETERMINANTS AND TRANSPOSES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>COMPUTATION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>EXPLICIT FORMULAS</ct:subtema>
+      <ct:subtema>TRANSPOSES</ct:subtema>
+      <ct:subtema>SYMMETRIC MATRICES AND MAPPINGS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues">
+  <ct:tema>EIGENVALUES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DIAGONALIZABLE TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>COMPUTATION OF EIGENVALUES AND EIGENVECTORS</ct:subtema>
+      <ct:subtema>PRINCIPAL AXIS THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Quadratic Forms and Change of Basis">
+  <ct:tema>QUADRATIC FORMS AND CHANGE OF BASIS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>CHANGE OF COORDINATES</ct:subtema>
+      <ct:subtema>EFFECT OF CHANGE OF BASIS ON MATRICES OF LINEAR FUNCTIONS</ct:subtema>
+      <ct:subtema>OPERADORES UNITARIOS</ct:subtema>
+      <ct:subtema>OPERADORES NORMALES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix I">
+  <ct:tema>APPENDIX I</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>A SMATTERING OF LOGIC</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix II">
+  <ct:tema>APPENDIX II</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>EXISTENCC OF REAL EIGENVALUES OF SYMMETRIC MAPPINGS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+</rdf:RDF> 
+

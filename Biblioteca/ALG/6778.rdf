@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Preliminaries">
+  <ct:tema>PRELIMINARIES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>FUNCTIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Equations and Matrices">
+  <ct:tema>LINEAR EQUATIONS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>MATRICES; MATRIX OPERATIONS</ct:subtema>
+      <ct:subtema>ALGEBRAIC PROPERTIES OF MATRIX OPERATIONS</ct:subtema>
+      <ct:subtema>SPECIAL TYPES OF MATRICES AND PARTITIONED MATRICES</ct:subtema>
+      <ct:subtema>ECHELON FORM OF A MATRIX</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+      <ct:subtema>EQUIVALENT MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Real Vector Spaces">
+  <ct:tema>REAL VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR SPACES AND SUBSPACES</ct:subtema>
+      <ct:subtema>LINEAR INDEPENDENCE AND BASES</ct:subtema>
+      <ct:subtema>COORDINATES AND ISOMORPHISMS</ct:subtema>
+      <ct:subtema>THE RANK OF A MATRIX</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations and Matrices">
+  <ct:tema>LINEAR TRANSFORMATIONS AND MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION AND EXAMPLES</ct:subtema>
+      <ct:subtema>THE KERNEL AND RANGE OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>THE MATRIX OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>THE VECTOR SPACE OF MATRICES AND THE Vector Space
+of Linear Transformations</ct:subtema>
+      <ct:subtema>SIMILARITY</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determinants">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION</ct:subtema>
+      <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>COFACTOR EXPANSION</ct:subtema>
+      <ct:subtema>THE INVERSE OF A MATRIX</ct:subtema>
+      <ct:subtema>OTHER APPLICATIONS OF DETERMINANTS</ct:subtema>
+      <ct:subtema>DETERMINANTS FROM A COMPUTATIONAL POINT OF VIEW</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues and Eigenvectors">
+  <ct:tema>EIGENVALUES AND EIGENVECTORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DIAGONALIZATION</ct:subtema>
+      <ct:subtema>THE STANDARD INNER PRODUCT ON R3</ct:subtema>
+      <ct:subtema>EUCLIDEAN SPACES</ct:subtema>
+      <ct:subtema>THE GRAM-SCHMIDT PROCESS</ct:subtema>
+      <ct:subtema>DIAGONALIZATION OF SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>REAL QUADRATIC FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Differential Equations">
+  <ct:tema>DIFFERENTIAL EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

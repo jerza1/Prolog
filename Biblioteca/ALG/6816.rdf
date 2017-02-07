@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="THREE-DIMENSIONAL ANALYTIC GEOMETRY">
+  <ct:tema>THREE-DIMENSIONAL ANALYTIC GEOMETRY</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>COORDINATES IN SPACE</ct:subtema>
+      <ct:subtema>THE DISTANCE FORMULA</ct:subtema>
+      <ct:subtema>VECTORS</ct:subtema>
+      <ct:subtema>TRANSLATION OF AXES</ct:subtema>
+      <ct:subtema>ADDITION OF VECTORS</ct:subtema>
+      <ct:subtema>MULTIPLICATION BY SCALARS</ct:subtema>
+      <ct:subtema>INNER PRODUCTS</ct:subtema>
+      <ct:subtema>EQUATION OF A PLANE</ct:subtema>
+      <ct:subtema>EQUATIONS OF A LINE</ct:subtema>
+      <ct:subtema>SURFACES INTHREE-DIMENSIONAL SPACE</ct:subtema>
+      <ct:subtema>CURVES IN SPACE</ct:subtema>
+      <ct:subtema>CYLINDERS</ct:subtema>
+      <ct:subtema>CONES</ct:subtema>
+      <ct:subtema>SURFACES OF REVOLUTION</ct:subtema>
+      <ct:subtema>THE QUADRIC SURFACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>MAPPINGS</ct:subtema>
+      <ct:subtema>FIELDS</ct:subtema>
+      <ct:subtema>VECTOR SPACES</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>LINEAR DEPENDENCE</ct:subtema>
+      <ct:subtema>BASES AND DIMENSION OF A VECTOR SPACE</ct:subtema>
+      <ct:subtema>BASES AND COORDINATES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MATRICES AND SYSTEMS OF LINEAR EQUATIONS">
+  <ct:tema>MATRICES AND SYSTEMS OF LINEAR EQUATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MATRICES</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF MATRICES</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+      <ct:subtema>ROW-EQUIVALENCE AND THE REDUCED ROW-ECHElon form of a
+matrix</ct:subtema>
+      <ct:subtema>RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>THE SOLUTION SPACE OF A HOMOGENEOUS SYSTEM</ct:subtema>
+      <ct:subtema>THE COLUMN SPACE AND NULL SPACE OF A MATRIX</ct:subtema>
+      <ct:subtema>NONHOMOGENEOUS SYSTEMS</ct:subtema>
+      <ct:subtema>NONSINGULAR MATRICES AND MATRIX INVERSION</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+      <ct:subtema>MULTIPLICATION OF PARTITIONED MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DETERMINANTS">
+  <ct:tema>DETERMINANTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PERMUTATIOS</ct:subtema>
+      <ct:subtema>DETERMINANT OF AN N X N MATRIX</ct:subtema>
+      <ct:subtema>PROPERTIES OF DETERMINANTS</ct:subtema>
+      <ct:subtema>EVALUATION OF DETERMINANTS</ct:subtema>
+      <ct:subtema>EXPANSION BY COFACTORS</ct:subtema>
+      <ct:subtema>DETERMINANTS AND RANK</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INNER PRODUCTS">
+  <ct:tema>INNER PRODUCTS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE DOT PRODUCT IN V3</ct:subtema>
+      <ct:subtema>THE STANDARD INNER PRODUCT IN VN</ct:subtema>
+      <ct:subtema>ORTHOGONAL COMPLEMENTS AND PROJECTIONS IN VN</ct:subtema>
+      <ct:subtema>VOLUME IN VN</ct:subtema>
+      <ct:subtema>ABSTRACT INNER PRODUCT SPACES OVER THE REAL FIELD</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASES</ct:subtema>
+      <ct:subtema>INNER PRODUCT SPACE ISOMORPHISMS</ct:subtema>
+      <ct:subtema>INNER PRODUCTS AS BILINEAR FORMS</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS</ct:subtema>
+      <ct:subtema>ROTATION AND REFLECTION OF COORDINATE AXES IN VN</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR TRANSFORMATIONS">
+  <ct:tema>LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITION AND BASIC PROPERTIES</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>MATRIX REPRESENTATION</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS OF A VECTOR SPACE INTO ITSELF</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS</ct:subtema>
+      <ct:subtema>ORTHOGONAL TRANSFORMATIONS IN AN INNER PRODUCT SPACE</ct:subtema>
+      <ct:subtema>INVARIANT SUBSPACES AND DIRECT SUM DECOMPOSITIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SIMILARITY AND DIAGONALIZATION THEOREMS">
+  <ct:tema>SIMILARITY AND DIAGONALIZATION THEOREMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SIMILAR MATRICES</ct:subtema>
+      <ct:subtema>EIGENVALUES AND EIGENVECTORS OF A MATRIX</ct:subtema>
+      <ct:subtema>THE TRIANGULARIZATION THEOREM </ct:subtema>
+      <ct:subtema>APPLICATION TO SYSTEMS OF LINEAR DIFFERENTIAL EQUATIONS</ct:subtema>
+      <ct:subtema>REAL SYMMETRIC MATRICES</ct:subtema>
+      <ct:subtema>APPLICATION TO LINEAR OPERATORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="REDUCTION OF QUADRATIC FORMS AND APPLICATIONS">
+  <ct:tema>REDUCTION OF QUADRATIC FORMS AND APPLICATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>EQUIVALENCE OF QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>CLASSIFICATION OF QUADRIC SURFACES</ct:subtema>
+      <ct:subtema>CLASSIFICATION OF QUADRICS BY RANK</ct:subtema>
+      <ct:subtema>INVARIANTS</ct:subtema>
+      <ct:subtema>A PROBLEM IN DYNAMICS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="COMPLEX INNER PRODUCT SPACES">
+  <ct:tema>COMPLEX INNER PRODUCT SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE STANDARD INNER PRODUCT IN VN</ct:subtema>
+      <ct:subtema>INNER PRODUCT SPACES OVER THE COMPLEX FIELD</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASES AND UNITARY MATRICES</ct:subtema>
+      <ct:subtema>INNER PRODUCTS AS HERMITIAN BILINEAR FORMS</ct:subtema>
+      <ct:subtema>HERMITIAN MATRICES</ct:subtema>
+      <ct:subtema>NORMAL MATRICES</ct:subtema>
+      <ct:subtema>SPECTRAL DECOMPOSITION OF A DIAGONALIZABLE MATRIX</ct:subtema>
+      <ct:subtema>SOQUENCES AND SERIES OF MATRICES</ct:subtema>
+      <ct:subtema>LINEAR OPERATORS IN A UNITARY SPACE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

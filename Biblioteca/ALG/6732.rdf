@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduction">
+  <ct:tema>INTRODUCTION</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SETS</ct:subtema>
+      <ct:subtema>MAPPINGS</ct:subtema>
+      <ct:subtema>BINAFY OPERATIONS</ct:subtema>
+      <ct:subtema>THE INTEGERS</ct:subtema>
+      <ct:subtema>GROUPS, RINGS, FIELDS</ct:subtema>
+      <ct:subtema>POLNOMIALS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vector Spaces">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITIONS AND EXAMPLES</ct:subtema>
+      <ct:subtema>SUBSPACES</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION OF A VECTOR SPACE</ct:subtema>
+      <ct:subtema>THE MODULE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations">
+  <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITIONS AND FUNDAMENTAL PROPERTIES</ct:subtema>
+      <ct:subtema>NONSINGULAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>SETS OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>AFFINE SPACES </ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Quotient Spacesand Direct Sums">
+  <ct:subtema>QUOTIENT SPACESAND DIRECT SUMS</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>QUOTIENT SPACES</ct:subtema>
+      <ct:subtema>EQUIVALENCE RELATIONS</ct:subtema>
+      <ct:subtema>DIRECT SUMS</ct:subtema>
+      <ct:subtema>EXACT SEQUENCES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Linear Transformations and Matrices">
+  <ct:subtema>LINEAR TRANSFORMATIONS AND MATRICES</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>REPRESENTATION OF A LINEAR TRANSFORMATION BY A MATRIX</ct:subtema>
+      <ct:subtema>OPERATIONS ON MATRICES</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS AND SIMILAR MATRICES</ct:subtema>
+      <ct:subtema>THE VECTOR SPACE HOM(V,W)</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inner-Product Vector Spacesand Dual Spaces">
+  <ct:tema>INNER-PRODUCT VECTOR SPACESAND DUAL SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE LNNER PRODUCT</ct:subtema>
+      <ct:subtema>ORTHONORMAL BASIS</ct:subtema>
+      <ct:subtema>ISOMETRIES</ct:subtema>
+      <ct:subtema>ORTHOGONAL OPERATORS ON FINITE-DIMENSIONAL INNER-PRODUCT VECTOR SPACES</ct:subtema>
+      <ct:subtema>DUAL SPACES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Matrices and Determinants">
+  <ct:subtema>MATRICES AND DETERMINANTS</ct:subtema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PERMUTATIONS</ct:subtema>
+      <ct:subtema>RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES</ct:subtema>
+      <ct:subtema>THE DETERMINANT</ct:subtema>
+      <ct:subtema>PROPERTIES OF THE DETERMINANT</ct:subtema>
+      <ct:subtema>INVERSE OF A MATRIX</ct:subtema>
+      <ct:subtema>SYSTEMS OF LINEAR EQUATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalues and the Spectral Theorem">
+  <ct:tema>EIGENVALUES AND THE SPECTRAL THEOREM</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DEFINITIONS AND EXAMPPLES</ct:subtema>
+      <ct:subtema>THE MINIMAL POLYNOMIAL</ct:subtema>
+      <ct:subtema>THE ADJOINT OPERATOR</ct:subtema>
+      <ct:subtema>HERMITIAN OPERATORS</ct:subtema>
+      <ct:subtema>THE SPECTRAL THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Bilinear and Quadratic Forms">
+  <ct:tema>BILINEAR AND QUADRATIC FORMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>DETINITION AND NOTATION</ct:subtema>
+      <ct:subtema>THE REDUCTION OF QUADRATIC FORMS UNDER GROUPS</ct:subtema>
+      <ct:subtema>THE REDUCTION OF A QUADRATIC FORM UNDER THE FULL LINEAR GROUP</ct:subtema>
+      <ct:subtema>REDUCTION OF A QUADRATIC FORM UNDER THE ORTHOGONAL GROUP</ct:subtema>
+      <ct:subtema>POSITIVE DEFINITENESS</ct:subtema>
+      <ct:subtema>THE SIMULTANEOUS REDUCTION OF QUADRATIC FORMS</ct:subtema>
+      <ct:subtema>HERMITIAN FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Canonical Forms for Linear Transformations">
+  <ct:tema>CANONICAL FORMS FOR LINEAR TRANSFORMATIONS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INVARIANT SUBSPACE</ct:subtema>
+      <ct:subtema>DECOMPOSITION THEOREMS</ct:subtema>
+      <ct:subtema>THE RATIONAL CANONICAL FORM</ct:subtema>
+      <ct:subtema>THE JORDAN CANONICAL FORM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TheTensorProductofVectorSpace">
+  <ct:tema>THETENSORPRODUCTOFVECTORSPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>MUITILINEAR MAPPINGS</ct:subtema>
+      <ct:subtema>THE TENSOR PRODUCT</ct:subtema>
+      <ct:subtema>EXISTENCE OF THE TENSOR PRODUCT</ct:subtema>
+      <ct:subtema>COMPUTATION IN V O W</ct:subtema>
+      <ct:subtema>LINEAR TRANSFORMATIONS ON V O W</ct:subtema>
+      <ct:subtema>LSOMORPHISMS OF TENSOR PRODUCTS</ct:subtema>
+      <ct:subtema>DIRECT SUMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Exterior Algebra of a Vector Space">
+  <ct:tema>THE EXTERIOR ALGEBRA OF A VECTOR SPACE</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ALGEBRAS</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF ALTERNATING FORMS</ct:subtema>
+      <ct:subtema>THE EXTERIOR ALGEBRA</ct:subtema>
+      <ct:subtema>THE ALGEBRA OF DIFFERENTIAL FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

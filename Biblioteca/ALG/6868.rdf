@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Matrices">
+  <ct:tema>MATRICES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE ALGEBRA OF N-TUPLES</ct:subtema>
+      <ct:subtema>LINEAR SYSTEMS;REDUCING A MATRIX</ct:subtema>
+      <ct:subtema>THE MAPPING DETERMINANT</ct:subtema>
+      <ct:subtema>PROPERTIES OF DETERMINANT</ct:subtema>
+      <ct:subtema>SECOND-LEVEL MINORS</ct:subtema>
+      <ct:subtema>PRINCIPLE OF DUALITY; DET</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTORS AND llNEAR SYSTEMS">
+  <ct:tema>VECTORS AND LLNEAR SYSTEMS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>SUBSPACES AND LINEAR COMBINATIONS</ct:subtema>
+      <ct:subtema>BASIS AND DIMENSION</ct:subtema>
+      <ct:subtema>MORE ABOUT LINEAR SYSTEMS</ct:subtema>
+      <ct:subtema>CHARACTERIZING THE SOLUTION SET OF A LINEAR SYSTEM</ct:subtema>
+      <ct:subtema>COMPUTING THE RANK OF A MATRIX</ct:subtema>
+      <ct:subtema>RANK AND THE MAPPING DETERMINANT</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MATRIX ALBEGRA">
+  <ct:tema>MATRIX ALBEGRA</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THE DOT PRODUCT</ct:subtema>
+      <ct:subtema>LENGTH AND ANGLE</ct:subtema>
+      <ct:subtema>MATRIX ALGEBRA</ct:subtema>
+      <ct:subtema>INVERSES; THE RANK OF A PRODUCT</ct:subtema>
+      <ct:subtema>ELEMENTARY MATRICES; MIXED MATRICES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lines">
+  <ct:tema>LINES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>THREE-DIMENSIONAL EUCLIDEAN SPACE</ct:subtema>
+      <ct:subtema>THE LINE THROUGH TWO POINTS</ct:subtema>
+      <ct:subtema>DIRECTION AND DIRECTED LINES</ct:subtema>
+      <ct:subtema>DIRECTED DISTANCE</ct:subtema>
+      <ct:subtema>PERPENDICULAR LINES; THE VECTOR PRODUCT</ct:subtema>
+      <ct:subtema>ANOTHER METHOD OF COMPUTING INVERSE</ct:subtema>
+      <ct:subtema>DISTANCE BETWEEN TWO LINES</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planes">
+  <ct:tema>PLANES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>PLANES AND HYPERPLANES</ct:subtema>
+      <ct:subtema>NORMAL TO A PLANE</ct:subtema>
+      <ct:subtema>NTERSECTION OF PLANES</ct:subtema>
+      <ct:subtema>DISTANCE BETWEEN A POINT AND A PLANE</ct:subtema>
+      <ct:subtema>FAMILY OF PLANES THAT CONTAIN A LINE</ct:subtema>
+      <ct:subtema>ANGLE BETWEEN PLANES</ct:subtema>
+      <ct:subtema>COORDINATE SYSTEM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MODERN ALBEGRA">
+  <ct:tema>MODERN ALBEGRA</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>ALGEBRAIC SYSTEMS</ct:subtema>
+      <ct:subtema>GROUPS</ct:subtema>
+      <ct:subtema>CYCLIC GROUPS</ct:subtema>
+      <ct:subtema>PERMUTATION GROUPS</ct:subtema>
+      <ct:subtema>RINGS</ct:subtema>
+      <ct:subtema>FIELDS</ct:subtema>
+      <ct:subtema>LSOMORPHIC ALGEBRAIC SYSTEMS</ct:subtema>
+      <ct:subtema>ORDERED FIELDS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VECTOR SPACES">
+  <ct:tema>VECTOR SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR SPACES</ct:subtema>
+      <ct:subtema>STEINITZ REPLACEMENT THEOREM</ct:subtema>
+      <ct:subtema>CHANGE OF BASIS</ct:subtema>
+      <ct:subtema>BASIS TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>COORDINATE TRANSFORMATIONS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="POLYNOMIALS">
+  <ct:tema>POLYNOMIALS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>VECTOR SPACE OF POLYNOMIALS</ct:subtema>
+      <ct:subtema>RING OF POLYNOMIALS</ct:subtema>
+      <ct:subtema>POLYNOMIAL FUNCTIONS</ct:subtema>
+      <ct:subtema>THE DIVISION THEOREM</ct:subtema>
+      <ct:subtema>GREATEST COMMON DIVISOR</ct:subtema>
+      <ct:subtema>PRIME POLYNOMIALS</ct:subtema>
+      <ct:subtema>MATRIC POLYNOMIALSAND POLYNOMIALMATRICE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LINEAR OPERATORS">
+  <ct:tema>LINEAR OPERATORS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>THE NULL SPACE OF A LINEAR TRANSFORMATION</ct:subtema>
+      <ct:subtema>ALGEBRA OF LINEAR TRANSFORMATIONS</ct:subtema>
+      <ct:subtema>LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>INVERTIBLE LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>THE MINIMAL POLYNOMIAL OF A LINEAR OPERATORS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="CHARACTERISTIC POLYNOMIALS">
+  <ct:tema>CHARACTERISTIC POLYNOMIALS</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>CHARACTERISTIC VECTORS</ct:subtema>
+      <ct:subtema>THE CHARACTERISTIC POLYNOMIAL OF A MATRIX</ct:subtema>
+      <ct:subtema>MORE ABOUT SIMILAR MATRICES</ct:subtema>
+      <ct:subtema>THE CAYLEY-HAMILTON THEOREM</ct:subtema>
+      <ct:subtema>COMPUTING CHARACTERISTIC POLYNOMIALS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INNER PRODUCT SPACES">
+  <ct:tema>INNER PRODUCT SPACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>BILINEAR FORMS</ct:subtema>
+      <ct:subtema>REAL INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>PROPERTIES OF REAL INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>COMPLEX INNER PRODUCT SPACES</ct:subtema>
+      <ct:subtema>ORTHOGONAL OPERATORS</ct:subtema>
+      <ct:subtema>SYMMETRIC OPERATORS</ct:subtema>
+      <ct:subtema>QUADRATIC FORMS</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="OUADRIC SURFACES">
+  <ct:tema>OUADRIC SURFACES</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>QUADRIC SURFACES</ct:subtema>
+      <ct:subtema>INTERSECTION OF A QUADRIC SURFACE AND A LINE</ct:subtema>
+      <ct:subtema>DIAMETRAL PLANES; CENTERS</ct:subtema>
+      <ct:subtema>PRINCIPAL PLANES</ct:subtema>
+      <ct:subtema>COORDINATE TRANSFORMATIONS AND QUADRIC SURFACES</ct:subtema>
+      <ct:subtema>SIMPLIFYING QUADRIC SURFACE</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SIMPLIFYING THE MATRIX OF A LINEAR OPERATOR">
+  <ct:tema>SIMPLIFYING THE MATRIX OF A LINEAR OPERATOR</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>INVARIANT SUBSPACES</ct:subtema>
+      <ct:subtema>DIRECT SUM OF SUBSPACES</ct:subtema>
+      <ct:subtema>DIAGONABLE LINEAR OPERATORS</ct:subtema>
+      <ct:subtema>THE TRIANGULAR FORM THEOREM</ct:subtema>
+      <ct:subtema>T-CYCLIC SUBSPACES; JORDAN NORMAL FORM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THE PRINCIPAL AXES THEOREM">
+  <ct:tema>THE PRINCIPAL AXES THEOREM</ct:tema>
+  <ct:subtema>
+    <rdf:seq>
+      <ct:subtema>T-IRREDUCIBLE SUBSPACES</ct:subtema>
+      <ct:subtema>THE SPECTRAL THEOREM</ct:subtema>
+      <ct:subtema>THE PRINCIPAL AXES THEOREM</ct:subtema>
+    </rdf:seq>
+  </ct:subtema>
+</rdf:Description>
+
+</rdf:RDF>

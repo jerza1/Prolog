@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ct="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas de ecuaciones lineales y matrices">
+ <ct:tema>SISTEMAS DE ECUACIONES LINEALES Y MATRICES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LOS SISTEMAS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>ELIMINACIÓN GAUSSIANA</ct:subtema>
+        <ct:subtema>SISTEMAS HOMOGÉNEOS DE ECUACIONES LINEALES</ct:subtema>
+        <ct:subtema>MATRICES Y OPERADORES MATRICIALES</ct:subtema>
+        <ct:subtema>REGLAS DE LA ARITMÉTICA MATRICIAL</ct:subtema>
+        <ct:subtema>MATRICE ELEMENTALES Y UN MÉTODO PARA HALLAR A^-1</ct:subtema>
+        <ct:subtema>RESULTADOS ADICIONALES ACERCA DE LOS SISTEMAS DE ECUACIONES Y LA INVERSABILIDAD</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about=" Determinantes">
+ <ct:tema> DETERMINANTES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>LA FUNCIÓN DETERMINANTE</ct:subtema>
+        <ct:subtema>EVALUACIÓN DE LOS DETERMINANTES POR REDUCCIÓN EN LOS RENGLONES</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LA FUNCIÓN DETERMINANTE</ct:subtema>
+        <ct:subtema>DESARROLLO POR COFACTORES, REGLA DE CRAMER</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vectores en los espacios bidimensional y tridimensional">
+ <ct:tema>VECTORES EN LOS ESPACIOS BIDIMENSIONAL Y TRIDIMENSIONAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LOS VECTORES (GEÓMETRICOS)</ct:subtema>
+        <ct:subtema>NORMAS DE UN VECTOR; ARITMÉTICA VECTORIAL</ct:subtema>
+        <ct:subtema>PRODUCTO ESCALAR (PUNTO); PROYECCIONES</ct:subtema>
+        <ct:subtema>PRODUCTO VECTORIAL (CRUZ)</ct:subtema>
+        <ct:subtema>RECTAS Y PLANOS EN EEL ESPACIO TRIDIMENSIONAL</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about=" Espacios vectoriales">
+ <ct:tema> ESPACIOS VECTORIALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>ESPACIO EUCLIDIANO N DIMENSIONAL</ct:subtema>
+        <ct:subtema>ESPACIOS VECTORIALES  GENERALES</ct:subtema>
+        <ct:subtema>SUBESPACIOS</ct:subtema>
+        <ct:subtema>INDEPENDENCIA LINEAL</ct:subtema>
+        <ct:subtema>BASE Y DIMENSIÓN</ct:subtema>
+        <ct:subtema>ESPACIO DE RENGLONES Y COLUMNAS DE UNA MATRIZ; RANGO; APLICACIONES PARA HALLAR BASES</ct:subtema>
+        <ct:subtema>ESPACIOS DE PRODUCTOS INTERIORES</ct:subtema>
+        <ct:subtema>LONGITUD Y ÁNGULO EN LOS ESPACIOS DE PRODUCTOS INTERIORES</ct:subtema>
+        <ct:subtema>BASE ORTONORMALES; PROCESOS DE GRAM-SCHMIDT</ct:subtema>
+        <ct:subtema>COORDENADAS; CAMBIO DE BASE</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformaciones lineales">
+ <ct:tema>TRANSFORMACIONES LINEALES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>INTRODUCCIÓN A LAS TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>PROPIEDADES DE LAS TRANSFORMACIONES LINEALES; NÚCLEO (KERNEL) Y RECORRIDO</ct:subtema>
+        <ct:subtema>TRANSFORMACIONES LINEALES DE R^N HACIA R^M; GEÓMETRÍA DE LAS TRANSFORMACIONES LINEALES DE R^2 hacia R^2</ct:subtema>
+        <ct:subtema>MATRICES DE LAS TRANSFORMACIONES LINEALES</ct:subtema>
+        <ct:subtema>SEMEJANZA</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eigenvalores (valores propios), eigenvectores (vectores propios)">
+ <ct:tema>EIGENVALORES (VALORES PROPIOS), EIGENVECTORES (VECTORES PROPIOS)</ct:tema>
+ <ct:subtema>
+    <rdf:seq> 
+        <ct:subtema>EIGENVALORES Y EIGENVECTORES</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN</ct:subtema>
+        <ct:subtema>DIAGONALIZACIÓN ORTOGONAL; MATRICES SIMÉTRICAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aplicaciones">
+ <ct:tema>APLICACIONES</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>APLICACIÓN A LAS ECUACIONES DIFERENCIALES</ct:subtema>
+        <ct:subtema>APLICACIÓN A PROBLEMAS DE APROXIMACIÓN; SERIES DE FOURIER</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS; APLICACIÓN A LOS SECCIONES CÓNICAS</ct:subtema>
+        <ct:subtema>FORMAS CUADRÁTICAS; APLICACIÓN A LAS SUPERFICIES CUADRÁTICAS</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducción a los métodos numéricos del álgebra lineal">
+ <ct:tema>INTRODUCCIÓN A LOS MÉTODOS NUMÉRICOS DEL ÁLGEBRA LINEAL</ct:tema>
+ <ct:subtema>
+    <rdf:seq>
+        <ct:subtema>ELIMINACIÓN GAUSSIANA CON CONDENSACIÓN PIVOTAL</ct:subtema>
+        <ct:subtema>LOS MÉTODOS DE GAUSS-SEIDEL Y DE JACOBI</ct:subtema>
+        <ct:subtema>APROXIMACIÓN DE LOS EIGENVALORES POR EL MÉTODO DE LAS POTENCIAS</ct:subtema>
+        <ct:subtema>APROXIMACIÓN DE LOS EIGENVALORES NO DIMINALES POR DEFINICIÓN</ct:subtema>
+    </rdf:seq>
+</ct:subtema>
+</rdf:Description>
+</rdf:RDF>
