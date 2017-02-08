@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/BD/">
+
+<rdf:Description
+rdf:about="Introduction">
+<lb:tema>INTRODUCTION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE GENERAL STRULBURE OF RISS</lb:subtema>
+      <lb:subtema>THE RISS NAIVE-LEVEL INTERFACE</lb:subtema>
+      <lb:subtema>RISS APPLICATIONS-LEVEL INTERFACE</lb:subtema>
+      <lb:subtema>IMPLEMENTATION CODE FOR THE RISS NAIVE INTERFACE</lb:subtema>
+      <lb:subtema>APPLICATION PROGRAM DEVELOPMENT AND USES OF RISS RELATIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Application Program Development and Uses of RISS Relations">
+<lb:tema>APPLICATION PROGRAM DEVELOPMENT AND USES OF RISS RELATIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>APPENDIX A</lb:subtema>
+      <lb:subtema>APPENDIX B</lb:subtema>
+      <lb:subtema>REFERENCES AND BIBLIOGRAPHY</lb:subtema>
+      <lb:subtema>INDEX</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

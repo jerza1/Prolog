@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Pasos iniciales para trabajar con AutoCAD">
+<lb:tema>PASOS INICIALES PARA TRABAJAR CON AUTOCAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EQUIPO MÍNIMO REQUERIDO</lb:subtema>
+      <lb:subtema>CÓMO PONER EN FUNCIONAMIENTO LA COMPUTADORA</lb:subtema>
+      <lb:subtema>CÓMO HACER COPIAS DE SEGURIDAD</lb:subtema>
+      <lb:subtema>ASIGNACIÓN DE MEMORIA INTERMEDIA --[BUFFERS]</lb:subtema>
+      <lb:subtema>MEMORIA EXPANDIDA</lb:subtema>
+      <lb:subtema>UBICACIÓN DE MEMORIA PARA EL DOS</lb:subtema>
+      <lb:subtema>AUTOEXEC.BAT: EL ARCHIVO DE EJECUCIÓN AUTOMÁTICA</lb:subtema>
+      <lb:subtema>ESPACIO DE MEMORIA QUE REQUIERE AUTOCAD</lb:subtema>
+      <lb:subtema>AJUSTE DE MEMORIA CONVENCIONAL O RAM</lb:subtema>
+      <lb:subtema>CÓMO OBTENER MAYOR CAPACIDAD DE MEMORIA</lb:subtema>
+      <lb:subtema>AJUSTE DE MEMORIA EXTENDIDA Y EXPANDIDA</lb:subtema>
+      <lb:subtema>INSTALACION Y USO DEL RATÓN --[MOUSE]--</lb:subtema>
+      <lb:subtema>CÓMO RESTAURAR LA COMPUTADORA --[REBOOT]--</lb:subtema>
+      <lb:subtema>QUÉ HACE UN RATÓN EN UNA COMPUTADORA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Instalación de AutoCAD en disco fijo">
+<lb:tema>INSTALACIÓN DE AUTOCAD EN DISCO FIJO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO FUNCIONA AUTOCAD EN EL DISCO FIJO</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE AUTOCAD EN LA COMPUTADORA</lb:subtema>
+      <lb:subtema>CONFIGURACIONES MÚLTIPLES</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR LA PANTALLA PARA GRÁFICOS</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE LOS SELECTORES MANUALES</lb:subtema>
+      <lb:subtema>SELECCIÓN DEL GRAFICADOR --[PLOTTER]-- Y DE LA IMPRESORA</lb:subtema>
+      <lb:subtema>CUÁNDO ELIMINAR LOS CONTROLADORES DE DISPOSITIVO DEL DISCO FIJO</lb:subtema>
+      <lb:subtema>CÓMO INICIAR LA SESIÓN DE TRABAJO</lb:subtema>
+      <lb:subtema>EL MENÚ PRINCIPAL DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO SALIR DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN NUEVO ARCHIVO</lb:subtema>
+      <lb:subtema>CÓMO EDITAR UN ARCHIVO EXISTENTE</lb:subtema>
+      <lb:subtema>CÓMO GRAFICAR --[PLOT]-- UN DIBUJO</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO USAR LAS UTILIDADES DEL DOS</lb:subtema>
+      <lb:subtema>CÓMO COMPILAR ARCHIVOS Y CONVERTILOS EN ARCHIVOS DE AUTOCAD CON EXTENSIÓN .SHX</lb:subtema>
+      <lb:subtema>CÓMO CONVERTIR ARCHIVOS CREADOS CON LA VERSIÑON 2.0 O ANTERIORES</lb:subtema>
+      <lb:subtema>QÚE ES UNA TABLETA DIGITALIZADORA --[DIGITIZER TABLET]--</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Conozca el entorno de AutoCAD">
+<lb:tema>CONOZCA EL ENTORNO DE AUTOCAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>QUÉ ES LA PANTALLA EDITORA DE DIBUJOS --[DRAWING EDITOR SCREEN]</lb:subtema>
+      <lb:subtema>QUÉ ES EL ÁREA DE DIBUJO --[DRAWING AREA]--</lb:subtema>
+      <lb:subtema>QUÉ ES EL ÁREA DE APOYO DEL COMANDO --[COMMAND PROMPT AREA]--</lb:subtema>
+      <lb:subtema>QUÉ ES LA LÍNEA DE OPERATIVIDAD --[STATUS LINE]--</lb:subtema>
+      <lb:subtema>QUÉ ES EL MENÚ LATERAL DE PANTALLA --[SCREEN MENU]--</lb:subtema> 
+      <lb:subtema>CÓMO SE SELECCIONAN LA OPCIONES DEL MÉNÚ</lb:subtema>
+      <lb:subtema>CÓMO DARLE COMANDOS A AUTOCAD</lb:subtema>
+      <lb:subtema>EL COMANDO MODIFICADOR MULTIPLE</lb:subtema>
+      <lb:subtema>ACCESO A LOS DIFERENTES MODOS DE DIBUJO DE AUTOCAD</lb:subtema>
+      <lb:subtema>QUÉ ES AÙNTAR Y SELECCIONAR</lb:subtema>
+      <lb:subtema>USO DEL CURSOS EN AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO HACER MÁS PRECISA LA UBICACIÓN DEL CURSOR</lb:subtema>
+      <lb:subtema>DIBUJO DE LÍNEAS ORTOGONALES</lb:subtema>
+      <lb:subtema>QUÉ ES EL SISTEMA DE MENÚS DESPLEGABLE --[PULL-DOWN MENUS]--</lb:subtema>
+      <lb:subtema>CÓMO OBTENER AYUDA DE AUTOCAD</lb:subtema>
+      <lb:subtema>QUÉ ES EL MENÚ DE LA TABLETA DIGITALIZADORA --[TABLET MENU]--</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE LA TABLETA DIGITALIZADORA</lb:subtema>
+      <lb:subtema>CÓMO GUARDAR SU TRABAJO</lb:subtema>
+      <lb:subtema>SALIDA DEL EDITOR DE DIBUJO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Puntos, dimensiones, graficación, operaciones con archivo y con AutoShade">
+<lb:tema>PUNTOS, DIMENSIONES, GRAFICACIÓN, OPERACIONES CON ARCHIVO Y CON AUTOSHADE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COORDENADAS ABSOLUTAS --[ABSOLUTE COORDINATES]--</lb:subtema>
+      <lb:subtema>COORDENADAS RELATIVAS --[RELATIVE COORDINATES]--</lb:subtema>
+      <lb:subtema>QUÉ SON LAS COORDENADAS POLARES RELATIVAS</lb:subtema>
+      <lb:subtema>FILTROS DE PUNTOS TRIDIMENSIONALES --[POINT FILTERS]--</lb:subtema>
+      <lb:subtema>NOCIONES BÁSICAS SOBRE EL DIMENSIONAMIENTO</lb:subtema>
+      <lb:subtema>EL PROCESO DE DIMENSIONAMIENTO</lb:subtema>
+      <lb:subtema>PUNTOS DE DEFINICIÓN --[DEFINITION POINTS]</lb:subtema>
+      <lb:subtema>TEXTO DE ACOTACIÓN O DIMENSIONAMIENTO --[DIMENSION TEXT]--</lb:subtema>
+      <lb:subtema>LINEA DE COTA O DE DIMENSIÓN --[DIMENSION LINE]--</lb:subtema>
+      <lb:subtema>LINEAS DE REFERENCIA O DE EXTENSIÓN --[EXTENSION LINES]--</lb:subtema>
+      <lb:subtema>DIMENSIONES ASOCIATIVAS -[ASSOCIATIVE DIMENSIONS]--</lb:subtema>
+      <lb:subtema>ESCALAS DE DIMENSIONAMIENTO Y DE DIBUJO</lb:subtema>
+      <lb:subtema>SELECCIÓN DE LÍNEAS, ARCOS Y CÍRCULOS</lb:subtema>
+      <lb:subtema>CÓMO USAR EL MENÚ SOBREPUESTO DE SELECCIÓN</lb:subtema>
+      <lb:subtema>CÓMO CAMBIAR LOS MODOS DE SELECCIÓN DEL GRAFICADOR (DELINEADOR GRÁFICOO PLOTTER)</lb:subtema>
+      <lb:subtema>MENÚ DE CONFIGURACIÓN</lb:subtema>
+      <lb:subtema>MANEJO DE ARCHIVOS DESDE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO SALIR DEL MENÚ DE UTILIDADES DE FICHEROS</lb:subtema>
+      <lb:subtema>CÓMO VISUALIZAR UN LISTADO DE LOS ARCHIVOS DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO VISUALIZAR UN LISTADO DE LOS ARCHIVOS DE AUTOCAD DESIGNADOS POR EL USUARIO</lb:subtema>
+      <lb:subtema>CÓMO BORRAR ARCHIVOS DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO RENOMBRAR ARCHIVOS DE AUTOCAD</lb:subtema>
+      <lb:subtema>CÓMO COPIAR ARCHIVOS DE AUTOCAD</lb:subtema>
+      <lb:subtema>REQUERIMIENTOS DE HARDWARE PARA PODER TRABAJAR CON AUTOSHADE</lb:subtema>
+      <lb:subtema>EL USO DE LA CÁMARA CON AUTOSHADE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Opciones del Menú original --[Root menu]--">
+<lb:tema>OPCIONES DEL MENÚ ORIGINAL --[ROOT MENU]--</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>OPCIÓN AUTOCAD</lb:subtema>
+      <lb:subtema>OPCIÓN DE ASTERISCOS --[****]--</lb:subtema>
+      <lb:subtema>OPCIÓN SETUP --[INIC]--</lb:subtema>
+      <lb:subtema>OPCIÓN BLOCKS --[BLOQUES]--</lb:subtema>
+      <lb:subtema>OPCIÓN DIM --[ACOTAR]--</lb:subtema>
+      <lb:subtema>DISPLAY --[PANTALLA]-- COMANDOS DE VISUALIZACIÓN</lb:subtema>
+      <lb:subtema>DRAW --[DIBUJO]-- COMANDOS DE DIBUJO</lb:subtema>
+      <lb:subtema>EDIT --[EDICION]-- COMANDOS DE EDICIÓN</lb:subtema>
+      <lb:subtema>INQUIRY --[CONSULTA]-- COMANDOS DE INFORMACIÓN</lb:subtema>
+      <lb:subtema>LAYER --[CAPA]-- CAPAS DE DIBUJOS</lb:subtema>
+      <lb:subtema>SETTINGS --[MODOS]-- CONDICIONES DE TRABAJO</lb:subtema>
+      <lb:subtema>PLOT --[TRAZADOS]-- COMANDOS DE GRAFICACIÓN</lb:subtema>
+      <lb:subtema>QUÉ ES EL UCS --[SCP]--</lb:subtema>
+      <lb:subtema>UTILITY --[UTILIT]-- COMANDOS DE UTILIDAD</lb:subtema>
+      <lb:subtema>3D COMANDOS DE TRES DIMENSIONES</lb:subtema>
+      <lb:subtema>ASHADE COMANDOS PARA SOMBREAR SÓLIDOS</lb:subtema>
+      <lb:subtema>SAVE --[SALVA]-- COMANDOS PARA GRABAR</lb:subtema>
+      <lb:subtema>OPCIONES COMUNES DE LOS SUBMENÚS LATERALES DE PANTALLA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Un toque de AutoLISP">
+<lb:tema>UN TOQUE DE AUTOLISP</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ESPACIO DE TRABAJO Y MEMORIA USADA POR AUTOCAD Y AUTOLISP</lb:subtema>
+      <lb:subtema>AJUSTE DE LA MEMORIA CONVECIONAL O RAM</lb:subtema>
+      <lb:subtema>AJUSTE DE LA MEMORIA DISPONIBLE</lb:subtema>
+      <lb:subtema>MEMORIA EXTENDIDA PARA AUTOLISP</lb:subtema>
+      <lb:subtema>MEMORIA EXTENDIDA PARA ARCHIVOS TEMPORALES Y PARA EL TRABAJO CON EXTLISP</lb:subtema>
+      <lb:subtema>MEMORIA EXPANDIDA PARA ARCHIVOS TEMPORALES</lb:subtema>
+      <lb:subtema>PROGRAMAS EN AUTOLISP</lb:subtema>
+      <lb:subtema>CÓMO CARGAR PROGRAMAS EN AUTOLISP</lb:subtema>
+      <lb:subtema>CÓMO CARGAR PROGRAMAS AUTOMÁTICAMENTE EN AUTOLISP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

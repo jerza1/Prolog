@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduction">
+<lb:tema>INTRODUCTION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>RESOURCE WORKSHOP FEATURES</lb:subtema>
+      <lb:subtema>HARDWARE AND SOFTWARE REQUIREMENTS</lb:subtema>
+      <lb:subtema>WHAT'S IN THE MANUAL</lb:subtema>
+      <lb:subtema>CONVENTIONS USED IN THIS MANUAL</lb:subtema>
+      <lb:subtema>HOW TO CONTACT BORLAND</lb:subtema>
+      <lb:subtema>BIBLIOGRAPHY</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Getting started">
+<lb:tema>GETTING STARTED</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INSTALLING RESOURCE WORKSHOP</lb:subtema>
+      <lb:subtema>STARTING RESOURCE WORKSHOP</lb:subtema>
+      <lb:subtema>EXITING FROM RESOURCE WORKSHOP</lb:subtema>
+      <lb:subtema>ACCESSING HELP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Resource Workshop basics">
+<lb:tema>RESOURCE WORKSHOP BASICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UNDERSTANDING WINDOWS RESOURCES</lb:subtema>
+      <lb:subtema>TYPE OF RESOURCES</lb:subtema>
+      <lb:subtema>THE TWO TYPES OF EDITORS</lb:subtema>
+      <lb:subtema>TYPES OF RESOURCE FILES</lb:subtema>
+      <lb:subtema>MANAGING ALL THE PROJECT FILES-THE PROJECT WINDOW</lb:subtema>
+      <lb:subtema>TIPS FOR THE NEW USER</lb:subtema>
+      <lb:subtema></lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Working with projects and resources">
+<lb:tema>WORKING WITH PROJECTS AND RESOURCES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREATING A NEW PROJECT</lb:subtema>
+      <lb:subtema>OPENING AN EXISTING PROJECT</lb:subtema>
+      <lb:subtema>USING THE PROJECT WINDOW</lb:subtema>
+      <lb:subtema>WORKING WITH RESOURCES</lb:subtema>
+      <lb:subtema>USING IDENTIFIERS</lb:subtema>
+      <lb:subtema>SAVING RESOURCES, FILES, AND PROJECTS</lb:subtema>
+      <lb:subtema>CONFIGURATION PREFERENCES</lb:subtema>
+      <lb:subtema>COPYING RESOURCES BETWEEN PROJECTS</lb:subtema>
+      <lb:subtema>WORKING WITH BINARY FILES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating dialog boxes">
+<lb:tema>CREATING DIALOG BOXES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE DIALOG EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING A DIALOG BOX</lb:subtema>
+      <lb:subtema>TESTING A DILOG BOX</lb:subtema>
+      <lb:subtema>SAVING A DIALOG BOX</lb:subtema>
+      <lb:subtema>VIEWING TWO DIALOG BOXES</lb:subtema>
+      <lb:subtema>CUSTOMIZING THE DIALOG EDITOR</lb:subtema>
+      <lb:subtema>A SAMPLE PROJECT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating menus">
+<lb:tema>CREATING MENUS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE MENU EDITOR SCREEN</lb:subtema>
+      <lb:subtema>STARTING THE MENU EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING A MENU</lb:subtema>
+      <lb:subtema>TESTING A MENU</lb:subtema>
+      <lb:subtema>SAVING CHANGES</lb:subtema>
+      <lb:subtema>EDITING A MENU RESOURCE SCRIPT</lb:subtema>
+      <lb:subtema>A SAMPLE MENU</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating accelerators">
+<lb:tema>CREATING ACCELERATORS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USING THE ACCELERATOR EDITOR</lb:subtema>
+      <lb:subtema>STARTING THE MENU EDITOR</lb:subtema>
+      <lb:subtema>STARTING THE ACCELERATOR EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING AN ACCELERATOR TABLE</lb:subtema>
+      <lb:subtema>CHECKING FOR DUPLICATE KEY COMBINATIONS</lb:subtema>
+      <lb:subtema>EDITING A RESOURCE SCRIPT FOR AN ACCELERATOR TABLE</lb:subtema>
+      <lb:subtema>CREATING A SAMPLE ACCELERATOR TABLE</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating a string table">
+<lb:tema>CREATING A STRING TABLE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE STRING EDITOR</lb:subtema>
+      <lb:subtema>WORKING WITH STRING TABLES</lb:subtema>      
+      <lb:subtema>SAVING A STRING TABLE</lb:subtema>
+      <lb:subtema>TESTING A STRING TABLE</lb:subtema>
+      <lb:subtema>CREATING A SAMPLE STRING TABLE</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Using the Paint Editor">
+<lb:tema>USING THE PAINT EDITOR</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE PAINT EDITOR</lb:subtema>
+      <lb:subtema>FEATURES AVAILABLE TO RESOURCES</lb:subtema>
+      <lb:subtema>UNDERSTANDING FOREGROUND AND BACKGROUND COLORS</lb:subtema>
+      <lb:subtema>USING THE TOOLS PALETTE</lb:subtema>
+      <lb:subtema>USING THE TWO WINDOW PANES</lb:subtema>
+      <lb:subtema>ZOOMING</lb:subtema>
+      <lb:subtema>READING THE STATUS LINE</lb:subtema>
+      <lb:subtema>WORKING WITH COLORS</lb:subtema>
+      <lb:subtema>CUSTOMIZING COLORS</lb:subtema>
+      <lb:subtema>ADDING TETX TO A RESOURCE</lb:subtema>
+      <lb:subtema>CHOOSING BRUSH SCHAPES</lb:subtema>
+      <lb:subtema>CHOOSING PAINT PATTERNS</lb:subtema>
+      <lb:subtema>CHOOSING A LINE STYLE</lb:subtema>
+      <lb:subtema>ALIGNING A SELECTED AREA</lb:subtema>
+      <lb:subtema>RESIZING A SELECT AREA</lb:subtema>
+      <lb:subtema>SETTING GLOBAL PAINT EDITOR OPTIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating icons">
+<lb:tema>"CREATING ICONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE PAINT EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING AN ICON</lb:subtema>
+      <lb:subtema>TESTING AN ICON</lb:subtema>
+      <lb:subtema>SAVING AN ICON</lb:subtema>
+      <lb:subtema>ADDING AN IMAGE TO AN ICON RESOURCE</lb:subtema>
+      <lb:subtema>DELETING ICONS AND IMAGES</lb:subtema>
+      <lb:subtema>EDITING AN ICON RESOURCE SCRIP</lb:subtema>
+      <lb:subtema>CREATING A SAMPLE ICON</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating cursors">
+<lb:tema>CREATING CURSORS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE PAINT EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING A CURSOR</lb:subtema>
+      <lb:subtema>TESTING THE CURSOS</lb:subtema>
+      <lb:subtema>SAVING CHNAGES</lb:subtema>
+      <lb:subtema>EDITING A CURSOR RESOURCE SCRIPT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating bitmaps">
+<lb:tema>CREATING BITMAPS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE PAINT EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING A BITMAP</lb:subtema>
+      <lb:subtema>SAVING A BITMAP</lb:subtema>
+      <lb:subtema>TESTING THE BITMAP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating fonts">
+<lb:tema>CREATING FONTS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING THE PAINT EDITOR</lb:subtema>
+      <lb:subtema>CUSTOMIZING A FONT RESOURCE</lb:subtema>
+      <lb:subtema>SAVING A FONT RESOURCE</lb:subtema>
+      <lb:subtema>ADDING FONT RESOURCES TO YOUR APPLICATION</lb:subtema>
+      <lb:subtema>TESTING THE FONT</lb:subtema>
+      <lb:subtema>A SAMPLE FONT RESOURCE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating user-defined resources">
+<lb:tema>CREATING USER-DEFINED RESOURCES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREATING A RESOURCE TYPE</lb:subtema>
+      <lb:subtema>ADDING A USER-DEFINED RESOURCE</lb:subtema>
+      <lb:subtema>EDITING A USER-DEFINED RESOURCE</lb:subtema>
+      <lb:subtema>TESTING A USER-DEFINED RESOURCE</lb:subtema>
+      <lb:subtema>USING THE RCDATA RESOURCE TYPE</lb:subtema>
+      <lb:subtema>DLETING A USER-DEFINED RESOURCE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix a technical notes">
+<lb:tema>APPENDIX A TECHNICAL NOTES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COMPILER DIFFERENCES</lb:subtema>
+      <lb:subtema>DIALOG BOXES AS CHILD OR OVERLAPPED WINDOWS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

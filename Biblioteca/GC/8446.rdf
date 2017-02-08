@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Getting Started">
+      <lb:tema>GETTING STARTED</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FIRST.TIME USE</lb:subtema>
+             <lb:subtema>EVERYDAY USE STARTING MS-DOS</lb:subtema>
+             <lb:subtema>QUITTING MS-DOS</lb:subtema>
+             <lb:subtema>COPYNG FILES ONLY A HARD DISK</lb:subtema>
+             <lb:subtema>IF YOU HAVE ONLY ONE FLOPPY DISK DRIVE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Learning about MS-DOS">
+      <lb:tema>LEARNING ABOUT MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>TERMS YOU SHOULD KNOW</lb:subtema>
+             <lb:subtema>KEYS YOU USE WITH MS-DOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Learning about MS-DOS">
+      <lb:tema>LEARNING ABOUT MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FLOPPYT DISKS</lb:subtema>
+             <lb:subtema>HOW MS-DOS RECOGNIZES DISK DRIVES</lb:subtema>
+            <lb:subtema>USING THE FORMAT COMMAND</lb:subtema>
+            <lb:subtema>NARNING YOUR FILES</lb:subtema>
+            <lb:subtema>INVALID FILE NAMES</lb:subtema>
+            <lb:subtema>DIRECTORIES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Commands">
+      <lb:tema>USING COMMANDS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FILE COMMANDS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Commands">
+       <lb:tema>USING COMMANDS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>RUNNNING APPLICATION PROGRAMS</lb:subtema>
+             <lb:subtema>CREATING A FILE WITH EDLIN</lb:subtema>
+             <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

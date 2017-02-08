@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="CREACION DE UNA TABLA PARA BASE DE DATOS DEL MODELO RELACIONAL Y EXPLOTACION DE LA INFORMACION QUE CONTIENE">
+  <lb:tema>CREACION DE UNA TABLA PARA BASE DE DATOS DEL MODELO RELACIONAL Y EXPLOTACION DE LA INFORMACION QUE CONTIENE</lb:tema>  
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Analisis sintactico</lb:subtema>
+      <lb:subtema>Preparacion de parametros en el dimensionammiento en la base de datos al tiempo de creacion</lb:subtema>
+      <lb:subtema>almacenamiento de información comprimida, compactada y relacionada</lb:subtema>
+      <lb:subtema>Elimina</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Manual de enviar en español para el usuario</lb:subtema>
+     <lb:subtema>Ejemplo creado interactivamente para ilustrar el manejo de enviar</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Consulta">
+  <lb:tema>Consulta</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Cuantos</lb:subtema>
+      <lb:subtema>Lista</lb:subtema>
+      <lb:subtema>Ordena</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

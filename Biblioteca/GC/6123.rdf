@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="Introduction">
+      <lb:tema>INTRODUCTION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WHAT OPERATING SYSTEMS DO</lb:subtema>
+             <lb:subtema>COMPUTER-SYSTEM ORGANIZATION</lb:subtema>
+             <lb:subtema>COMPUTER-SYSTEM ARCHITECTURE</lb:subtema>
+             <lb:subtema>OPERATING-SYSTEM STRUCTURE</lb:subtema>
+             <lb:subtema>OPERATING-SYSTEM OPERATIONS</lb:subtema>
+            <lb:subtema>PROCESS MANAGEMENT</lb:subtema>
+            <lb:subtema>MEMORY MANAGEMENT</lb:subtema>
+            <lb:subtema>STORAGE MANAGEMENT</lb:subtema>
+            <lb:subtema>DISTRIBUTED SYSTEMS</lb:subtema>
+            <lb:subtema>SPECIAL-PURPOSE SYSTEMS</lb:subtema>
+            <lb:subtema>COMPUTING ENVIRONMENTS</lb:subtema>
+            <lb:subtema>OPEN-SOURCE OPERATING SYSTEMS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="System Structures">
+      <lb:tema>SYSTEM STRUCTURES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>OPERATING-SYSTEM SERVICES</lb:subtema>
+           <lb:subtema>USER OPERATING-SYSTEM INTERFACE</lb:subtema>
+            <lb:subtema>SYSTEM CALLS</lb:subtema>
+            <lb:subtema>TYPES OF SYSTEM CALLS</lb:subtema>
+            <lb:subtema>SYSTEM PROGRAMS</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM DESIGN AND IMPLEMENTATION</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM STRUCTURE</lb:subtema>
+            <lb:subtema>VIRTUAL MACHINES</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM DEBUGGING</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM GENERATION</lb:subtema>
+            <lb:subtema>SYSTEM BOOT</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Process Management">
+      <lb:tema>PROCESS MANAGEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>PROCESS CONCEPT</lb:subtema>
+            <lb:subtema>PROCESS SCHEDULING</lb:subtema>
+            <lb:subtema>OPERATIONS ON PROCESSES</lb:subtema>
+            <lb:subtema>INTERPROCESS COMMUNICATION</lb:subtema>
+            <lb:subtema>EXAMPLES OF IPC SYSTEMS</lb:subtema>
+            <lb:subtema>COMMUNICATION IN CLIENT-SERVER SYSTEMS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Multithreaded Programming">
+      <lb:tema>MULTITHREADED PROGRAMMING</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>OVERVIEW</lb:subtema>
+            <lb:subtema>MULTITHREADIG MODELS</lb:subtema>
+            <lb:subtema>THREAD LIBRARIES</lb:subtema>
+            <lb:subtema>THEADING LIBRARIES</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM EXAMPLES</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Process Scheduling">
+      <lb:tema>PROCESS SCHEDULING</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>BASIC CONCEPTS</lb:subtema>
+            <lb:subtema>SCHEDULING CRITERIA</lb:subtema>
+            <lb:subtema>SCHEDULING ALGORITHMS</lb:subtema>
+            <lb:subtema>THEAD SCHEDULING</lb:subtema>
+            <lb:subtema>MULTIPLE-PROCESSOR SCHEDULING</lb:subtema>
+            <lb:subtema>OPERATING SYSTEM EXAMPLES</lb:subtema>
+            <lb:subtema>ALGORITHM EVALUATION</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Synchronization">
+      <lb:tema>SYNCHRONIZATION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>BACKGROUND</lb:subtema>
+            <lb:subtema>THE CRITICAL-SECTION PROBLEM</lb:subtema>
+            <lb:subtema>PETERSON'S SOLUTION</lb:subtema>
+            <lb:subtema>SYNCHRONIZATION HARDWARE</lb:subtema>
+            <lb:subtema>SEMAPHORES</lb:subtema>
+            <lb:subtema>CLASSIC PROBLEMS OF SYNCHRONIZATION</lb:subtema>
+            <lb:subtema>MONITORS</lb:subtema>
+            <lb:subtema>SYNCHRONIZATION EXAMPLES</lb:subtema>
+            <lb:subtema>ATOMIC TRANSACTIONS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+        <rdf:Description
+      rdf:about="Deadlocks">
+      <lb:tema>DEADLOCKS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>SYSTEM MODEL</lb:subtema>
+            <lb:subtema>DEADLOCK CHARACTERIZATION</lb:subtema>
+            <lb:subtema>METHODS FOR HANDLING DEADLOCKS</lb:subtema>
+            <lb:subtema>DEADLOCK PREVENTION</lb:subtema>
+            <lb:subtema>DEADLOCK AVOIDANCE</lb:subtema>
+            <lb:subtema>DEADLOCK DETECTION</lb:subtema>
+            <lb:subtema>RECOVERY FROM DEADLOCK</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Memory-Management Strategies">
+      <lb:tema>MEMORY-MANAGEMENT STRATEGIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>BACKGROUND</lb:subtema>
+            <lb:subtema>SWAPPING</lb:subtema>
+            <lb:subtema>CONTIGUOUS MEMORY ALLOCATION</lb:subtema>
+            <lb:subtema>PAGING</lb:subtema>
+            <lb:subtema>STRUCTURE OF THE PAGE TABLE</lb:subtema>
+            <lb:subtema>SEGMENTATION</lb:subtema>
+            <lb:subtema>EXAMPLE: THE INTEL PENTIUM </lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Virtual-Memory Management">
+      <lb:tema>VIRTUAL-MEMORY MANAGEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>BACKGROUND</lb:subtema>
+            <lb:subtema>DEMAND PAGING</lb:subtema>
+            <lb:subtema>COPY-ON-WRITE</lb:subtema>
+            <lb:subtema>PAGE REPLACEMENT</lb:subtema>
+            <lb:subtema>ALLOCATION OF FRAMES</lb:subtema>
+            <lb:subtema>THRASHING</lb:subtema>
+            <lb:subtema>MEMORY-MAPPED FILES</lb:subtema>
+            <lb:subtema>ALLOCATING KERNEL MEMORY</lb:subtema>
+            <lb:subtema>OTHER CONSIDERATIONS</lb:subtema>
+            <lb:subtema>OPERATING-SYSTEM EXAMPLES</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="File System">
+      <lb:tema>FILE SYSTEM</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>FILE CONCEPT</lb:subtema>
+            <lb:subtema>ACCESS METHODS</lb:subtema>
+            <lb:subtema>DIRECTORY AND DISK STRUCTURE</lb:subtema>
+            <lb:subtema>FILE-SYSTEM MOUNTING</lb:subtema>
+            <lb:subtema>FILE SHARING</lb:subtema>
+            <lb:subtema>PROTECTION</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Implementing File Systems">
+      <lb:tema>IMPLEMENTING FILE SYSTEMS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>FILE-SYSTEM STRUCTURE</lb:subtema>
+            <lb:subtema>FILE-SYSTEM IMPLEMENTATION</lb:subtema>
+            <lb:subtema>DIRECTORY IMPLEMENTATION</lb:subtema>
+            <lb:subtema>ALLOCATION METHODS</lb:subtema>
+            <lb:subtema>FREE-SPACE MANAGEMENT</lb:subtema>
+            <lb:subtema>EFFICIENCY AND PERFORMANCE</lb:subtema>
+            <lb:subtema>RECOVERY</lb:subtema>
+            <lb:subtema>NFS</lb:subtema>
+            <lb:subtema>EXAMPLE: THE WAFL FILE SYSTEM</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+      <rdf:Description
+      rdf:about="Secondary-Storage Structure">
+      <lb:tema>SECONDARY-STORAGE STRUCTURE</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>OVERVIEW OF MASS-STORAGE STRUCTURE</lb:subtema>
+            <lb:subtema>DISK STRUCTURE</lb:subtema>
+            <lb:subtema>DISK ATTACHMENT</lb:subtema>
+            <lb:subtema>DISK SCHEDULING</lb:subtema>
+            <lb:subtema>DISK MAN.AGEMENT</lb:subtema>
+            <lb:subtema>SWAP-SPACE MANAGEMENT</lb:subtema>
+            <lb:subtema>RAID STRUCTURE </lb:subtema>
+            <lb:subtema>STABLE-STORAGE IMPLEMENTATION</lb:subtema>
+            <lb:subtema>TERTIARY-STORAGE STRUCHUE</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 
+

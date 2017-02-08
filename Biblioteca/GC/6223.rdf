@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Cómo usar este libro">
+<lb:tema>CÓMO USAR ESTE LIBRO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO SE HA ESCRITO ESTE LIBRO</lb:subtema>
+      <lb:subtema>QUÉ ENCONTRARÁ EN ESTE MANUAL AVANZADO</lb:subtema>
+      <lb:subtema>QUE HACE DE ÉSTE UN MANUAL MULTIMEDIA</lb:subtema>
+      <lb:subtema>CONVENCIONES DE ESTE LIBRO</lb:subtema>
+      <lb:subtema> COMUNICACIÓN CON EL AUTOR</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducción">
+<lb:tema>INTRODUCCIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>NOVEDADES DE AUTOCAD 2009</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Personalización de AutoCAD">
+<lb:tema>PERSONALIZACIÓN DE AUTOCAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCIÓN</lb:subtema>
+      <lb:subtema>COLORES DE LA INTERFAZ</lb:subtema>
+      <lb:subtema>MEJORAR LA EJECUCIÓN DE COMANDOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trucos y recomendaciones">
+<lb:tema>TRUCOS Y RECOMENDACIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÒN</lb:subtema>
+      <lb:subtema>CONSEJOS CORTOS</lb:subtema>
+      <lb:subtema>CONSEJOS PARA LOS COMANDOS HABITALES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Uso avanzado de capas">
+<lb:tema>USO AVANZADO DE CAPAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN</lb:subtema>
+      <lb:subtema>ESTADOS DE CAPAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Herramientas Express">
+<lb:tema>HERRAMIENTAS EXPRESS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN</lb:subtema>
+      <lb:subtema>EXPRESS TOOLS</lb:subtema>
+      <lb:subtema>CAMBIAR FORMATO DE TEXTO</lb:subtema>
+      <lb:subtema>EDITOR DE VARIABLES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Presentaciones">
+<lb:tema>PRESENTACIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN</lb:subtema>
+      <lb:subtema>CREAR UNA PRESENTACIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 
+

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Bienvenido">
+  <lb:tema>BIENVENIDO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ACERCA DE LA DOCUMENTACION DE MS-DOS</lb:subtema>
+      <lb:subtema>CARACTERÍSTICAS NUEVAS DE MS-DOS</lb:subtema>
+      <lb:subtema>CONVENCIONES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Introducción">
+  <lb:tema>INTRODUCCIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EJECUCIÓN DE INSTALAR</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN PARA WINDOWS DE ATI-VIRUS, COPIA DE SEGURIDAD(BACKUP) Y RESTABLECER(UNDELETE)</lb:subtema>
+      </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Conceptos básicos de MS-DOS">
+  <lb:tema>CONCEPTOS BÁSICOS DE MS-DOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>APRENDIZAJE DE LOS CONCEPTOS BÁSICOS SOBRE MS-DOS:TUTORIAL</lb:subtema>
+      <lb:subtema>COPIA DE ARCHIVOS</lb:subtema>
+      <lb:subtema>CAMBIO DE NOMBRE DE ARCHIVOS</lb:subtema>
+      <lb:subtema>ELIMINACIÓN DE ARCHIVOS</lb:subtema>
+      <lb:subtema>DAR FORMATO A DISQUETES</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+      <lb:subtema>COMO ORGANIZA INFORMACIÓN MS-DOS</lb:subtema>
+      <lb:subtema>UNIDADES</lb:subtema>
+      <lb:subtema>USO DE RUTAS PARA ESPECIFICAR LA POSICIÓN DE UN ARCHIVO.</lb:subtema>
+      <lb:subtema>ASIGNACION DE NOMBRE DE ARCHIVOS Y DIRECTORIOS</lb:subtema>
+      <lb:subtema>OBTENER AYUDA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administración de sistema">
+  <lb:tema>ADMINISTRACIÓN DE SISTEMA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COPIAS DE SEGURIDAD DE SUS ARCHIVOS</lb:subtema>
+      <lb:subtema>INFORMACIÓN  GENERAL ACERCA DE COPIA DE SEGURIDAD(BACKUP)</lb:subtema>
+      <lb:subtema>ASEGURAR UNA COPIAS DE SEGURIDAD FIABLE</lb:subtema>
+      <lb:subtema>USO DE COPIA DE SEGURIDAD(BACKUP)</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE COPIA DE SEGURIDAD(BACKUP)</lb:subtema>
+      <lb:subtema>COMPARACIÓN DE ARCHIVOS</lb:subtema>
+      <lb:subtema>RESTAURACIÓN DE ARCHIVOS</lb:subtema>
+      <lb:subtema>SI SE PRESENTA EL MENSAJE “TAMAÑO DE BÚFER DMA”</lb:subtema>
+      <lb:subtema>PROTECCIÓN DE SU PC CONTRA VIRUS</lb:subtema>
+      <lb:subtema>USO DE SMARTDRIVE</lb:subtema>
+      <lb:subtema>USO DE DESFRAGMETAR DE MS-DOS</lb:subtema>
+      <lb:subtema>RECUPERACIÓN DE ARCHIVOS ELIMINADOS</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE LA PROTECCIÓN CONTRA ELIMINACIÓN</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Configuración de su sistema">
+  <lb:tema>CONFIGURACIÓN DE SU SISTEMA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CONFIGURACIÓN DE L SISTEMA MEDIANTE LOS COMANDOS DE CONFIG.SYS</lb:subtema>
+      <lb:subtema>ESPECIFICACIÓN DE LOS COMANDOS DE INICIO DE SU ARCHIVO AUTOEXEC.BAT</lb:subtema>
+      <lb:subtema>DESVIÓ DE LOS COMANDOS DE CONFIG.SYS Y  AUTOEXEC.BAT</lb:subtema>
+      <lb:subtema>USO DE MÚLTIPLES CONFIGURACIONES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Liberar espacio en el disco">
+  <lb:tema>LIBERAR ESPACIO EN EL DISCO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ELIMINAR ARCHIVOS INNECESARIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Características para su PC portátil">
+  <lb:tema>CARACTERÍSTICAS PARA SU PC PORTÁTIL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USO DEL INTERLNK PARA CONECTAR DOS EQUIPOS</lb:subtema>
+      <lb:subtema>CONSERVACIÓN  DE ENERGÍA EN SU PC PORTÁTIL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Diagnostico y solución de problemas">
+  <lb:tema>DIAGNOSTICO Y SOLUCIÓN DE PROBLEMAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SOLUCIÓN DE PROBLEMAS DURANTE LA INSTALACIÓN</lb:subtema>
+      <lb:subtema>USO DE FDISK PARA CONFIGURAR EL DISCO DURO</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE SU DISCO DURO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Personalización para el uso internacional">
+  <lb:tema>PERSONALIZACIÓN PARA EL USO INTERNACIONAL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CAMBIO DE LAS CONVENCIONES ESPECIFICAS DE PAÍSES</lb:subtema>
+      <lb:subtema>CAMBIO DE LA DISTRIBUCIÓN DEL TECLADO</lb:subtema>
+      <lb:subtema>CAMBIO DE JUEGOS DE CARACTERES</lb:subtema>
+      <lb:subtema>PRESENTACIÓN DE INFORMACIÓN SOBRE JUEGOS DE CARACTERES</lb:subtema>
+      <lb:subtema>CÓDIGOS PARA PAÍSES, PARA EL TECLADO Y PARA JUEGOS DE CARACTERES</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE SU PC PARA USO INTERNACIONAL</lb:subtema>
+      <lb:subtema>EXPLICACIÓN DE LOS MENSAJES DE ERROR</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Apéndice A Resumen de los comandos de MS-DOS">
+  <lb:tema>APÉNDICE A RESUMEN DE LOS COMANDOS DE MS-DOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COMANDOS DE MS-DOS</lb:subtema>
+      <lb:subtema>CONTROLADORES DE DISPOSITIVO</lb:subtema>
+      <lb:subtema>COMANDOS QUE NO SE DEBERÍAN USAR CON WINDOWS</lb:subtema>
+      <lb:subtema>COMANDOS USADOS EN CONFIG.SYS</lb:subtema>
+      <lb:subtema>COMANDOS USADOS SÓLO EN PROGRAMAS DE PROCESAMIENTO POR LOTES</lb:subtema>
+      <lb:subtema>COMANDOS USADOS PARA CAMBIAR LAS CONFIGURACIONES INTERNACIONALES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Apéndice B Distribución del teclado y juegos de caracteres">
+  <lb:tema>APÉNDICE B DISTRIBUCIÓN DEL TECLADO Y JUEGOS DE CARACTERES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DISTRIBUCIÓN DEL TECLADO</lb:subtema>
+      <lb:subtema>TABLAS DE JUEGOS DE CARACTERES(TABLA DE CÓDIGOS)</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Apéndice C Liberar espacion en el disco con DriveSpan">
+  <lb:tema>APÉNDICE C LIBERAR ESPACION EN EL DISCO CON DRIVESPAN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>OBTENER AYUDA</lb:subtema>
+      <lb:subtema>INSTALAR DRIVESPACE</lb:subtema>
+      <lb:subtema>QUE ES LA COMPRESIÓN DE DISCOS?</lb:subtema>
+      <lb:subtema>USAR DRIVESPACE PARA ADMINISTRAR UNIDADES COMPRIMIDAS</lb:subtema>
+      <lb:subtema>COMPRIMIR UNIDADES ADICIONALES</lb:subtema>
+      <lb:subtema>USAR DRIVESPACE CON DISQUETES</lb:subtema>
+      <lb:subtema>OBTENER INFORMACIÓN  SOBRE UNIDADES COMPRIMIDAS</lb:subtema>
+      <lb:subtema>¿COMO FUNCIONAN DRIVESPACE Y LA MEMORIA?</lb:subtema>
+      <lb:subtema>OBTENER MÁS INFORMACIÓN SOBRE  DRIVESPACE.</lb:subtema>
+      <lb:subtema>SOLUCIÓN DE PROBLEMAS DE  DRIVESPACE.</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

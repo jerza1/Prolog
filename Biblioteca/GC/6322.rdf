@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduccion">
+<lb:tema>INTRODUCCION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FUNCIONAMIENTO DEL PROGRAMA</lb:subtema>
+      <lb:subtema>PRINCIPIO DE LA EJECUCION</lb:subtema>
+      <lb:subtema>SELECCION DE LAS VARIABLES</lb:subtema>
+      <lb:subtema>DATOS</lb:subtema>
+      <lb:subtema>TECNICAS DE CLASIFICACIÓN</lb:subtema>
+      <lb:subtema>APLICACIONES DEL ATI5LISIS DE CIIMULOS</lb:subtema>
+      <lb:subtema>BIBLIOGRAFIA</lb:subtema>  
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Datos">
+<lb:tema>DATOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TIPOS DE ESCALA</lb:subtema>
+      <lb:subtema>CREACION DEL ARCHIVO DE DATOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tecnicas de Clasificación">
+<lb:tema>TECNICAS DE CLASIFICACIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TECNICAS AUXILIARES PARA LA INTERPRETACIÓN</lb:subtema>
+      <lb:subtema>TECNICAS DE CLASIFICACION JERARQUICA</lb:subtema>
+      <lb:subtema>TECNICAS DE CLASIFICACION NO-JERARQUICA</lb:subtema>
+      <lb:subtema>TECNICAS DE CLASIFICACION FILOGENETICA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tecnicas de Clasificacion No-Jerarquica">
+<lb:tema>TECNICAS DE CLASIFICACION NO-JERARQUICA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PARTICI5N OPTIMA (PARTITION BY EXACT OPTIMIZATION)</lb:subtema>
+      <lb:subtema>K-PROMEDIOS (K-MEANS)</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tecnicas de Clasificacion Filogenetica">
+<lb:tema>TECNICAS DE CLASIFICACION FILOGENETICA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DITTO.</lb:subtema>
+      <lb:subtema>WETODOS DE MUTACI6N MINIMA</lb:subtema>
+      <lb:subtema>AJUSTE DE MUTACION MINIMA. (MINIMUMMUNAION FIT).</lb:subtema>
+      <lb:subtema>ARBOL DE MUTAC ION REDUCIDO. (REDUCED MUTATION TREE)</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

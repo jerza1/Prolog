@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Prncipios básicos">
+<lb:tema>PRNCIPIOS BÁSICOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿PHOTOSHOP?</lb:subtema>
+      <lb:subtema>¿ES ESTE TU LIBRO?</lb:subtema>
+      <lb:subtema>NOVEDADES DE LA VERSIÓN 5.5</lb:subtema>
+      <lb:subtema>INTRODUCCIÓN AL TRATAMIENTO DE IMÁGENES</lb:subtema>
+      <lb:subtema>MAPAS DE BITS VS OBJETOS</lb:subtema>
+      <lb:subtema>MODOS DE COLOR</lb:subtema>
+      <lb:subtema>RESOLUCIÓN</lb:subtema>
+      <lb:subtema>FILTROS</lb:subtema>
+      <lb:subtema>LA PANTALLA SI ENGAÑA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Espacio de trabajo">
+<lb:tema>ESPACIO DE TRABAJO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EMPIEZA LA FIESTA</lb:subtema>
+      <lb:subtema>COMPONENTES BÁSICOS</lb:subtema>
+      <lb:subtema>HERRAMIENTAS</lb:subtema>
+      <lb:subtema>PALETAS</lb:subtema>
+      <lb:subtema>MODOS DE PANTALLA</lb:subtema>
+      <lb:subtema>AJUSTAR LAS PREFERENCIAS DE LA APLICACIÓN</lb:subtema>
+      <lb:subtema>SALIR DEL PROGRAMA</lb:subtema>
+      <lb:subtema>AYUDA</lb:subtema>
+      <lb:subtema>AYUDA EN LA RED</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Punto de partida">
+<lb:tema>PUNTO DE PARTIDA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PARTIR DE CERO</lb:subtema>
+      <lb:subtema>ABRIR UN ARCHIVO EXISTENTE</lb:subtema>
+      <lb:subtema>CREAR UNA IMAGEN DESDE EL PORTAPAPELES</lb:subtema>
+      <lb:subtema>MODIFICAR ASPECTOS BÁSICOS DE LA IMAGEN</lb:subtema>
+      <lb:subtema>ZOOM</lb:subtema>
+      <lb:subtema>GUARDAR LA IMAGEN</lb:subtema>
+      <lb:subtema>COLOR DE FONDO YCOLOR DE PRIMER PLANO</lb:subtema>
+      <lb:subtema>DE PHOTOSHOP A IMAGEREAD Y VICEVERSA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Herramientas">
+<lb:tema>HERRAMIENTAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CAJA DE HERRAMIENTAS</lb:subtema>
+      <lb:subtema>PALETA OPCIONES</lb:subtema>
+      <lb:subtema>POSIBILIDADES DE CADA HERRAMIENTA</lb:subtema>
+      <lb:subtema>HERRAMIENTAS EXCLUSIVAS DE IMAGEREADY</lb:subtema>
+      <lb:subtema>MÁS PINCELES</lb:subtema>
+      <lb:subtema>COMO UN PROFESIONAL</lb:subtema>
+      <lb:subtema>MODOS DE FUSIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Utilidades de historia">
+<lb:tema>UTILIDADES DE HISTORIA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Paleta Historia   
+      Pincel de historia
+      Pincel artistico de historia
+      Borrar hacia la historia
+      Purgar
+      Volver
+      Deshacer el último comando ejecutado</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creación y tratamiento de textos">
+<lb:tema>CREACIÓN Y TRATAMIENTO DE TEXTOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Herramientas de texto   
+      Cuadro de diálogo Texto  
+      Editar texto 
+      Texto en ImageReady   
+      Efectos sobre el texto</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Presentación de ImageReady 2.0">
+<lb:tema>PRESENTACIÓN DE IMAGEREADY 2.0</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ImageReady, el arma definitiva  
+      Photoshop vs ImageReady   
+      Entorno de trabajo en ImageReady  
+      Ajustar preferencias en ImageReady  
+      Crear una nueva imagen en ImageReady</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Destino: la Web (optimización)">
+<lb:tema>DESTINO: LA WEB (OPTIMIZACIÓN)</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>El por qué de la optimización  
+      Repaso de conceptos   
+      Formatos de archivo   
+      Vistas  
+      Tramado   
+      Paleta Optimizar
+      Guardar el archivo optimizado en ImageReady   
+      Optimizar desde Photoshop</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Filtros">
+<lb:tema>FILTRO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Pero..., ¿qué es un filtro?  
+      Cómo utilizar los filtros
+      Artístico
+      Bosquejar
+      Desenfocar 
+      Distorsionar
+      Enfocar
+      Estilizar
+      ...mañana más</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Filtros II">
+<lb:tema>FILTROS II</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Interpretar   
+      Pixelizar   
+      Ruido   
+      Textura   
+      Trazos de papel   
+      Video 
+      Otros
+      Marcas de agua, una firma muy especial
+      Transición</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Canales">
+<lb:tema>CANALES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Conceptos basicos sobre los canales  
+      ¿Para qué podemos utilizar los canales?   
+      Paleta Canales </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Selecciones">
+<lb:tema>SELECCIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>VARITA MÁGICA</lb:subtema>
+      <lb:subtema>DESPLAZAR LA SELECCIÓN</lb:subtema>
+      <lb:subtema>SUMAR, RESTAR E INTERCEPTAR SELECCIONES</lb:subtema>
+      <lb:subtema>SELECCIONAR TODO</lb:subtema>
+      <lb:subtema>INVERTIR LA SELECCIÓN</lb:subtema>
+      <lb:subtema>EXTENDER</lb:subtema>
+      <lb:subtema>SIMILAR</lb:subtema>
+      <lb:subtema>MODIFICAR LA SELECCIÓN</lb:subtema>
+      <lb:subtema>MODIFICACIONES MÚLTIPLES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

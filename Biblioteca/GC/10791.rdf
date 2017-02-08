@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Design and Analysis of Algorithms">
+<lb:tema>DESIGN AND ANALYSIS OF ALGORITHMS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FROM PROBLEMS TO PROGRAMS</lb:subtema>
+      <lb:subtema>ABSTRACT DATA TYPES</lb:subtema>
+      <lb:subtema>DATA TYPES, DATA STRUCTURES, AND ABSTRACT DATA TYPES</lb:subtema>
+      <lb:subtema>THE RUNNING TIME OF A PROGRAM</lb:subtema>
+      <lb:subtema>CALCULATING THE RUNNING TIME OF A PROGRAM</lb:subtema>
+      <lb:subtema>GOOD PROGRAMMING PRACTICE</lb:subtema>
+      <lb:subtema>SUPER PASCAL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Basic Data Types">
+<lb:tema>BASIC DATA TYPES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE DATA TYPE "LIST"</lb:subtema>
+      <lb:subtema>IMPLEMENTATION OF LISTS</lb:subtema>
+      <lb:subtema>STACKS</lb:subtema>
+      <lb:subtema>QUEUES</lb:subtema>
+      <lb:subtema>MAPPINGS</lb:subtema>
+      <lb:subtema>STACKS AND RECURSIVE PROCEDURES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trees">
+<lb:tema>TREES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BASIC TERMINOLOGY</lb:subtema>
+      <lb:subtema>THE ADT TREE</lb:subtema>
+      <lb:subtema>IMPLEMENTATIONS OF TREES</lb:subtema>
+      <lb:subtema>BINARY TREES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Basic Operations on Sets">
+<lb:tema>BASIC OPERATIONS ON SETS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION TO SETS</lb:subtema>
+      <lb:subtema>AN ADT WITH UNION, INTERSECTION, AND DIFFERENCE</lb:subtema>
+      <lb:subtema>A BIT-VECTOR IMPLEMENTATION OF SETS</lb:subtema>
+      <lb:subtema>A LINKED-LIST IMPLEMENTATION OF SETS</lb:subtema>
+      <lb:subtema>THE DICTIONARY</lb:subtema>
+      <lb:subtema>SIMPLE DICTIONARY IMPLEMENTATIONS</lb:subtema>
+      <lb:subtema>THE HASH TABLE DATA STRUCTURE</lb:subtema>
+      <lb:subtema>ESTIMATING THE EFFICIENCY OF HASH FUNCTIONS</lb:subtema>
+      <lb:subtema>IMPLEMENTATION OF THE MAPPING ADT</lb:subtema>
+      <lb:subtema>PRIORITY QUEUES</lb:subtema>
+      <lb:subtema>IMPLEMENTATIONS OF PRIORITY QUEUES</lb:subtema>
+      <lb:subtema>SOME COMPLEX SET STRUCTURES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Advanced Set Representation Methods">
+<lb:tema>ADVANCED SET REPRESENTATION METHODS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BINARY SEARCH TREES</lb:subtema>
+      <lb:subtema>TIME ANALYSIS OF BINARY SEARCH TREE OPERATIONS</lb:subtema>
+      <lb:subtema>TRIES</lb:subtema>
+      <lb:subtema>BALANCED TREE IMPLEMENTATIONS OF SETS</lb:subtema>
+      <lb:subtema>SETS WITH THE MERGE AND FIND OPERATIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Directed Graphs">
+<lb:tema>DIRECTED GRAPHS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BASIC DEFINITIONS</lb:subtema>
+      <lb:subtema>REPRESENTATIONS FOR DIRECTED GRAPHS</lb:subtema>
+      <lb:subtema>THE SINGLE-SOURCE SHORTEST PATHS PROBLEM</lb:subtema>
+      <lb:subtema>THE ALL-PAIRS SHORTEST PATH PROBLEM</lb:subtema>
+      <lb:subtema>TRAVERSALS OF DIRECTED GRAPHS</lb:subtema>
+      <lb:subtema>DIRECTED ACYCLIC GRAPHS</lb:subtema>
+      <lb:subtema>STRONG COMPONENTS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Undirected Graphs">
+<lb:tema>UNDIRECTED GRAPHS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DEFINITIONS</lb:subtema>
+      <lb:subtema>MINIMUM-COST SPANNING TREES</lb:subtema> 
+      <lb:subtema>TRAVERSALS</lb:subtema>  
+      <lb:subtema>ARTICULATION POINTS AND BICONNECTED COMPONENTS</lb:subtema>  
+      <lb:subtema>GRAPH MATCHING</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sorting">
+<lb:tema>SORTING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE INTERNAL SORTING MODEL</lb:subtema>
+      <lb:subtema>SOME SIMPLE SORTING SCHEMES</lb:subtema>
+      <lb:subtema>QUICKSORT</lb:subtema>
+      <lb:subtema>HEAPSORT</lb:subtema>
+      <lb:subtema>BIN SORTING</lb:subtema>
+      <lb:subtema>A LOWER BOUND FOR SORTING BY COMPARISONS</lb:subtema>  
+      <lb:subtema>ORDER STATISTICS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Algorithm Analysis Techniques">
+<lb:tema>ALGORITHM ANALYSIS TECHNIQUES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EFFICIENCY OF ALGORITHMS</lb:subtema>  
+      <lb:subtema>ANALYSIS OF RECURSIVE PROGRAMS</lb:subtema>  
+      <lb:subtema>SOLVING RECURRENCE EQUATIONS</lb:subtema>
+      <lb:subtema>A GENERAL SOLUTION FOR A LARGE CLASS OF RECURRENCES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Algorithm Design Techniques">
+<lb:tema>ALGORITHM DESIGN TECHNIQUES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DIVIDE-AND-CONQUER ALGORITHMS</lb:subtema>
+      <lb:subtema>DYNAMIC PROGRAMMING</lb:subtema>
+      <lb:subtema>GREEDY ALGORITHMS</lb:subtema>
+      <lb:subtema>BACKTRACKING</lb:subtema>
+      <lb:subtema>LOCAL SEARCH ALGORITHMS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="Learning About Your Computer">
+      <lb:tema>LEARNING ABOUT YOUR COMPUTER</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>COMPUTER TECHNOLOGY DEFINED</lb:subtema>
+             <lb:subtema>COMPONENTS OF COMPUTER SYSTEMS</lb:subtema>
+             <lb:subtema>TEXT AND GRAPHICS DISPLAYS</lb:subtema>
+             <lb:subtema>KEYBOARDS</lb:subtema>
+             <lb:subtema>THE SYSTEM UNIT AND PERIPHERALS</lb:subtema>
+            <lb:subtema>HOW COMPUTERS WORK WITH DATA</lb:subtema>
+            <lb:subtema>STAND-ALONE VERSUS NETWORKED PCS</lb:subtema>
+            <lb:subtema>LESSONS LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Looking at DOS">
+      <lb:tema>LOOKING AT DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>THE TWO DOS VIEWS</lb:subtema>
+             <lb:subtema>THE CURRENT DRIVE</lb:subtema>
+             <lb:subtema>LOOKING AT DIRECTORIES</lb:subtema>
+             <lb:subtema>THE FIRST LOOK AT COMMANDS</lb:subtema>
+             <lb:subtema>LOOKING AT THE DOS SHELL</lb:subtema>
+            <lb:subtema>THE FIRST LOOK AT THE DOS SHELL</lb:subtema>
+            <lb:subtema>STOPPING THE COMPUTER</lb:subtema>
+            <lb:subtema>LESSONS LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="File Basics">
+      <lb:tema>FILE BASICS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING DOS FILES</lb:subtema>
+             <lb:subtema>UNDERSTANDING FILENAMES AND EXTENSIONS</lb:subtema>
+             <lb:subtema>CONSIDERING FILE SIZE AND DATE/TIME STAMPS</lb:subtema>
+             <lb:subtema>UNDERSTANDING WILDCARDS</lb:subtema>
+            <lb:subtema>LESSONS LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Shell Basics">
+      <lb:tema>SHELL BASICS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING THE DOS SHELL</lb:subtema>
+             <lb:subtema>SELECTING ITEMS</lb:subtema>
+             <lb:subtema>MAKING MENU SELECTIONS</lb:subtema>
+             <lb:subtema>USING DIALOG BOXES</lb:subtema>
+            <lb:subtema>USING SCROLL BARS</lb:subtema>
+            <lb:subtema>GETTING ON-LINE HELP</lb:subtema>
+            <lb:subtema>RUNNING PROGRAMS FROM THE SHELL</lb:subtema>
+            <lb:subtema>USING THE TASK-SWAPPER</lb:subtema>
+            <lb:subtema>CHANGING THE SHELL DISPLAY</lb:subtema>
+            <lb:subtema>FINDING LOST FILES</lb:subtema>
+            <lb:subtema>LEAVING THE DOS SHELL</lb:subtema>
+            <lb:subtema>LESSON LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Disks and Diskette Drives">
+      <lb:tema>USING DISKS AND DISKETTE DRIVES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING DISKETTES</lb:subtema>
+             <lb:subtema>UNDERSTANDING DISKETTE FORMATS</lb:subtema>
+             <lb:subtema>FORMATTING DISKETTES</lb:subtema>
+             <lb:subtema>UNDERSTANDING FORMATS ERROR MESSAJES</lb:subtema>
+            <lb:subtema>CAUTION ABOUT FORMATTING A HARD DISK</lb:subtema>
+            <lb:subtema>REFORMATTING DISKS</lb:subtema>
+            <lb:subtema>WRITE-PROTECTING DISKS</lb:subtema>
+            <lb:subtema>PROTECTING YOUR COMPUTER FROM VIRUSES</lb:subtema>
+            <lb:subtema>LESSON LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Your Hard Disk and Directories">
+      <lb:tema>USING YOUR HARD DISK AND DIRECTORIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING THE DOS DIRECTORY CONCEPT</lb:subtema>
+             <lb:subtema>NAVIGATING A HARD DISKS DIRECTORIES</lb:subtema>
+             <lb:subtema>FINDING PATHS IN THE TREE STRUCTURE</lb:subtema>
+             <lb:subtema>VIEWING THE DIRECTORY STRUCTURE</lb:subtema>
+            <lb:subtema>EXPLORING SAMPLE SUBDIRECTORIES</lb:subtema>
+            <lb:subtema>MANAGING A HARD DISK DRIVE</lb:subtema>
+            <lb:subtema>VIEWING DIRECTORIES</lb:subtema>
+            <lb:subtema>DISPLAYING FILE INFORMATION</lb:subtema>
+            <lb:subtema>LESSON LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Using the E editor">
+      <lb:tema>USING THE E EDITOR</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>STARTING THE EDITOR</lb:subtema>
+             <lb:subtema>CREATING A TEXT FILE</lb:subtema>
+             <lb:subtema>NAMING AN UNNAMED FILE</lb:subtema>
+             <lb:subtema>EDITING WITH THE E EDITOR</lb:subtema>
+            <lb:subtema>SAVING A FILE</lb:subtema>
+            <lb:subtema>PRINTING A FILE</lb:subtema>
+            <lb:subtema>EXITING THE EDITOR</lb:subtema>
+            <lb:subtema>LESSONS LEARNED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using the E editor">
+      <lb:tema>USING THE E EDITOR</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>MOVING FROM THE SHELL TO THE COMMAND LINE</lb:subtema>
+             <lb:subtema>UNDERSTANDING COMMANDS AND THE COMMAND LINE</lb:subtema>
+             <lb:subtema>ISSUING COMMANDS</lb:subtema>
+             <lb:subtema>USING DOSKEY, THE COMMAND LINE EDITOR</lb:subtema>
+            <lb:subtema>THE DOS TOP 20</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

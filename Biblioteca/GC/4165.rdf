@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Lo nuevo en AutoCAD 2000">
+<lb:tema>LO NUEVO EN AUTOCAD 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LA DECIMOQUINTA VERSION DE AUTOCAD</lb:subtema>
+      <lb:subtema>PRODUCTIVIDAD MEJORADA</lb:subtema>
+      <lb:subtema>ACCESO MEJORADO</lb:subtema>
+      <lb:subtema>ALCANCE EXPANDIDO</lb:subtema>
+      <lb:subtema>SALIDA CONTROLADA</lb:subtema>
+      <lb:subtema>MAYOR PERSONALIZACION</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Como empezar un dibujo en AutoCAD 2000">
+<lb:tema>COMO EMPEZAR UN DIBUJO EN AUTOCAD 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL CUADRO DE DIALOGO INICIO</lb:subtema>
+      <lb:subtema>COMO CONTROLAR LAS CONFIGURACIONES DE DIBUJO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Como controlar el entorno de dibujo de AutoCAD 2000">
+<lb:tema>COMO CONTROLAR EL ENTORNO DE DIBUJO DE AUTOCAD 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COMO ESPECIFICAR RUTAS DE BUSQUEDA Y NOMBRES DE ARCHIVO</lb:subtema>
+      <lb:subtema>OPCIONES PARA EL DESPLIEGUE VISUAL</lb:subtema>
+      <lb:subtema>OPCIONES DE ABRIR Y GUARDAR</lb:subtema>
+      <lb:subtema>CONFIGURACION DE OPCIONES DE TRAZADO</lb:subtema>
+      <lb:subtema>CONFIGURACION DEL SISTEMA</lb:subtema>
+      <lb:subtema>PREFERENCIAS DE USUARIO</lb:subtema>
+      <lb:subtema>OPCIONES DE DIBUJO</lb:subtema>
+      <lb:subtema>CONTROL DE LOS METODOS DE SELECCION</lb:subtema>
+      <lb:subtema>COMO GUARDAR LAS OPCIONES EN UN PERFIL</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Organizacion de un dibujo en capas">
+<lb:tema>ORGANIZACION DE UN DIBUJO EN CAPAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL NUEVO ADMINISTRADOR DE PROPIEDADES DE CAPAS</lb:subtema>
+      <lb:subtema>ESTANDARIZACIÓN DE LOS NOMBRES DE LAS CAPAS</lb:subtema>
+      <lb:subtema>COMO CONTROLAR LAS PROPIEDADES DE OBJETOS</lb:subtema>
+      <lb:subtema>COMO CONTROLAR EL COMPORTAMIENTO DE LOS OBJETOS</lb:subtema>
+      <lb:subtema>EMPLEO DE FILTROS DE CAPA</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creacion de dibujos exactos con AutoCAD 2000">
+<lb:tema>CREACION DE DIBUJOS EXACTOS CON AUTOCAD 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SISTEMAS DE COORDENADAS</lb:subtema>
+      <lb:subtema>CAMBIO DE LOS DISTEMAS DE COORDENADAS</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DE LOS PARAMETROS DE DIBUJO</lb:subtema>
+      <lb:subtema>LÍNEAS Y RAYOS  CONSTRUCCIÓN</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creacion de objetos elementales">
+<lb:tema>CREACION DE OBJETOS ELEMENTALES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USO DEL COMANDO LINEA</lb:subtema>
+      <lb:subtema>USO DEL COMANDO ARCO</lb:subtema>
+      <lb:subtema>USO DEL COMANDO CIRCULO</lb:subtema>
+      <lb:subtema>USO DEL COMANDO POLIGONO</lb:subtema>
+      <lb:subtema>DIBUJO DE ELIPSES</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creacion de polilineas y splines">
+<lb:tema>CREACION DE POLILINEAS Y SPLINES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREACION DE POLILÍNEAS</lb:subtema>
+      <lb:subtema>LAS POLILÍNEAS EN COMPARACIÓN CON LAS LÍNEAS</lb:subtema>
+      <lb:subtema>TIPOS DE POLILÍNEA</lb:subtema> 
+      <lb:subtema>EL COMANDO 3DPOL</lb:subtema> 
+      <lb:subtema>EDICIÓN DE POLILÍNEAS</lb:subtema> 
+      <lb:subtema>CREACIÓN DE SPLINES VERDADERAS</lb:subtema> 
+      <lb:subtema>CONTROL DE SPLINES CON EDITSPLINE</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Las funciones de consulta de AutoCAD 2000">
+<lb:tema>LAS FUNCIONES DE CONSULTA DE AUTOCAD 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO OBTENER INFORMACIÓN DE UN OBJETO</lb:subtema> 
+      <lb:subtema>HERRAMIENTAS DE CONSULTA</lb:subtema> 
+      <lb:subtema>CONSULTA DE ÁREAS EN BLOQUES Y REFERENCIAS EXTERNAS</lb:subtema> 
+      <lb:subtema>ATRIBUTOS DE BLOQUE</lb:subtema> 
+      <lb:subtema>EXTRACCIÓN DE DATOS DEL BLOQUE Y DE LOS ATRIBUTOS</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Edicion basica de objetos">
+<lb:tema>EDICION BASICA DE OBJETOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ENSAMIDE DE UN CONJUNTO DE SELECCIÓN</lb:subtema> 
+      <lb:subtema>RECUPERACION DE EDICIONES NO INTENCIONALES</lb:subtema> 
+      <lb:subtema>CAMBIO DE TAMAÑO DE OBJETOS</lb:subtema> 
+      <lb:subtema>REUBICACIÓN DE OBJETOS CON DESPLAZA Y GIRA</lb:subtema> 
+      <lb:subtema>DUPLICACIÓN DE OBJETOS</lb:subtema> 
+      <lb:subtema>ESQUINAS CON CHAFLÁN</lb:subtema> 
+      <lb:subtema>EMPALME DE OBJETOS</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Edición avanzada de geometria">
+<lb:tema>EDICIÓN AVANZADA DE GEOMETRIA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>OPERACIONES CON VENTANAS EN AUTOCAD</lb:subtema> 
+      <lb:subtema>EDICIÓN DE PINZAMIENTOS</lb:subtema> 
+      <lb:subtema>CAMBIO DE LAS PROPIEDADES DE UN OBJETO</lb:subtema> 
+      <lb:subtema>USO DE SELECCIÓN RAPIDA</lb:subtema> 
+      <lb:subtema>USO DE FILTROS DE SELECCION DE OBJETO</lb:subtema> 
+      <lb:subtema>CREACIÓN Y EDICIÓN DE GRUPOS</lb:subtema> 
+      <lb:subtema>DESCOMPOSICIÓN DE OBJETOS COMPUESTOS</lb:subtema> 
+      <lb:subtema>COMANDOS ESPECIALIZADOS DE EDICION</lb:subtema> 
+      <lb:subtema>ALARGAMIENTO Y ACORTAMIENTO DE OBJETOS</lb:subtema> 
+      <lb:subtema>ALINEACION DE OBJETOS</lb:subtema> 
+      <lb:subtema>CAMBIO DE NOMBRE DE OBJETOS GUARDADOS</lb:subtema> 
+      <lb:subtema>ELIMINACIÓN DE OBJETOS CON NOMBRE</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aplicaciones para el nuevo AutoCAD DesignCenter">
+<lb:tema>APLICACIONES PARA EL NUEVO AUTOCAD DESIGNCENTER</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LA INTERFAZ DE AUTOCAD DESIGNCENTER</lb:subtema> 
+      <lb:subtema>CARGA DE CONTENIDO EN EL DESIGNCENTER</lb:subtema> 
+      <lb:subtema>COMO AÑADIR CONTENIDO A DIBUJOS</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creacion y use de bloques">
+<lb:tema>CREACION Y USE DE BLOQUES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LOS BLOQUES</lb:subtema> 
+      <lb:subtema>REDEFINICIÓN DE BLOQUES CON LA EDICION DE REFERENCIAS IN SITU</lb:subtema> 
+      <lb:subtema>USO DE BLOQUES ANIDADOS</lb:subtema> 
+      <lb:subtema>ADMINISTRACION EFECTIVA DE BLOQUES</lb:subtema> 
+      <lb:subtema>RESUMEN</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>
+
+

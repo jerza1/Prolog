@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Fundamentos de Microsoft Draw">
+<lb:tema>FUNDAMENTOS DE MICROSOFT DRAW</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ACERCA DE MICROFT DRAW</lb:subtema>
+      <lb:subtema>EQUIPO REQUERIDO PARA USAR MICROSOFT DRAW</lb:subtema>
+      <lb:subtema>LO QUE NECESITA SABER PARA USAR MICROSOFT DRAW</lb:subtema>
+      <lb:subtema>INICIO DE MICROSOFT DRAW</lb:subtema>
+      <lb:subtema>SALIR DE MICROSOFT DRAW</lb:subtema>
+      <lb:subtema>LA VENTANA DE MICROSOFT DRAW</lb:subtema>
+      <lb:subtema>LA HERRAMIENTAS DE DIBUJO</lb:subtema>
+      <lb:subtema>ELEGIR COMANDOS DE LOS MENÚS</lb:subtema>
+      <lb:subtema>SELECCIONAR UN OBJETO</lb:subtema>
+      <lb:subtema>SELECCIONAR MAS DE UN OBJETO</lb:subtema>
+      <lb:subtema>OBTENER AYUDA</lb:subtema>
+      <lb:subtema>GUARDAR UN DIBUJO</lb:subtema>
+      <lb:subtema>ACTUALIZAR UN DIBUJO</lb:subtema>
+      <lb:subtema>IMPRIMIR UN DIBUJO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creación de objetos">
+<lb:tema>CREACIÓN DE OBJETOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DIBUJAR OBJETOS</lb:subtema>
+      <lb:subtema>DIBUJAR UNA LINEA</lb:subtema>
+      <lb:subtema>DIBUJAR UN ELIPSE/CÍRCULO, RECTÁNGULO/CUADRADO O RECTÁNGULO/CUADRADO REDONDEADO</lb:subtema>
+      <lb:subtema>DIBUJAR UN ARCO</lb:subtema>
+      <lb:subtema>DIBUJOS A MANO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Modificación de dibujos">
+<lb:tema>MODIFICACIÓN DE DIBUJOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UNA NOTA SOBRE LA SELECCIÓN DE OBJETOS</lb:subtema>
+      <lb:subtema>DESHACER UN CAMBIO</lb:subtema>
+      <lb:subtema>MARCOS Y RELLENOS</lb:subtema>
+      <lb:subtema>CORTAR, COPIAR, PEGAR Y BORRAR UN OBJETO</lb:subtema>
+      <lb:subtema>MOVER UN OBJETO</lb:subtema>
+      <lb:subtema>AJUSTAR EL TAMAÑO DE UN OBJETO</lb:subtema>
+      <lb:subtema>AJUSTAR EL TAMAÑO DE UN ARCO</lb:subtema>
+      <lb:subtema>MODIFICAR DIBUJOS A MANO</lb:subtema>
+      <lb:subtema>ROTAR UN OBJETO</lb:subtema>
+      <lb:subtema>VOLTEAR UN OBJETO</lb:subtema>
+      <lb:subtema>AGRUPAR Y DESAGRUPAR OBJETOS</lb:subtema>
+      <lb:subtema>CAMBIAR EL ORDEN DE LOS PLANOS DE DIBUJO</lb:subtema>
+      <lb:subtema>ZOOM PARA ACERCAR Y ALEJAR</lb:subtema>
+      <lb:subtema>USAR LA CUADRÍCULA</lb:subtema>
+      <lb:subtema>USAR LAS GUÍAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Uso de texto">
+<lb:tema>USO DE TEXTO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREAR UN OBJETO DE TEXTO</lb:subtema>
+      <lb:subtema>EDITAR TEXTO</lb:subtema>
+      <lb:subtema>CAMBIAR LA PRESENTACIÓN DE UN OBJETO DE TEXTO</lb:subtema>
+      <lb:subtema>CAMBIAR LA ALINEACIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Uso de la paleta de colores">
+<lb:tema>USO DE LA PALETA DE COLORES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PRESENTAR LA PALETA DE COLORES</lb:subtema>
+      <lb:subtema>SELECCIONAR UN COLOR</lb:subtema>
+      <lb:subtema>AGREGAR UN COLOR A LA PALETA</lb:subtema>
+      <lb:subtema>CAMBIAR UN COLOR EN LA PALETA</lb:subtema>
+      <lb:subtema>ELIMINAR UN COLOR EN LA PALETA</lb:subtema>
+      <lb:subtema>USAR UN COLOR QUE NO FIGURE EN LA PALERA</lb:subtema>
+      <lb:subtema>AGREGAR UN COLOR DESDE UNA SELECCIÓN</lb:subtema>
+      <lb:subtema>GUARDAR UNA PALETA</lb:subtema>
+      <lb:subtema>TRAER UNA PALETA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Uso de metarchivos">
+<lb:tema>USO DE METARCHIVOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>IMPORTAR UNA IMAGEN</lb:subtema>
+      <lb:subtema>SUGERENCIAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

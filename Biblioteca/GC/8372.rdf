@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Linear Algebra Topics">
+<lb:tema>LINEAR ALGEBRA TOPICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>LINES</lb:subtema>
+      <lb:subtema>ANGLES</lb:subtema>
+      <lb:subtema>INNER PRODUCT SPACES: OIL HONOR BASES</lb:subtema>
+      <lb:subtema>PLANES</lb:subtema>
+      <lb:subtema>ORIENTATION</lb:subtema>  
+      <lb:subtema>CONVEX SETS</lb:subtema>
+      <lb:subtema>PRINCIPAL AXES THEOREMS</lb:subtema>
+      <lb:subtema>BILINEAR AND QUADRATIC MAPS</lb:subtema>
+      <lb:subtema>THE CROSS PRODUCT REEXAMINED</lb:subtema>
+      <lb:subtema>THE GENERALIZED INVERSE MATRIX</lb:subtema>
+      <lb:subtema>EXERCISES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Affine Geometry">
+<lb:tema>AFFINE GEOMETRY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>OVERVIEW </lb:subtema>
+      <lb:subtema>MOTIONS</lb:subtema>
+      <lb:subtema>SIMILARITIES</lb:subtema>
+      <lb:subtema>AFFINE TRANSFORMATIONS</lb:subtema>
+      <lb:subtema>BEYOND THE PLANE</lb:subtema>
+      <lb:subtema>EXERCISES </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="Projective Geometry">
+<lb:tema>PROJECTIVE GEOMETRY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>OVERVIEW</lb:subtema>
+      <lb:subtema>CENTRAL PROJECTION AND PERSPECTIVITIES</lb:subtema>
+      <lb:subtema>HOMOGENOUS COORDINATES</lb:subtema>
+      <lb:subtema>THE PROJECTIVE PLANE</lb:subtema>
+      <lb:subtema>BEYOND THE PLANE</lb:subtema>
+      <lb:subtema>CONIC SECTIONS</lb:subtema>
+      <lb:subtema>QUADRIC SURFACES</lb:subtema>
+      <lb:subtema>GENERALIZED CENTRAL PROJECTIONS</lb:subtema>
+      <lb:subtema>THE THEOREMS OF PASCAL AND BRANCHON</lb:subtema>
+      <lb:subtema>THE STEREOGRAPHIC PROJECTION</lb:subtema>
+      <lb:subtema>EXERCISES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Advances Calculus Topics">
+<lb:tema>ADVANCES CALCULUS TOPICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>THE TOPOLOGY OF EUCLIDEAN SPACE</lb:subtema>
+      <lb:subtema>DERIVATIVES</lb:subtema>
+      <lb:subtema>THE INVERSE AND IMPLICIT FUNCTION THEOREM</lb:subtema>
+      <lb:subtema>CRITICAL POINTS</lb:subtema>
+      <lb:subtema>MORSE THEORY</lb:subtema>
+      <lb:subtema>ZEROS OF FUNCTIONS</lb:subtema>
+      <lb:subtema>INTEGRATION</lb:subtema>
+      <lb:subtema>DIFFERENTIAL FORMS</lb:subtema>
+      <lb:subtema>EXCERSICES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Point Set Topology">
+<lb:tema>POINT SET TOPOLOGY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>METRIC SPACES</lb:subtema>
+      <lb:subtema>TOPOLOGICAL SPACES</lb:subtema>
+      <lb:subtema>CONSTRUCTING NEW TOPOLOGICAL SPACES</lb:subtema>
+      <lb:subtema>COMPACTNESS</lb:subtema>
+      <lb:subtema>CONNECTEDNESS</lb:subtema>
+      <lb:subtema>HOMOTOPY</lb:subtema>
+      <lb:subtema>CONSTRUCTING CONTINUOUS FUNCTIONS</lb:subtema>
+      <lb:subtema>THE TOPOLOGY OF PN</lb:subtema>
+      <lb:subtema>EXCERCISES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Combinatorial Topology">
+<lb:tema>COMBINATORIAL TOPOLOGY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>WHAT IS TOPOLOGY?</lb:subtema>
+      <lb:subtema>SIMPLICIAL COMPLEXES</lb:subtema>
+      <lb:subtema>CUTTING AND PASTING</lb:subtema>
+      <lb:subtema>THE CLASSIFICATION OF SURFACES</lb:subtema>
+      <lb:subtema>BORDERED AND NONCOMPACT SURFACES</lb:subtema>
+      <lb:subtema>EXERCISES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Algebalc Topology">
+<lb:tema>ALGEBALC TOPOLOGY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>HOMOLOGY THEORY</lb:subtema>
+      <lb:subtema>COHOMOLOGY GROUPS</lb:subtema>
+      <lb:subtema>PSEUDOMANIFOLS</lb:subtema>
+      <lb:subtema>WHERE TO NEXT: WHAT WE LEFT OUT</lb:subtema>
+      <lb:subtema>THE CW COMPLEX PN</lb:subtema>
+      <lb:subtema>EXERCISES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Differential Topology">
+<lb:tema>DIFFERENTIAL TOPOLOGY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>PARAMETERIZING SPACES</lb:subtema>
+      <lb:subtema>MANIFOLDS IN RN</lb:subtema>
+      <lb:subtema>TANGENT VECTORS AND SPACES</lb:subtema>
+      <lb:subtema>ORIENTED MANIFOLDS</lb:subtema>
+      <lb:subtema>HANDLE DECOMPOSITIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>  
+    
+</rdf:RDF> 

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTRODUCCION">
+<lb:tema>INTRODUCCION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>APLICACIONES GRÁFICAS DEL ORDENADOR</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PRIMERA PARTE: Técnicas y hardware">
+<lb:tema>PRIMERA PARTE: TÉCNICAS Y HARDWARE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL PROCESO ELECTRÓNICO</lb:subtema>
+      <lb:subtema>LOS SISTEMAS GRÁFICOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SEGUNDA PARTE: Aplicaciones">
+<lb:tema>SEGUNDA PARTE: APLICACIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL DISEÑO GRÁFICO</lb:subtema>
+      <lb:subtema>LA ILUSTRACIÓN</lb:subtema>
+      <lb:subtema>LA TELEVISIÓN Y EL CINE</lb:subtema>
+      <lb:subtema>LAS CIENCIAS</lb:subtema>
+      <lb:subtema>LA INDUSTRIA</lb:subtema>
+      <lb:subtema>LOS NEGOCIOS</lb:subtema>
+      <lb:subtema>APLICACIONES FUTURAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

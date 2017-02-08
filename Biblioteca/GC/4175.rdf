@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Puesta en marcha">
+<lb:tema>PUESTA EN MARCHA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ACERCA DE CURSO COMPLETO EN UN LIBRO</lb:subtema>
+      <lb:subtema>REQUISITOS PREVIOS</lb:subtema>
+      <lb:subtema>INSTALACION DEL PROGRAMA</lb:subtema>
+      <lb:subtema>INSTALACION DE LAS FUENTES DE CURSO COMPLETO EN UN LIBRO</lb:subtema>
+      <lb:subtema>COPIA DE LOS ARCHIVOS DE CURSO COMPIETO EN UN LIBRO</lb:subtema>
+      <lb:subtema>RESTALECIMIENTO DE LAS PREFERENCIAS PREDETERMINADAS</lb:subtema>
+      <lb:subtema>RECURSOS ADICIONALES </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Un paseo rápido por Adobe Illustrator">
+<lb:tema>UN PASEO RÁPIDO POR ADOBE ILLUSTRATOR</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN RNARCHA</lb:subtema>
+      <lb:subtema>CREACIÓN DE FORMAS BASICAS</lb:subtema>
+      <lb:subtema>COMBINACION DE FORMAS</lb:subtema>
+      <lb:subtema>FUSIONES</lb:subtema>
+      <lb:subtema>EDICION DEL DIBUJO</lb:subtema>
+      <lb:subtema>DIBUJO DE LINEAS RECTAS</lb:subtema>
+      <lb:subtema>PINTURA</lb:subtema>
+      <lb:subtema>ESCALAMIENTO Y ROTATION DE OBJETOS</lb:subtema>
+      <lb:subtema>USO DE CAPASAPLICACION DE FILTROS A IMAGENES DE MAPA DE BITS</lb:subtema>
+      <lb:subtema>ADICION DE TEXTO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El área de trabajo">
+<lb:tema>EL ÁREA DE TRABAJO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>VISTA DE IA ILUSTRACION</lb:subtema>
+      <lb:subtema>HERRAMIENTAS DE ILLUSTRATOR</lb:subtema>
+      <lb:subtema>CÓMO CAMBIAR LA VISTA DE LA ILUSTRACIÓN</lb:subtema>
+      <lb:subtema>TRABAJO CON PALETAS</lb:subtema>
+      <lb:subtema>USO DE MENUS CONTEXTUALES</lb:subtema>
+      <lb:subtema>CALIBRACION DE SU MONITOR</lb:subtema>
+      <lb:subtema>USO DE LA AYUDA DE ILLUSTRATOR</lb:subtema>
+      <lb:subtema>USO DE LOS SERVICIOS EN LINEA DE ADOBE</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISION</lb:subtema>
+      <lb:subtema>RESPUESTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creación de formas básicas">
+<lb:tema>CREACIÓN DE FORMAS BÁSICAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>CONFIGURACIÓN DEL DOCUMENTO</lb:subtema>
+      <lb:subtema>USO DE LAS HERRAMIENTAS BASICAS PARA FORMAS</lb:subtema>
+      <lb:subtema>DIBUJO DE LA FORMA DEL LAPIZ</lb:subtema>
+      <lb:subtema>DIBUJO DE LA HOJA DECORADA</lb:subtema>
+      <lb:subtema>DECORACION DEL BORDE DEL PAPEL</lb:subtema>
+      <lb:subtema>CONSEJOS PARA EL DIBUJO DE POLIGONOS, ESPIRALES Y ESTRELLAS</lb:subtema>
+      <lb:subtema>PINTURA DEL LOGOTIPO</lb:subtema>
+      <lb:subtema>COPIA Y ESCALAMIENTO DE FORMAS</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISIÓN</lb:subtema>
+      <lb:subtema>RESPUESTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Pintura">
+<lb:tema>PINTURA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>RELLENO CON COLOR</lb:subtema>
+      <lb:subtema>APLICACIÓN DE COLOR AL CONTORNO</lb:subtema>
+      <lb:subtema>CREACIÓN DE UNA PALETA PERSONALIZADA</lb:subtema>
+      <lb:subtema>COPIA DE LOS ATRIBUTOS DE PINTURA</lb:subtema>
+      <lb:subtema>COPIA DE LOS ATRIBUTOS DE APARIENCIA</lb:subtema>
+      <lb:subtema>SATURATION DE COLORES</lb:subtema>
+      <lb:subtema>PINTURA CON MOTIVOS Y DEGRADADOS</lb:subtema>
+      <lb:subtema>PINTURA CON EL PINCEL DE MOTIVO</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISIÓN</lb:subtema>
+      <lb:subtema>RESPUESTAS </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Dibujo con la pluma">
+<lb:tema>DIBUJO CON LA PLUMA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>DIBUJO DE LINEAS RECTAS</lb:subtema>
+      <lb:subtema>DIBUJO DE CURVAS</lb:subtema>
+      <lb:subtema>EDICIÓN DE CURVAS</lb:subtema>
+      <lb:subtema>CONCLUSIÓN DE LA PERA</lb:subtema>
+      <lb:subtema>EXPLORE POR SU CUENTA</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISION</lb:subtema>
+      <lb:subtema>RESPUESTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trabajo con pinceles">
+<lb:tema>TRABAJO CON PINCELES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>APLICACIÓN A TRAZADOS PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>CÓMO UTILIZAR PINCELES DE ARTE</lb:subtema>
+      <lb:subtema>CÓMO UTILIZAR PINCELES DE DISPERSION</lb:subtema>
+      <lb:subtema>CÓMO MODIFICAR LOS ATRIBUTOS DE COLOR DE LOS PINCELES</lb:subtema>
+      <lb:subtema>USE UN COLOR DE RELLENO CON PINCELES</lb:subtema>
+      <lb:subtema>USE PINCELES CALIGRAFICOS</lb:subtema>
+      <lb:subtema>USO DE PINCELES DE MOTIVO</lb:subtema> 
+      <lb:subtema>CÓMO CREAR PINCELES</lb:subtema>
+      <lb:subtema>EXPLORE POR SU CUENTA</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISION</lb:subtema>
+      <lb:subtema>RESPUESTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformación de objetos">
+<lb:tema>TRANSFORMACIÓN DE OBJETOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>COMO ESCALAR OBJETOS</lb:subtema>
+      <lb:subtema>ROTACIÓN DE OBJETOS</lb:subtema>
+      <lb:subtema>DISTORSION DE OBJETOS</lb:subtema>
+      <lb:subtema>CÓMO TORCER OBJETOS</lb:subtema>
+      <lb:subtema>COLOCACIÓN PRECISA DE OBJETOS</lb:subtema>
+      <lb:subtema>COMO REFLEJAR OBJETOS</lb:subtema>
+      <lb:subtema>CAMBIO DE LA PERSPECTIVA</lb:subtema>
+      <lb:subtema>EMPLEO DE IA HERRAMIENTA TRANSFORMACIÓN LIBRE</lb:subtema>
+      <lb:subtema>HAGA TRANSFORMACIONES MÚLTIPLES</lb:subtema>
+      <lb:subtema>PREGUNTAS DE REVISIÓN</lb:subtema>
+      <lb:subtema>RESPUESTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trabajo con texto">
+<lb:tema>TRABAJO CON TEXTO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PUESTA EN MARCHA</lb:subtema>
+      <lb:subtema>COMO AGREGAR TEXTO A UN DOCUMENTO</lb:subtema> 
+      <lb:subtema>MUESTREO DEL TEXTO</lb:subtema>
+      <lb:subtema>CAMBIO DE TAMAÑO DE LOS CARACTERES</lb:subtema>
+      <lb:subtema>CREACIÓN DE COLUMNAS DE TEXTO</lb:subtema>
+      <lb:subtema>CAMBIO DE LOS ATRIBUTOS DE CARÁCTER DEL TEXTO COLOCADO</lb:subtema>
+      <lb:subtema>CAMBIO DE LOS ATRIBUTOS DEL PÁRRAFO</lb:subtema>
+      <lb:subtema>AJUSTE DEL FLUJO DEL TEXTO</lb:subtema>
+      <lb:subtema>AJUSTE DE TEXTO ALREDEDOR DE UNA IMAGEN</lb:subtema>
+      <lb:subtema>TEXTO A LO LARGO DE UN TRAZADO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>     
+
+</rdf:RDF>

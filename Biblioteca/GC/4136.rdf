@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Welcome to AutoCAD 2000i">
+<lb:tema>WELCOME TO AUTOCAD 2000I</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LEARNING AUTOCAD</lb:subtema>     
+      <lb:subtema>MIGRATING TO AUTOCAD 2000I</lb:subtema>  
+      <lb:subtema>WHERE TO START</lb:subtema>
+      <lb:subtema>GETTING HELP</lb:subtema>  
+      <lb:subtema>GETTING ACTIVE ASSISTANCE</lb:subtema>   
+      <lb:subtema>TYPOGRAPHICAL CONVENTIONS</lb:subtema>   
+      <lb:subtema>ADDITIONAL RESOURCES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Getting Started">
+<lb:tema>GETTING STARTED</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>STARTING AUTOCAD</lb:subtema>  
+      <lb:subtema>STARTING NEW DRAWINGS</lb:subtema>     
+      <lb:subtema>USING TEMPLATES</lb:subtema>
+      <lb:subtema>OPENING EXISTING DRAWINGS</lb:subtema>   
+      <lb:subtema>USING PARTIAL OPEN AND PARTIAL LOAD</lb:subtema>   
+      <lb:subtema>WORKING WITH MULTIPLE DRAWINGS</lb:subtema>  
+      <lb:subtema>UNDERSTANDING THE AUTOCAD WINDOW</lb:subtema>  
+      <lb:subtema>WORKING WITH TOOLBARS</lb:subtema>   
+      <lb:subtema>USING SHORTCUT MENUS</lb:subtema>    
+      <lb:subtema>USING POINTING DEVICES</lb:subtema>    
+      <lb:subtema>SAVING DRAWINGS</lb:subtema> 
+      <lb:subtema>CLOSING DRAWINGS</lb:subtema>  
+      <lb:subtema>EXITING AUTOCAD</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Setting Up Your Drawing Environment">
+<lb:tema>SETTING UP YOUR DRAWING ENVIRONMENT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SETTING DRAWING UNITS</lb:subtema>   
+      <lb:subtema>SETTING THE GRID AND SNAP</lb:subtema>     
+      <lb:subtema>MODIFYING THE AUTOCAD ENVIRONMENT</lb:subtema>   
+      <lb:subtema>VIEWING AND UPDATING DRAWING PROPERTIES</lb:subtema> 
+      <lb:subtema>CREATING, MODIFYING, AND DELETING TOOLBARS</lb:subtema>  
+      <lb:subtema>CREATING AND EDITING TOOLBAR BUTTONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Modifying the AutoCAD Environment">
+<lb:tema>MODIFYING THE AUTOCAD ENVIRONMENT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SPECIFYING SEARCH PATHS, FILE NAMES, AND FILE LOCATIONS</lb:subtema>
+      <lb:subtema>CONFIGURING THE AUTOCAD DISPLAY</lb:subtema> 
+      <lb:subtema>OPENING AND SAVING YOUR DRAWINGS</lb:subtema>  
+      <lb:subtema>CONTROLLING PLOTTING PROPERTIES</lb:subtema> 
+      <lb:subtema>CONFIGURING SYSTEM OPTIONS</lb:subtema>  
+      <lb:subtema>SETTING USER PREFERENCES</lb:subtema>  
+      <lb:subtema>SETTING DRAFTING PROPERTIES</lb:subtema>   
+      <lb:subtema>CHANGING SELECTION OPTIONS </lb:subtema> 
+      <lb:subtema>CREATING PROFILES</lb:subtema>   
+      <lb:subtema>OPTIMIZING PERFORMANCE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating and Editing Toolbar Buttons">
+<lb:tema>CREATING AND EDITING TOOLBAR BUTTONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREATING A TOOLBAR BUTTON</lb:subtema>   
+      <lb:subtema>CHANGING THE COMMAND ASSIGNED TO A BUTTON</lb:subtema> 
+      <lb:subtema>CREATING A FLYOUT</lb:subtema> 
+      <lb:subtema>EDITING BUTTON ICONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Using Commands and System Variables">
+<lb:tema>USING COMMANDS AND SYSTEM VARIABLES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>WORKING WITH AUTOCAD COMMANDS</lb:subtema> 
+      <lb:subtema>SWITCHING FROM DIALOG BOX TO COMMAND LINE</lb:subtema>   
+      <lb:subtema>USING SCRIPTS TO RUN COMMANDS</lb:subtema>   
+      <lb:subtema>USING SYSTEM VARIABLES</lb:subtema>  
+      <lb:subtema>CORRECTING MISTAKES</lb:subtema> 
+      <lb:subtema>LEARNING COMMANDS AND SYSTEM VARIABLES </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Working with AutoCAD Commands">
+<lb:tema>WORKING WITH AUTOCAD COMMANDS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>WORKING WITH THE COMMAND WINDOW</lb:subtema> 
+      <lb:subtema>WORKING WITH THE TEXT WINDOW</lb:subtema>  
+      <lb:subtema>USING COMMANDS TRANSPARENTLY</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Using Coordinate Systems">
+<lb:tema>USING COORDINATE SYSTEMS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>WORKING WITH CARTESIAN AND POLAR COORDINATE SYSTEMS</lb:subtema>   
+      <lb:subtema>LOCATING POINTS</lb:subtema>   
+      <lb:subtema>DISPLAYING COORDINATES OF THE CURRENT CURSOR LOCATION</lb:subtema>
+      <lb:subtema>SPECIFYING COORDINATES</lb:subtema>  
+      <lb:subtema>USING DIRECT DISTANCE ENTRY</lb:subtema>   
+      <lb:subtema>SHIFTING AND ROTATING THE COORDINATE SYSTEM</lb:subtema>   
+      <lb:subtema>RESTORING THE UCS TO WCS</lb:subtema>  
+      <lb:subtema>DISPLAYING THE UCS ICON</lb:subtema> 
+      <lb:subtema>WORKING WITH UCSS IN VIEWPORTS</lb:subtema>  
+      <lb:subtema>SAVING AND RESTORING A NAMED UCS</lb:subtema>  
+      <lb:subtema>MODIFYING THE UCS ICON SETTINGS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creating Objects">
+<lb:tema>CREATING OBJECTS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DRAWING LINES</lb:subtema> 
+      <lb:subtema>DRAWING LINE OBJECTS</lb:subtema>  
+      <lb:subtema>DRAWING POLYLINES</lb:subtema>   
+      <lb:subtema>DRAWING MULTILINES</lb:subtema>  
+      <lb:subtema>CREATING MULTILINE STYLES</lb:subtema> 
+      <lb:subtema>DRAWING POLYGONS</lb:subtema>  
+      <lb:subtema>SKETCHING FREEHAND</lb:subtema>  
+      <lb:subtema>CREATING SKETCHES</lb:subtema> 
+      <lb:subtema>DRAWING CURVED OBJECTS</lb:subtema>  
+      <lb:subtema>DRAWING CIRCLES</lb:subtema>   
+      <lb:subtema>DRAWING ARCS</lb:subtema>  
+      <lb:subtema>DRAWING SPLINE CURVES</lb:subtema> 
+      <lb:subtema>DRAWING ELLIPSES AND ELLIPTICAL ARCS</lb:subtema>  
+      <lb:subtema>DRAWING DONUTS</lb:subtema>  
+      <lb:subtema>CREATING POINT OBJECTS</lb:subtema>
+      <lb:subtema>CREATING SOLID-FILLED AREAS</lb:subtema>
+      <lb:subtema>CREATING REGIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Dibujo y edición">
+<lb:tema>DIBUJO Y EDICIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PROCEDIMIENTOS BÁSICOS</lb:subtema>
+      <lb:subtema>REALIZACIÓN DE DIBUJOS</lb:subtema>
+      <lb:subtema>EDICIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Mejora de los dibujos">
+<lb:tema>MEJORA DE LOS DIBUJOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UTILIZACIÓN DE BLOQUES</lb:subtema>
+      <lb:subtema>ACOTACIÓN</lb:subtema>
+      <lb:subtema>TECNICAS DE SOMBREADO</lb:subtema>
+      <lb:subtema>TEXTO Y TIPO DE LETRA</lb:subtema>
+      <lb:subtema>UTILIZACION DE TRAZADORES</lb:subtema>
+      <lb:subtema>GESTIÓN DE ATRIBUTOS</lb:subtema>
+      <lb:subtema>UTILIZACIÓN DE MENÚ</lb:subtema>      
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Técnicas avanzadas">
+<lb:tema>TÉCNICAS AVANZADAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN AL AUTOLISP</lb:subtema>
+      <lb:subtema>PROGRAMAS EN AUTOLISP</lb:subtema>
+      <lb:subtema>DISEÑO EN 3D</lb:subtema>
+      <lb:subtema>OTROS LENGUAJES DE PROGRAMACIÓN DE AUTOCAD</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Referencia de órdenes y funciones">
+<lb:tema>REFERENCIA DE ÓRDENES Y FUNCIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>REFERENCIA DE FUNCIONES DE AUTOLISP</lb:subtema>
+      <lb:subtema>REFERENCIA DE ÓRDENES DE AUTOCAD</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

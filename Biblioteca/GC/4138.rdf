@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="QuickStart">
+<lb:tema>QUICKSTART</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INSTALLING AUTOCAD FOR WINDOWS</lb:subtema>
+      <lb:subtema>CONFIGURING AUTOCAD</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introduction">
+<lb:tema>INTRODUCTION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ABOUT AUTOCAD RELEASE 12 FOR WINDOWS</lb:subtema>
+      <lb:subtema>SYSTEM REQUIREMENTS</lb:subtema>
+      <lb:subtema>SUPPORTED PERIPHERALS </lb:subtema>
+      <lb:subtema>ABOUT THIS GUIDE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Chapter 1 Installing AutoCAD">
+<lb:tema>CHAPTER 1 INSTALLING AUTOCAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INSTALLATION OVERVIEW</lb:subtema>
+      <lb:subtema>THE AUTOCAD SETUP PROGRAM</lb:subtema>
+      <lb:subtema>INSTALLING THIRD-PARTY ADI 4.2 DRIVERS</lb:subtema>
+      <lb:subtema>AUTOCAD HARDWARE LOCK (PARALLEL PORT INTERFACE)</lb:subtema>
+      <lb:subtema>WHAT'S THE NEXT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Chapter 2 Configuring AutoCAD">
+<lb:tema>CHAPTER 2 CONFIGURING AUTOCAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>DEVICE DRIVERS FOR AUTOCAD</lb:subtema>
+      <lb:subtema>CONFIGURATION PROCEDURE</lb:subtema>
+      <lb:subtema>CONFIGURING YOUR TABLET MENU</lb:subtema>
+      <lb:subtema>CHANGING THE AUTOCAD CONFIGURATION</lb:subtema>
+      <lb:subtema>CONFIGURE VIDEO DISPLAY</lb:subtema>
+      <lb:subtema>CONFIGURE DIGITIZER</lb:subtema>
+      <lb:subtema>CONFIGURE PLOTTER</lb:subtema>
+      <lb:subtema>CONFIGURE SYSTEM CONSOLE</lb:subtema>
+      <lb:subtema>CONFIGURE OPERATING PARAMETERS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Chapter 3 Performance">
+<lb:tema>CHAPTER 3 PERFORMANCE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PHYSICAL MEMORY AND PERFORMANCE</lb:subtema>
+      <lb:subtema>MEMORY USE AND PERFORMANCE</lb:subtema>
+      <lb:subtema>OPTIMIZING WINDOWS PERFORMANCE</lb:subtema>
+      <lb:subtema>SETTING THE AUTOCAD ENVIROMENT</lb:subtema>
+      <lb:subtema>USING A PLOT SPOOLER WITH AUTOCAD</lb:subtema>
+      <lb:subtema>USING DOS TO IMPROVE PERFORMANCE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Chapter 4 AutoCAD Render">
+<lb:tema>CHAPTER 4 AUTOCAD RENDER</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INSTALLING AUTOCAD RENDER</lb:subtema>
+      <lb:subtema>INSTALLING AUTODESK DEVICE INTERFACE DRIVERS</lb:subtema>
+      <lb:subtema>LOADING AND UNLOADING AUTOCAD RENDER</lb:subtema>
+      <lb:subtema>CONFIGURING AUTOCAD RENDER</lb:subtema>
+      <lb:subtema>CHECKING RENDERING CONFIGURATION</lb:subtema>
+      <lb:subtema>RECONFIGURE AUTOCAD RENDER</lb:subtema>
+      <lb:subtema>AUTOCAD AND AUTOSHADE VERSION 2</lb:subtema>
+      <lb:subtema>SETTING THE AUTOCAD RENDER ENVIROMENT</lb:subtema>
+      <lb:subtema>RENDERING AND IMAGE FILE FORMATS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Chapter 5 ASE-The SQL Interface">
+<lb:tema>CHAPTER 5 ASE-THE SQL INTERFACE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SETTING UP ASE</lb:subtema>
+      <lb:subtema>SYSTEM CONFIGURATION REQUIREMENTS</lb:subtema>
+      <lb:subtema>CONSTRAINTS</lb:subtema>
+      <lb:subtema>NETWORK AND DATABASE DRIVERS</lb:subtema>
+      <lb:subtema>LOCKED TABLES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix A Video Display Options">
+<lb:tema>APPENDIX A VIDEO DISPLAY OPTIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ABOUT VIDEO DISPLAYS</lb:subtema>
+      <lb:subtema>WINDOWS DRIVERS BY AUTODESK</lb:subtema>
+      <lb:subtema>WINDOWS DRIVER</lb:subtema>
+      <lb:subtema>ACCELERATED DISPLAY DRIVER</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix B Digitizer Options">
+<lb:tema>APPENDIX B DIGITIZER OPTIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ABOUT DIGITIZER</lb:subtema>
+      <lb:subtema>TABLET OPERATION</lb:subtema>
+      <lb:subtema>MOUSE OPERATION</lb:subtema>
+      <lb:subtema>MOLE MODE DIGITIZER SUPPORT</lb:subtema>
+      <lb:subtema>CALCOMP 2500 AND 9100 SERIES TABLETS</lb:subtema>
+      <lb:subtema>HITACHI HICOMSCAN HDG SERIES TABLETS</lb:subtema>
+      <lb:subtema>KURTA IS/ONE TABLETS</lb:subtema>
+      <lb:subtema>KURTA XLC AND IS/THREE TABLETS</lb:subtema>
+      <lb:subtema>SUMMAGRAPHICS SUMMASKETCH MM SERIES TABLETS</lb:subtema>      
+      <lb:subtema>SUMMAGRAPHICS MICROGRID TABLETS</lb:subtema>
+      <lb:subtema>WINTAB-COMPATIBLE TABLETS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix C Plotter Options">
+<lb:tema>APPENDIX C PLOTTER OPTIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ABOUT PLOTTERS</lb:subtema>
+      <lb:subtema>ASCII, BINARY, AND DBX PLOT FILES</lb:subtema>
+      <lb:subtema>CALCOMP PLOTTERS</lb:subtema>
+      <lb:subtema>CANON LASER BEAM PRINTER</lb:subtema>
+      <lb:subtema>HEWLETT-PACKARD HP-GL PLOTTERS</lb:subtema>
+      <lb:subtema>HEWLETT-PACKARD HP-GL/2 DEVICES</lb:subtema>
+      <lb:subtema>HOUSTON INSTRUMENTS DMP SERIES</lb:subtema>
+      <lb:subtema>POSTSCRIPT LASER PRINTERS</lb:subtema>
+      <lb:subtema>RASTER FILES</lb:subtema>      
+      <lb:subtema>SYSTEM PRINTED BY AUTODESK</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix D ADI and Hardware Ports">
+<lb:tema>APPENDIX D ADI AND HARDWARE PORTS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>AUTODESK DEVICE INTERFACE (ADI)</lb:subtema>
+      <lb:subtema>HARDWARE PORTS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix E Networks Administration">
+<lb:tema>APPENDIX E NETWORKS ADMINISTRATION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BENEFITS OF RUNNING AUTOCAD ON A NETWORK</lb:subtema>
+      <lb:subtema>CONTENTS OF THIS APPENDIX</lb:subtema>
+      <lb:subtema>SYSTEM REQUIREMENTS</lb:subtema>
+      <lb:subtema>AUTOCAD NETWORK BASICS</lb:subtema>
+      <lb:subtema>NETWORK INSTALLATION OVERVIEW</lb:subtema>
+      <lb:subtema>PERFORMANCE TUNING</lb:subtema>
+      <lb:subtema>CRASH RECOVERY</lb:subtema>
+      <lb:subtema>AUTOCAD NETWORK INSTALLATION NOTES</lb:subtema>
+      <lb:subtema>AUTOCAD NETWORK CONFIGURATION NOTES</lb:subtema>      
+      <lb:subtema>NETWORK REFERENCE INFORMATION</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix F File Listing">
+<lb:tema>APPENDIX F FILE LISTING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FILE LISTED BY DIRECTORY</lb:subtema>
+      <lb:subtema>AUTOCAD RENDER FILES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

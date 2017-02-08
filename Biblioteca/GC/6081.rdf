@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introduction">
+<lb:tema>INTRODUCTION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>POWERFUL NEW LANGUAJE</lb:subtema>
+      <lb:subtema>GETTING THE MOST OUT OF MACROS</lb:subtema>
+      <lb:subtema>NOTES ON TECHNICAL SUPPORT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sample macros">
+<lb:tema>SAMPLE MACROS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USING THE SAMPLE MACROS</lb:subtema>
+      <lb:subtema>REPEATING COMMANDS</lb:subtema>
+      <lb:subtema>ARRAYS</lb:subtema>
+      <lb:subtema>FLOWING TEXT</lb:subtema>
+      <lb:subtema>LINE BREAKERS</lb:subtema>
+      <lb:subtema>PRINT TILING</lb:subtema>
+      <lb:subtema>CALCULATOR MACROS</lb:subtema>
+      <lb:subtema>EDITING THE MACROS</lb:subtema>
+      <lb:subtema>MORE HOT MACROS</lb:subtema>
+  </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Programming Commands">
+<lb:tema>PROGRAMMING COMMANDS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DISPLAY OPERATIONS</lb:subtema>
+      <lb:subtema>FLOW CONTROL</lb:subtema>
+      <lb:subtema>VARIABLE OPERATIONS </lb:subtema>
+      <lb:subtema>FILE OPERATIONS</lb:subtema>
+      <lb:subtema>ENTITY LIST OPERATIONS</lb:subtema>
+      <lb:subtema>UTILITY OPERATIONS</lb:subtema>
+      <lb:subtema>INFORMATION GATHERING AND ERROR TRAPPING</lb:subtema>
+  </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Application development">
+<lb:tema>APPLICATION DEVELOPMENT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>A SIMPLE CALCULATOR</lb:subtema>
+      <lb:subtema>A VIDEO MENU CALCULATOR</lb:subtema>
+      <lb:subtema>A DIGITIZER MENU CALCULATOR</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

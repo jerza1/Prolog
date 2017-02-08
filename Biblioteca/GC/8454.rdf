@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Diseño gráfico">
+<lb:tema>DISEÑO GRÁFICO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ANTECEDENTES</lb:subtema>
+      <lb:subtema>PROGRAMS DE AUTOEDICION</lb:subtema>
+      <lb:subtema>SOFTWARE PARA PRESENTACIONES</lb:subtema>
+      <lb:subtema>GENERALIDADES DE LA FASE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducción a CorelDRAW 8">
+<lb:tema>INTRODUCCIÓN A CORELDRAW 8</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EJECUCIÓN DE CORELDRAW</lb:subtema>
+      <lb:subtema>PARTES DE LA PANTALLA</lb:subtema>
+      <lb:subtema>DESCRIPCIÓN DE LOS MENUS</lb:subtema>
+      <lb:subtema>PERSIANAS</lb:subtema>
+      <lb:subtema>VENTANAS ACOPLABLES</lb:subtema>
+      <lb:subtema>CAJA DE HERRAMIENTAS</lb:subtema>
+      <lb:subtema>BARRA DE HERRAMIENTAS ESTANDAR</lb:subtema>
+      <lb:subtema>DESCRIPCIÓN DEL ENTORNO DE TRABAJO</lb:subtema>
+      <lb:subtema>PREPARAR PÁGINA</lb:subtema>
+      <lb:subtema>SALIR DE CORELDRAW</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procedimientos básicos">
+<lb:tema>PROCEDIMIENTOS BÁSICOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>MODOS DE DIBUJO</lb:subtema>
+      <lb:subtema>DIBUJO EN MODO MANO ALZADA</lb:subtema>
+      <lb:subtema>DIBUJO EN MODO BEZIER</lb:subtema>
+      <lb:subtema>DIBUJO EN MODO PLUMA NATURAL</lb:subtema>
+      <lb:subtema>DIBUJO EN MODO COTAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Precisión en el dibujo">
+<lb:tema>PRECISIÓN EN EL DIBUJO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>HERRAMIENTAS DE PRECISION</lb:subtema>
+      <lb:subtema>CUADRÍCULA</lb:subtema>
+      <lb:subtema>LINEAS GUÍA</lb:subtema>
+      <lb:subtema>REGLAS</lb:subtema>
+      <lb:subtema>CONEXION AUTOMATICA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Texto y símbolos">
+<lb:tema>TEXTO Y SÍMBOLOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INSERTAR TEXTO</lb:subtema>
+      <lb:subtema>MODIFICAR ATRIBUTOS DE TEXTO</lb:subtema>
+      <lb:subtema>AJUSTAR ESPACIADO DE TEXTO</lb:subtema>
+      <lb:subtema>COPIAR ATRIBUTOS DE TEXTO</lb:subtema>
+      <lb:subtema>CORRECTOR ORTOGRÁFICO</lb:subtema>
+      <lb:subtema>INSERTAR SÍMBOLOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procedimientos especiales para texto">
+<lb:tema>PROCEDIMIENTOS ESPECIALES PARA TEXTO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>AJUSTAR TEXTO A TRAYECTO</lb:subtema>
+      <lb:subtema>AJUSTARTEXTO A LÍNEA BASE</lb:subtema>
+      <lb:subtema>AJUSTAR TEXTO A MARCO</lb:subtema>
+      <lb:subtema>KERNING DE TEXTO</lb:subtema>
+      <lb:subtema>CONVERTIR TEXTO A CURVAS</lb:subtema>
+      <lb:subtema>ENDERIZAR TEXTO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>  
+
+<rdf:Description
+rdf:about="Selección y organizacion de objetos">
+<lb:tema>SELECCIÓN Y ORGANIZACION DE OBJETOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SELECCIONAR OBJETOS</lb:subtema>
+      <lb:subtema>DESPLAZAR OBJETOS</lb:subtema>
+      <lb:subtema>ORGANIZAR OBJETOS</lb:subtema>
+      <lb:subtema>AGRUPAR Y DESAGRUPAR OBJETOS</lb:subtema>
+      <lb:subtema>COMBINAR OBJETOS</lb:subtema>
+      <lb:subtema>CAPAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transformar y formar objetos">
+<lb:tema>TRANSFORMAR Y FORMAR OBJETOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN</lb:subtema>
+      <lb:subtema>MOVER OBJETOS</lb:subtema>
+      <lb:subtema>GIRAR E INCLINAR OBJETOS</lb:subtema>
+      <lb:subtema>ESCALAR Y REFLEJAR OBJETOS</lb:subtema>
+      <lb:subtema>DUPLICAR OBJETOS</lb:subtema>
+      <lb:subtema>FORMAR RECTÁNGULOS</lb:subtema>
+      <lb:subtema>ARCOS Y SEGMENTOS</lb:subtema>
+      <lb:subtema>LÍNEAS Y CURVAS</lb:subtema>
+      <lb:subtema>MAPAS DE BITS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Trazo de rectángulos y elipses">
+<lb:tema>TRAZO DE RECTÁNGULOS Y ELIPSES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>RECTANGULOS Y CUADRADOS</lb:subtema>
+      <lb:subtema>ELIPSES Y CIRCULOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Rellenos y contornos">
+<lb:tema>RELLENOS Y CONTORNOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN</lb:subtema>
+      <lb:subtema>HERRAMIENTA RELLENO</lb:subtema>
+      <lb:subtema>RELLENOS UNIFORMES</lb:subtema>
+      <lb:subtema>PATRÓN EN DOS COLORES</lb:subtema>
+      <lb:subtema>PATRÓN CON TODOS LOS COLORES</lb:subtema>
+      <lb:subtema>PATRON CON MAPA DE BITS</lb:subtema>
+      <lb:subtema>RELLENO DEGRADADO</lb:subtema>
+      <lb:subtema>RELLENO DE TEXTURA</lb:subtema>
+      <lb:subtema>RELLENO POSTSCRIPT</lb:subtema>
+      <lb:subtema>SIN RELLENO</lb:subtema>
+      <lb:subtema>PERSIANA DE RELLENO</lb:subtema>
+      <lb:subtema>INTRODUCCIÓN A LOS CONTORNOS</lb:subtema>
+      <lb:subtema>HERRAMIENTA CONTORNO</lb:subtema>
+      <lb:subtema>HERRAMIENTA PLUMA DE CONTORNO</lb:subtema>
+      <lb:subtema>COLOR DEL CONTORNO</lb:subtema>
+      <lb:subtema>PERSIANA PLUMA</lb:subtema>
+      <lb:subtema>PERSONALIZAR EL CONTORNO</lb:subtema>
+      <lb:subtema>HERRAMIENTA SIN CONTORNO</lb:subtema>
+      <lb:subtema>COPIA DE RELLENOS Y CONTORNOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Creación de efectos especiales">
+<lb:tema>CREACIÓN DE EFECTOS ESPECIALES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>AGREGAR PERSPECTIVA A UN OBJETO</lb:subtema>
+      <lb:subtema>EXTRUSION DE UN OBJETO</lb:subtema>
+      <lb:subtema>MEZCLAR OBJETOS</lb:subtema>
+      <lb:subtema>FORMAR UN OBJETO CON ENVOLTURA</lb:subtema>
+      <lb:subtema>CREAR EL EFECTO SILUETA</lb:subtema>
+      <lb:subtema>CREAR EL EFECTO LENTE</lb:subtema>
+      <lb:subtema>AJUSTE DE COLOR</lb:subtema>
+      <lb:subtema>CREAR UN OBJETO EN POWERCLIP</lb:subtema>
+      <lb:subtema>COPIAR Y CLONAR EFECTO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Familia de Corel Draw 8">
+<lb:tema>FAMILIA DE COREL DRAW 8</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCION A COREL PHOTO-PAINT</lb:subtema>
+      <lb:subtema>PANTALLA DE COREL PHOTO-PAINT</lb:subtema>
+      <lb:subtema>MENÚS DE COREL PHOTO-PAINT</lb:subtema>
+      <lb:subtema>HERRAMIENTAS DE COREL PHOTO-PAINT</lb:subtema>
+      <lb:subtema>TRABAJO CON IMAGENES</lb:subtema>
+      <lb:subtema>RETOQUE DE IMAGENES</lb:subtema>
+      <lb:subtema>CREACIÓN DE PELICULAS</lb:subtema>
+      <lb:subtema>UTILIDADES GRAFICAS DE COREL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Instalación y obtención de ayuda en CorelDRAW">
+<lb:tema>INSTALACIÓN Y OBTENCIÓN DE AYUDA EN CORELDRAW</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ANTES DE INSTALAR</lb:subtema>   
+      <lb:subtema>INSERTAR EL DISCO</lb:subtema>
+      <lb:subtema>INSTALACION PARA EL USUARIO TIPICO</lb:subtema>
+      <lb:subtema>INSTALACION PERSONALIZADA</lb:subtema>
+      <lb:subtema>COMO AGREGAR Y GUITAR COMPONENTES</lb:subtema>
+      <lb:subtema>ACTUALIZAR LA INSTALACION DE CORELDRAW 10</lb:subtema>
+      <lb:subtema>USO DE CORE1TUTOR</lb:subtema>
+      <lb:subtema>COMO OBTENER AYUDA</lb:subtema>
+      <lb:subtema>ACTIVACION DE AYUDA EMERGENTE</lb:subtema>
+      <lb:subtema>¿QUE ES ESTO?</lb:subtema>
+      <lb:subtema>COMO USAR LA AYUDA RELATIVA AL CONTEXTO</lb:subtema> 
+      <lb:subtema>USO DE LA AYUDA DE CORELDRAW</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Novedades de CorelDRAW 10">
+<lb:tema>NOVEDADES DE CORELDRAW 10</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ASPECTO DE LA PANTALLA</lb:subtema>
+      <lb:subtema>PRODUCTIVIDAD Y RENDIMIENTO</lb:subtema>
+      <lb:subtema>CARACTERÍSTICAS DE TEXTO EXPANDIDAS</lb:subtema>
+      <lb:subtema>MANIPULACIÓN DE OBJETOS</lb:subtema>
+      <lb:subtema>HERRAMIENTAS</lb:subtema>
+      <lb:subtema>CARACTERÍSTICAS DE OBJETOS</lb:subtema>
+      <lb:subtema>HERRAMIENTAS</lb:subtema>
+      <lb:subtema>CARACTERÍSTICAS WEB</lb:subtema>
+      <lb:subtema>IMPRESIÓN Y PDF</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Toma de contacto con la interfaz de CorelDRAW 10">
+<lb:tema>TOMA DE CONTACTO CON LA INTERFAZ DE CORELDRAW 10</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ANATOMIA DE LA VENTANA</lb:subtema>
+      <lb:subtema>ESPECIFICAR VALORES EN BARRAS DE HERRAMIENTAS Y CUADROS DE DIALOGO</lb:subtema>
+      <lb:subtema>COMO TRABAJAR CON VENTANAS ACOPLABLES</lb:subtema>
+      <lb:subtema>USO DE LA CAJA DE HERRAMIENTAS</lb:subtema>
+      <lb:subtema>COMO TRABAJAR CON BARRAS DE HERRAMIENTAS</lb:subtema>
+      <lb:subtema>USO DE LA PALETA DE COLOR </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Como trabajar con ventanas acoplables">
+<lb:tema>COMO TRABAJAR CON VENTANAS ACOPLABLES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ABRIR, TRASLADAR Y CERRAR VENTANAS ACOPLABLES</lb:subtema>
+      <lb:subtema>VENTANAS ACOPLABLES ANIDADAS </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abrir y guardar archivos">
+<lb:tema>ABRIR Y GUARDAR ARCHIVOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PANTALLA DE HIENVENIDA DE CORELDRAW 10</lb:subtema>
+      <lb:subtema>ABRIR EL PRIMER ARCHIVO DE DOCUMENTO NUEVO</lb:subtema>
+      <lb:subtema>ABRIR ARCHIVOS DE DOCUMENTO</lb:subtema>
+      <lb:subtema>CERRAR Y GUARDAR DOCUMENTOS</lb:subtema>
+      <lb:subtema>TRABAJAR CON PLATILLAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cerrar y guardar documentos">
+<lb:tema>CERRAR Y GUARDAR DOCUMENTOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CERRAR ARCHIVOS DE DOCUMENTO</lb:subtema>
+      <lb:subtema>GUARDAR EL PRIMER DOCUMENTO</lb:subtema>
+      <lb:subtema>USAR OPCIONES DE GUARDAR</lb:subtema>
+      <lb:subtema>ORDEN GUARDAR COMO</lb:subtema>
+      <lb:subtema>OPCIONES DE GUARDAR AVANZADAS</lb:subtema>
+      <lb:subtema>USAR OPCIONES DE COPIA DE SEGURIDAD</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Control de documentos y páginas">
+<lb:tema>CONTROL DE DOCUMENTOS Y PÁGINAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EVALUAR LAS NECESIDADES RELATIVAS AL DOCUMENTO</lb:subtema>
+      <lb:subtema>CONFIGURAR LAS PÁGINAS DEL DOCUMENTO</lb:subtema>
+      <lb:subtema>ASIGNAR NOMBRES A PAGINAS</lb:subtema>
+      <lb:subtema>ORDENES DE PÁGINA</lb:subtema>
+      <lb:subtema>EXAMINAR DIBUJOS Y OBJETOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Medidas y ayudas de dibujo">
+<lb:tema>MEDIDAS Y AYUDAS DE DIBUJO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USAR LA REGLA</lb:subtema>
+      <lb:subtema>USAR CUADRICULAS</lb:subtema>
+      <lb:subtema>TRABAJAR CON LINEAS GUIA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

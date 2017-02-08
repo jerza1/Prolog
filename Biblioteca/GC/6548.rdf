@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Distributed Databases: An Overview">
+<lb:tema>DISTRIBUTED DATABASES: AN OVERVIEW</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FEATURES OF DISTRIBUTED VERSUS CENTRALIZED DATABASES</lb:subtema>
+      <lb:subtema>WHY DISTRIBUTED DATABASES?</lb:subtema>
+      <lb:subtema>DISTRIBUTED DATABASE MANAGEMENT SYSTEMS (DDBMSS)</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Review of Databases and Computer Networks">
+<lb:tema>REVIEW OF DATABASES AND COMPUTER NETWORKS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>REVIEW OF DATABASES 19</lb:subtema>
+      <lb:subtema>REVIEW OF COMPUTER NETWORKS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Levels of Distribution Transparency">
+<lb:tema>LEVELS OF DISTRIBUTION TRANSPARENCY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>REFERENCE ARCHITECTURE FOR DISTRIBUTED DATABASES  39</lb:subtema>
+      <lb:subtema>TYPES OF DATA FRAGMENTATION 41</lb:subtema>
+      <lb:subtema>DISTRIBUTION TRANSPARENCY FOR READ-ONLY APPLICATIONS  47</lb:subtema>
+      <lb:subtema>DISTRIBUTION TRANPARENCY FOR UPDATE APPLICATIONS  54</lb:subtema>
+      <lb:subtema>DISTRIBUTED DATABASE ACCESS PRIMITIVES  58</lb:subtema>
+      <lb:subtema>INTEGRITY CONSTRAINTS IN DISTRIBUTED DATABASES</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Commercial Systems">
+<lb:tema>COMMERCIAL SYSTEMS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TANDEM'S ENCOMP_ASS DISTRIBUTED DATABASE SYSTEM</lb:subtema>
+      <lb:subtema>IBM'S INTER SYSTEM COMMUNICATION</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ADD-1: A System for Distributed Databases">
+<lb:tema>ADD-1: A SYSTEM FOR DISTRIBUTED DATABASES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ARCHITECTURE</lb:subtema>
+      <lb:subtema>CONCURRENCE- CONTROL (READ PHASE)</lb:subtema>
+      <lb:subtema>EXECUTION OF QUERIES (EXECUTE PHASE)</lb:subtema>
+      <lb:subtema>RELIABILITY AND TRANSACTION COMMITMENT (WRITE PHASE)</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The R* Project">
+<lb:tema>THE R* PROJECT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ARCHITECTURE OF R*</lb:subtema>
+      <lb:subtema>COMPILATION. EXECUTION, AND RECOMPILATION OF QUERIES</lb:subtema>
+      <lb:subtema>VIEW MANAGEMENT</lb:subtema>
+      <lb:subtema>PROTOCOLS FOR DATA DEFINITION AND AUTHORIZATION IN R.</lb:subtema>
+      <lb:subtema>TRANSACTION MANAGEMENT</lb:subtema>
+      <lb:subtema>TERMINAL MANAGEMENT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Other Homogeneous Distributed Database Systems">
+<lb:tema>OTHER HOMOGENEOUS DISTRIBUTED DATABASE SYSTEMS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DDM: A DISTRIBUTED DATABASE MANAGER BASED ON ADAPLEX</lb:subtema>
+      <lb:subtema>DISTRIBUTED-INGRES</lb:subtema>
+      <lb:subtema>POREL</lb:subtema>
+      <lb:subtema>SIRIUS-DELTA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Heterogeneous Distributed Database Systems">
+<lb:tema>HETEROGENEOUS DISTRIBUTED DATABASE SYSTEMS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PROBLEMS OF HETEROGENEOUS DISTRIBUTED DATABASES</lb:subtema>
+      <lb:subtema>MULTLBASE</lb:subtema>
+      <lb:subtema>DDTS: A DISTRIBUTED TESTBED SYSTEM</lb:subtema>
+      <lb:subtema>HETEROGENEOUS SIRIUS-DELTA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Translation of Global Queries to Fragment Queries">
+<lb:tema>TRANSLATION OF GLOBAL QUERIES TO FRAGMENT QUERIES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EQUIVALENCE TRANSFORMATIONS FOR QUERIES</lb:subtema>
+      <lb:subtema>TRANSFORMING GLOBAL QUERIES INTO FRAGMENT QUERIES</lb:subtema>
+      <lb:subtema>DISTRIBUTED GROUPING AND AGGREGATE FUNCTION EVALUATION</lb:subtema>
+      <lb:subtema>PARAMETRIC QUERIES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Optimization of Access Strategies">
+<lb:tema>OPTIMIZATION OF ACCESS STRATEGIES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>A FRAMEWORK FOR QUERY OPTIMIZATION</lb:subtema>
+      <lb:subtema>JOIN QUERIES</lb:subtema>
+      <lb:subtema>GENERAL QUERIES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Management of Distributed Transactions">
+<lb:tema>THE MANAGEMENT OF DISTRIBUTED TRANSACTIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>A FRAMEWORK FOR TRANSACTION MANAGEMENT</lb:subtema>
+      <lb:subtema>SUPPORTING ATOMICITY OF DISTRIBUTED TRANSACTIONS</lb:subtema>
+      <lb:subtema>CONCURRENCY CONTROL FOR DISTRIBUTED TRANSACTIONS</lb:subtema>
+      <lb:subtema>ARCHITECTURAL ASPECTS OF DISTRIBUTED TRANSACTIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Concurrency Control">
+<lb:tema>CONCURRENCY CONTROL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FOUNDATIONS OF DISTRIBUTED CONCURRENCY CONTROL</lb:subtema>
+      <lb:subtema>DISTRIBUTED DEADLOCKS</lb:subtema>
+      <lb:subtema>CONCURRENCY CONTROL BASED ON TIMESTAMPS</lb:subtema>
+      <lb:subtema>OPTIMISTIC METHODS FOR DISTRIBUTED CONCURRENCY CONTROL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Reliability">
+<lb:tema>RELIABILIT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema> BASIC CONCEPTS</lb:subtema>
+      <lb:subtema>NONBLOCKING COMMITMENT PROTOCOLS</lb:subtema>
+      <lb:subtema>RELIABILITY AND CONCURRENCY CONTROL</lb:subtema>
+      <lb:subtema>DETERMINING A CONSISTENT VIEW OF THE NETWORK</lb:subtema>
+      <lb:subtema>DETECTION AND RESOLUTION OF INCONSISTENCY</lb:subtema>
+      <lb:subtema>CHECKPOINTS AND COLD RESTART</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Distributed Database Administration">
+<lb:tema>DISTRIBUTED DATABASE ADMINISTRATION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CATALOG MANAGEMENT IN DISTRIBUTED DATABASES</lb:subtema>
+      <lb:subtema>AUTHORIZATION AND PROTECTION</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción">
+	<lb:tema>INTRODUCCIÓN</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Repaso sobre bases de datos">
+	<lb:tema>REPASO SOBRE BASES DE DATOS</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Descripción de Base R">
+	<lb:tema>DESCRIPCIÓN DE BASE R</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Un periferico inteligente para Base R">
+	<lb:tema>UN PERIFERICO INTELIGENTE PARA BASE R</lb:tema>
+</rdf:Description>  
+
+<rdf:Description
+rdf:about="Determinación de los ciclos para realizar las operaciones">
+	<lb:tema>DETERMINACIÓN DE LOS CICLOS PARA REALIZAR LAS OPERACIONES</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Beneficios y problemas del periferico">
+	<lb:tema>BENEFICIOS Y PROBLEMAS DEL PERIFERICO</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Conclusiones">
+	<lb:tema>CONCLUSIONES</lb:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Referencias">
+	<lb:tema>REFERENCIAS</lb:tema>
+</rdf:Description>
+
+</rdf:RDF>

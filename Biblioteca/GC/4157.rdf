@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Novedades en AutoCAD 2002">
+<lb:tema>NOVEDADES EN AUTOCAD 2002</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LA DESIMOSÉPTIMA LIBERACIÓN DE AUTOCAD</lb:subtema>
+      <lb:subtema>MEJORAS RELACIONADAS CON INTERNET</lb:subtema>
+      <lb:subtema>MEJORAS AL SISTEMA</lb:subtema>
+      <lb:subtema>MEJORAS EN LA SALIDA</lb:subtema>
+      <lb:subtema>FUNCIONALIDAD MEJORADA</lb:subtema>
+      <lb:subtema>MODIFICADORES REFORZADOS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Como iniciar un dibujo en AutoCAD 2002">
+<lb:tema>COMO INICIAR UN DIBUJO EN AUTOCAD 2002</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL CUADRO DE DIALOGO INICIO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Como controlar el entorno de dibujo de AutocaCAD 2002">
+<lb:tema>COMO CONTROLAR EL ENTORNO DE DIBUJO DE AUTOCACAD 2002</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>COMO ESPECIFICAR RUTAS DE BÚSQUEDA Y NOMBRES DE ARCHIVOS</lb:subtema>
+      <lb:subtema>OPCIONES VISUALES</lb:subtema>
+      <lb:subtema>OPCIONES DE ABRIR Y GUARDAR</lb:subtema>
+      <lb:subtema>CONFIGURACION DE LAS OPCIONES DE TRAZADO</lb:subtema>
+      <lb:subtema>CONFIGURACION DEL SISTEMA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>  
+
+<rdf:Description
+rdf:about="Como Organizar un dibujo con capas">
+<lb:tema>COMO ORGANIZAR UN DIBUJO CON CAPAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL ADMINISTRADOR PROPIEDADES DE CAPAS </lb:subtema>
+      <lb:subtema>NORMALIZACION DE LOS NOMBRES DE LAS CAPAS</lb:subtema>
+      <lb:subtema>CONTROL DE LAS PROPIEDADES DE LOS OBJETOS</lb:subtema>
+      <lb:subtema>CONTROL DEL COMPORTAMIENTO DE LOS OBJETOS</lb:subtema>
+      <lb:subtema>USO DE LOS FILTROS DE CAPA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

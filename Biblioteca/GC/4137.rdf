@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+<rdf:Description
+rdf:about="Introducción">
+  <lb:tema>INTRODUCCIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TEMAS DE ADMINISTRACIÓN </lb:subtema>
+      <lb:subtema>CÓMO RECABAR INFORMACIÓN DEL SISTEMA </lb:subtema>
+      <lb:subtema>RESPALDO DE ARCHIVOS IMPORTANTES!</lb:subtema>
+      <lb:subtema>EJECUCIÓN EN EL ÚLTIMO DÍA DEL MES </lb:subtema>
+      <lb:subtema>MANEJO DE LOS DEMONIOS NO DESEADOS</lb:subtema>
+      <lb:subtema>CÓMO CONSERVAR VIVOS A ESOS DEMONIOS</lb:subtema>
+      <lb:subtema>FUSER EN LUGAR DE PS </lb:subtema>
+      <lb:subtema>INTERCAMBIO SOBRE LA MARCHA</lb:subtema>
+      <lb:subtema>EL COMANDO NOHUP</lb:subtema>
+      <lb:subtema>REDIRECCIONAMIENTO DE LA SALIDA A NULL</lb:subtema>
+      <lb:subtema>CÓMO MANTENER FUERA A LOS USUARIOS REMOTO</lb:subtema>
+      <lb:subtema>CÓMO REBOBINAR RÁPIDO SUS CINTAS</lb:subtema>
+      <lb:subtema>GENERACIÓN DE UN RANGO DE NÚMEROS</lb:subtema>
+      <lb:subtema>CÓMO ELIMINAR GUIONES</lb:subtema>
+      <lb:subtema>ECHO EN LUGAR DE LS</lb:subtema>
+      <lb:subtema>CREACIÓN DE ARCHIVOS SIMULADOS EXTENSOS</lb:subtema>
+      <lb:subtema>CÓMO PROBAR UNIDADES DE DISCO </lb:subtema>
+      <lb:subtema>CÓMO CERRAR UN SISTEMA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Conectividad de redes">
+  <lb:tema>CONECTIVIDAD DE REDES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>MODELO OSI DE CONECTIVIDAD DE REDES </lb:subtema>
+      <lb:subtema>CÓMO BUSCAR UNA FALLAS</lb:subtema>
+      <lb:subtema>CÓMO OCULTAR ARCHIVOS  EN NFS</lb:subtema>
+      <lb:subtema>CONFIGURACIÓNES REMOTAS DE REDES</lb:subtema>
+      <lb:subtema>CIERRE DETENCIÓN O REINICIO A TRAVES DE LA RED</lb:subtema>
+      <lb:subtema>COMUNICACITM ENTRE NFS3 Y NFS2 </lb:subtema>
+      <lb:subtema>DESMONTAJE Y DISPOSITIVOS OCUPADOS</lb:subtema>
+      <lb:subtema>RUTEO ESTÁTICO O ROUTED </lb:subtema>
+      <lb:subtema>OBTENCIÓN DE LA DIRECCIÓN ETERNET CON ARP </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Seguridad">
+  <lb:tema>SEGURIDAD</lb:tema>
+  <lb:subtema>
+    <rdf:Seq> 
+      <lb:subtema>PROPORCIONE ACCESO TIPO ROOT MÚLTIPLES ADMINISTRADORES</lb:subtema>
+      <lb:subtema>LA RUTA DE ACCESO COMPLETA AL SUPERUSUARIO</lb:subtema>
+      <lb:subtema>MONITOREE EL USO DE ROOT EN EL ARCHIVO DE CONTRASEÑAS</lb:subtema>
+      <lb:subtema>PUNTOS VULNERABLES DE UNIX </lb:subtema>
+      <lb:subtema>NIVELES DE PERMISO </lb:subtema>
+      <lb:subtema>PROTEJA LA CUENTA ROOT A TODA COSTA</lb:subtema>
+      <lb:subtema>RECOLECCIÓN DE ARCHIVOS </lb:subtema>
+      <lb:subtema>ENCRIPTACIÓN DE ARCHIVOS </lb:subtema>
+      <lb:subtema>BORRAR Y BLOQUEAR</lb:subtema>
+      <lb:subtema>HERRAMIENTAS DE PODER </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Monitoreo del sistema ">
+  <lb:tema>MONITOREO DEL SISTEMA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>MONITOREO AL TIEMPO DE ARRANQUE</lb:subtema>
+      <lb:subtema>INICIO CON UNA INSTALACIÓN NUEVA</lb:subtema>
+      <lb:subtema>MONITOREO CON TAIL </lb:subtema>
+      <lb:subtema>CORTE DE ARCHIVOS DE REGISTRO A LA MITAD </lb:subtema>
+      <lb:subtema>ENVIO DE NOTIFICACIONES SOBRE PROCESOS VÍA CORREO ELECTRÓNICO </lb:subtema>
+      <lb:subtema>CÓMO VIGILAR EL ESPACIO EN DISCO </lb:subtema>
+      <lb:subtema>ENCUENTRE EL ACAPARADOR DE ESPACIO EN DISCO</lb:subtema>
+      <lb:subtema>CÓMO VIGILAR LAS DIFERENCIAS CON GREP </lb:subtema>
+      <lb:subtema>MONITOREO CON PING </lb:subtema>
+      <lb:subtema>MONITOREO DE ARCHIVOS CORE</lb:subtema>
+      <lb:subtema>MONITOREO DE LOS ARCHIVOS DE CAÍDA  </lb:subtema>
+      <lb:subtema>NO OLVIDE EL HORARIO DE VERANO</lb:subtema>
+      <lb:subtema>REVISIÓN DE LA HORA </lb:subtema>
+      <lb:subtema>ADMINISTRACIÓN DE CUENTAS</lb:subtema>
+      <lb:subtema>NOMBRES DE CUENTA DE USUARI</lb:subtema>
+      <lb:subtema>CONTRASEÑAS</lb:subtema>
+      <lb:subtema>UID</lb:subtema>
+      <lb:subtema>IDENTIFICACIONES DE GRUPO Y /ETC/GROUP</lb:subtema>
+      <lb:subtema>EL CAMPO GECOS</lb:subtema>
+      <lb:subtema>DIRECTORIOS BASE </lb:subtema>
+      <lb:subtema>LOS SHELLS Y EL ARCHIVO DE CONTRASEÑAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Cómo configurar una cuenta">
+<lb:tema>CÓMO CONFIGURAR UNA CUENTA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LOS ARCHIVOS DE INICIO DE LAS CUENTAS DE USUARIO </lb:subtema>
+      <lb:subtema>EL USO DE LOS ALIAS</lb:subtema>
+      <lb:subtema>USUARIOS DE MS-DOS</lb:subtema>
+      <lb:subtema>CÓMO CAMBIAR DE SHELLS</lb:subtema>
+      <lb:subtema>CÓMO SABER EN QUÉ PANTALLA SE ENCUENTRA</lb:subtema>
+      <lb:subtema>CÓMO COPIAR ARCHIVOS A MÚLTIPLES DIRECTORIOS BASE</lb:subtema>
+      <lb:subtema>CÓMO TERMINAR UNA SESIÓN</lb:subtema>
+      <lb:subtema>CÓMO DESHABILITAR LA CONTRASEÑA DE ROOT SIN USAR VI</lb:subtema>
+      <lb:subtema>DESCRIPCIÓN   ADMINISTRACIÓN DE ARCHIVOS</lb:subtema>
+      <lb:subtema>COPIA DE ARCHIVOS CON PERMISOS Y ESTAMPILLAS DE TIEMPO</lb:subtema>
+      <lb:subtema>COPIA REMOTA DE ARCHIVOS</lb:subtema>
+      <lb:subtema>¿CUÁL ÁREA TMP ES LA MEJOR PARA ARCHIVOS TEMPORALES? </lb:subtema>
+      <lb:subtema>MANEJO DE VÍNCULOS SIMBÓLICOS</lb:subtema>
+      <lb:subtema>CÓMO ENCONTRAR ARCHIVOS CON GREP </lb:subtema>
+      <lb:subtema>GREP MÚLTIPLE </lb:subtema>
+      <lb:subtema>EJECUCIÓN RECURSIVA DE COMANDOS CON FIND </lb:subtema>
+      <lb:subtema>CÓMO MOVER Y RENOMBRAR GRUPOS DE ARCHIVOS</lb:subtema>
+      <lb:subtema>DEPURACIÓN DE PÁGINAS DEL MANUAL </lb:subtema>
+      <lb:subtema>DEPURACIÓN DE ARCHIVOS DOS </lb:subtema>
+      <lb:subtema>DIVISIÓN DE ARCHIVOS </lb:subtema>
+      <lb:subtema>LIMITACIÓN DEL TAMAÑO DEL CORE</lb:subtema>
+      <lb:subtema>UUENCODE Y UUDECODE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

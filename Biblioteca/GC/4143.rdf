@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Recetario del cliente de red">
+  <lb:tema>RECETARIO DEL CLIENTE DE RED</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UN MUNDO CONECTADO MEDIANTE SOCKETS</lb:subtema>
+      <lb:subtema>GENERALIDADES DEL DIRECCIONAMIENTO TCP/IP </lb:subtema>
+      <lb:subtema>ESCUCHA DEL SERVIDOR: EL ALGORITMO BÁSICO DEL CLIENTE </lb:subtema>
+      <lb:subtema>RESUMEN: ¿QUÉ OCURRE ENTRE BASTIDORES?</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Elocuencia del lenguaje de red TCP/IP">
+  <lb:tema>ELOCUENCIA DEL LENGUAJE DE RED TCP/IP</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>GENERALIDADES DE LA NUMERACIÓN IP</lb:subtema>
+    	<lb:subtema>NÚMEROS DE PUERTOS DE HOST IP</lb:subtema>
+    	<lb:subtema>ORDENACIÓN DE BYTES DE RED</lb:subtema>
+    	<lb:subtema>DIFERENTES CLASES DE SOCKADDR</lb:subtema>
+    	<lb:subtema>CANALES CON NOMBRE DE UNIX </lb:subtema>
+    	<lb:subtema>RESUMEN: APLICACIÓN DE HERRAMIENTAS Y NUMERACIÓN IP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tipos de paquetes de Internet">
+  <lb:tema>TIPOS DE PAQUETES DE INTERNET</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema></lb:subtema>
+      <lb:subtema>NÚMEROS DE PUERTOS DE HOST IP</lb:subtema>
+      <lb:subtema></lb:subtema>
+      <lb:subtema>DIFERENTES CLASES DE SOCKADDR</lb:subtema>
+      <lb:subtema>CANALES CON NOMBRE DE UNIX</lb:subtema>
+      <lb:subtema>RESUMEN: APLICACIÓN DE HERRAMIENTAS Y NUMERACIÓN IP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Tipos de paquetes de Internet">
+  <lb:tema>TIPOS DE PAQUETES DE INTERNET</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL PAQUETE DE RED FUNDAMENTAL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Envío de mensajes entrepeers">
+  <lb:tema>ENVÍO DE MENSAJES ENTREPEERS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿QUÉ SON LOS SOCKETS BASADOS EN LA CONEXIÓN?</lb:subtema>
+      <lb:subtema>EJEMPLO: CONEXIÓN AL DEMONIO HTTP</lb:subtema>
+      <lb:subtema>¿QUÉ SON LOS SOCKETS SIN CONEXIÓN?</lb:subtema>
+      <lb:subtema>ENVÍO DE UN MENSAJE DIRECTO </lb:subtema>
+      <lb:subtema>GARANTÍA DE LLEGADA DE UN MENSAJE UDP</lb:subtema>
+      <lb:subtema>TAREAS ENREVESADAS: UNA INTRODUCCIÓN A LA MULTITAREA </lb:subtema>
+      <lb:subtema>RESUMEN: MODELOS CONECTADOS FRENTE A MODELOS SIN CONEXIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Generalidades sobre el servidor">
+   <lb:tema>GENERALIDADES SOBRE EL SERVIDOR</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ASIGNACIÓN DEL SOCKET: EL FLUJO DE PROGRAMA GENERAL DEL SERVIDOR</lb:subtema>
+      <lb:subtema>UN SERVIDOR DE ECO SENCILLO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

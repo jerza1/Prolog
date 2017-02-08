@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Transformations of the Plane">
+<lb:tema>TRANSFORMATIONS OF THE PLANE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>TRANSLATIONS</lb:subtema>
+      <lb:subtema>SCALING ABOUT THE ORIGIN</lb:subtema>
+      <lb:subtema>REFLECTIONS</lb:subtema>
+      <lb:subtema>ROTATION ABOUT THE ORIGIN</lb:subtema>
+      <lb:subtema>SHEARS</lb:subtema>
+      <lb:subtema>CONCATENATION OF TRANSFORMATIONS</lb:subtema>
+      <lb:subtema>APPLICATIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Homogeneous Coordinates and Transformations of the Plane">
+<lb:tema>HOMOGENEOUS COORDINATES AND TRANSFORMATIONS OF THE PLANE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>POINTS AT INFINITY</lb:subtema>
+      <lb:subtema>VISUALIZATION OF THE PROJECTIVE PLANE</lb:subtema>
+      <lb:subtema>TRANSFORMATIONS IN HOMOGENEOUS COORDINATES</lb:subtema>
+      <lb:subtema>CONCATENATION OF TRANSFORMATIONS</lb:subtema>
+      <lb:subtema>APPLICATIONS</lb:subtema>
+      <lb:subtema>POINT AND LINE GEOMETRY IN HOMOGENEOUS COORDINATES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Bezier Curves I">
+<lb:tema>BEZIER CURVES I</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>BEZIER CURVES OF LOW DEGREE</lb:subtema>
+      <lb:subtema>THE EFFECT OF ADJUSTING A CONTROL POINT</lb:subtema>
+      <lb:subtema>THE GENERAL BEZIER CURVE</lb:subtema>
+      <lb:subtema>PROPERTIES OF THE BERNSTEIN POLYNOMIALS</lb:subtema>
+      <lb:subtema>CONVEX HULLS</lb:subtema>
+      <lb:subtema>PROPERTIES OF BEZIER CURVES</lb:subtema>
+      <lb:subtema>THE DE CASTELJAU ALGORITHM</lb:subtema>
+      <lb:subtema>SUBDIVISION OF A BEZIER CURVE</lb:subtema>
+      <lb:subtema>APPLICATIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Bezier Curves II">
+<lb:tema>BEZIER CURVES II</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SPATIAL BEZIER CURVES</lb:subtema>
+      <lb:subtema>DERIVATIVES OF BEZIER CURVES</lb:subtema>
+      <lb:subtema>CONVERSIONS BETWEEN REPRESENTATIONS</lb:subtema>
+      <lb:subtema>PIECEWISE BEZIER CURVES</lb:subtema>
+      <lb:subtema>RATIONAL BEZIER CURVES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="B-splines">
+<lb:tema>B-SPLINES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTEGRAL B-SPLINE CURVES</lb:subtema>
+      <lb:subtema>NON-UNIFORM RATIONAL B-SPLINES (NURBS)</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

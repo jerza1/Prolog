@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca">
+
+<rdf:Description
+rdf:about="INTRODUCCION A LA ESTRUCTURA DE DATOS">
+<lb:tema>INTRODUCCION A LA ESTRUCTURA DE DATOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INFORMACION Y SU SIGNIFICADO</lb:subtema>
+      <lb:subtema>ARREGLOS Y CONJUNTOS EN PASCAL</lb:subtema>
+      <lb:subtema>REGISTROS EN PASCAL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LA PILA">
+<lb:tema>LA PILA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DEFINICION Y EJEMPLOS</lb:subtema>
+      <lb:subtema>REPRESENTACION DE PILAS EN PASCAL</lb:subtema>
+      <lb:subtema>EJEMPLO: ENTREFIJO, POSTFIJO Y PREFIJO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="RECURSION">
+<lb:tema>RECURSION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DEFINICION DE RECURSIVIDAD Y PROCESOS</lb:subtema>
+      <lb:subtema>RECURSION EN PASCAL</lb:subtema>
+      <lb:subtema>ESCRITURA DE PROGRAMAS RECURSIVOS</lb:subtema>
+      <lb:subtema>SIMULACION DE RECURSION</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="COLAS Y LISTAS">
+<lb:tema>COLAS Y LISTAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LA COLA Y SU REPRESENTACION SECUENCIAL</lb:subtema>
+      <lb:subtema>LISTAS ENCADENADAS</lb:subtema>
+      <lb:subtema>EJEMPLO: SIMULACION UTILIZANDO LISTAS ENCADENADAS</lb:subtema>
+      <lb:subtema>OTRAS ESTRUCTURAS DE LISTAS</lb:subtema> 
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PROCESAMIENTO DE LISTAS EN PASCAL">
+<lb:tema>PROCESAMIENTO DE LISTAS EN PASCAL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>IMPLEMENTACION DE LISTAS UTILIZANDO ALMACENAMIENTO DINAMICO</lb:subtema>
+      <lb:subtema>UN EJEMPLO: SISTEMA DE RESERVACION DE AEROLINEAS</lb:subtema>
+      <lb:subtema>EJEMPLO: MATRICES ESPARCIDAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ARBOLES">
+<lb:tema>ARBOLES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ARBOLES BINARIOS</lb:subtema>
+      <lb:subtema>REPRESENTACIONES DE ARBOLES BINARIOS</lb:subtema>
+      <lb:subtema>OTRAS REPRESENTACIONES Y APLICACIONES--ALGORITMO DE HUFFMAN</lb:subtema>
+      <lb:subtema>PROBLEMA REVISADO DE JOSE</lb:subtema>
+      <lb:subtema>ARBOLES Y SUS APLICACIONES</lb:subtema>
+      <lb:subtema>UN EJEMPLO: ARBOLES DE JUEGOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GRAFOS Y SUS APLICACIONES">
+<lb:tema>GRAFOS Y SUS APLICACIONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>GRAFOS</lb:subtema>
+      <lb:subtema>PROBLEMA DE FLUJO DE FLUIDOS</lb:subtema>
+      <lb:subtema>REPRESENTACION ENCADENADA DE GRAFOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ORDENAMIENTO">
+<lb:tema>ORDENAMIENTO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CONCEPTOS GENERALES</lb:subtema>
+      <lb:subtema>ORDENAMIENTOS DE INTERCAMBIO</lb:subtema>
+      <lb:subtema>ORDENAMIENTO DE SELECCION Y DE ARBOL</lb:subtema>
+      <lb:subtema>ORDENAMIENTOS DE INSERCION</lb:subtema>
+      <lb:subtema>ORDENAMIENTOS DE CONCATENACION Y DE BASE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="BUSQUEDA">
+<lb:tema>BUSQUEDA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TECNICAS BASICAS DE BUSQUEDA</lb:subtema>
+      <lb:subtema>BUSQUEDA DE ARBOL</lb:subtema>
+      <lb:subtema>RANDOMIZACION 0 HASHING</lb:subtema>
+      <lb:subtema>EJEMPLOS Y APLICACIONES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APENDICE">
+<lb:tema>APENDICE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TIPOS DE DATOS EN PASCAL</lb:subtema>
+      <lb:subtema>UTILIZACION DE ARREGLOS UNI-DIMENSIONALES</lb:subtema>
+      <lb:subtema>ARREGLOS EMPACADOS</lb:subtema>
+      <lb:subtema>ARREGLOS COMO PARAMETROS</lb:subtema>
+      <lb:subtema>PARAMETROS CON VALOR Y VARIABLE</lb:subtema>
+      <lb:subtema>REGISTROS EN PASCAL</lb:subtema>
+      <lb:subtema>ARREGLOS DE REGISTROS</lb:subtema>
+      <lb:subtema>RANGO DE LOS IDENTIFICADORES</lb:subtema>
+      <lb:subtema>LA DECLARACION WITH</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>

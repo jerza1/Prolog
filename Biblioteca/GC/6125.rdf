@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Qué es Harvard Graphics">
+<lb:tema>QUÉ ES HARVARD GRAPHICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>POR QUÉ UTILIZAR GRÁFICOS</lb:subtema>
+      <lb:subtema>POR QUÉ SE DEBE USAR HARVARD GRAPHICS</lb:subtema>
+      <lb:subtema>CÓMO TRABAJAR CON GRÁFICOS</lb:subtema>
+      <lb:subtema>ANATOMÍA DE UN GRÁFICO</lb:subtema>
+      <lb:subtema>COMO SELECCIONAR EL GRÁFICO ADECUADO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo instalar y configurar a Harvard Graphics">
+<lb:tema>CÓMO INSTALAR Y CONFIGURAR A HARVARD GRAPHICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL MENÚ PRINCIPAL DE HARVARD GRAPHICS</lb:subtema>
+      <lb:subtema>CÓMO CONFIGURAR A HARVARD GRAPHICS EN SU COMPUTADORA</lb:subtema>
+      <lb:subtema>CÓMO SELECCIONAR EL RATÓN QUE DEBE COMPRAR</lb:subtema>
+      <lb:subtema>CÓMO TRABAJA SU MONITOR CON HARVARD GRAPHICS</lb:subtema>
+      <lb:subtema>CÓMO SALIR DE HARVARD GRAPHICS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sesión práctica con Harvard Graphics">
+<lb:tema>SESIÓN PRÁCTICA CON HARVARD GRAPHICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO CREAR GRÁFICOS DE TEXTO</lb:subtema>
+      <lb:subtema>CÓMO RECUPERAR UN GRÁFICO</lb:subtema>
+      <lb:subtema>CÓMO CORREGIR LOS ERRORES</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo imprimir sus gráficos y cómo usar la paleta de colores">
+<lb:tema>CÓMO IMPRIMIR SUS GRÁFICOS Y CÓMO USAR LA PALETA DE COLORES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO IMPRIMIR LOS GRÁFICOS</lb:subtema>
+      <lb:subtema>CÓMO TRABAJAR CON COLORES</lb:subtema>
+      <lb:subtema>RESUMNE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sesiones prácticas con gráficos de texto">
+<lb:tema>SESIONES PRÁCTICAS CON GRÁFICOS DE TEXTO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO USAR LOS GRÁFICOS DE TEXTO</lb:subtema>
+      <lb:subtema>LAS OPCIONES EN LOS GRÁFICOS DE TEXTO</lb:subtema>
+      <lb:subtema>CÓMO DISEÑAR LOS GRÁFICOS DE TEXTO PARA QUE SEAN EFECTIVOS</lb:subtema>
+      <lb:subtema>CÓMO UTILIZAR LOS CARACTERES ESPECIALES</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN GRÁFICO DE BALAS</lb:subtema>
+      <lb:subtema>CÓMO CREAR LOS GRÁFICOS DE COLUMNA</lb:subtema>
+      <lb:subtema>CÓMO CAMBIAR EL TAMAÑO DEL TEXTO EN SU GRÁFICO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+      
+<rdf:Description
+rdf:about="Sesiones prácticas con gráficos de barras y líneas">
+<lb:tema>SESIONES PRÁCTICAS CON GRÁFICOS DE BARRAS Y LÍNEAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO USAR LA OPCIÓN BAR/LINE</lb:subtema>
+      <lb:subtema>CÓMO SELECCIONAR UNA VARIANTE DE UN GRÁFICO DE BARRAS</lb:subtema>
+      <lb:subtema>CÓMO UTILIZAR LA PANTALLA PARA INTRODUCCIÓN DE DATOS DE LOS GRÁFICOS DE BARRAS Y LÍNEAS</lb:subtema>
+      <lb:subtema>CÓMO CREAR VARIOS GRÁFICOS CON LOS MISMOS DATOS</lb:subtema>
+      <lb:subtema>CÓMO RESOLVER LOS PROBLEMAS QUE SE PRESENTAN AL CREAR GRÁFICOS</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN GRÁFICO PRECISO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo darle los toques finales a sus gráficos">
+<lb:tema>CÓMO DARLE LOS TOQUES FINALES A SUS GRÁFICOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO MEJORAR EL ASPECTO DE LAS BARRAS</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR EL ESTILO Y COLOR DEL MARCO Y EL COLOR DE FONDO</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR LAS LEYENDAS</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR LAS GRADUACIONES EN LOS EJES Y LAS LÍNEAS DE REFENRECIA</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR LAS ESCALAS</lb:subtema>
+      <lb:subtema>CÓMO MOSTRAR LOS VALORES DE LAS ETIQUETAS</lb:subtema>
+      <lb:subtema>CÓMO AJUSTAR LOS COLORES, INDICADORES, PATRONES Y ESTILOS DE LÍNEA</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN GRÁFICO DESCENDENTE</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN GRÁFICO SIN ORNAMENTOS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>      
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Gráficos de Area, de Alzas/Bajas/Cierres y gráficos Múltiples">
+<lb:tema>GRÁFICOS DE AREA, DE ALZAS/BAJAS/CIERRES Y GRÁFICOS MÚLTIPLES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CUÁNDO UTILIZAR UN GRÁFICO DE ÁREA</lb:subtema>
+      <lb:subtema>CUÁNDO UTILIZAR UN GRÁFICO DE ALZAS/BAJAS/CIERRES</lb:subtema>
+      <lb:subtema>CUÁNDO UTILIZAR LA OPCIÓN DE GRÁFICOS MÚLTIPLES</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo elaborar organigramas">
+<lb:tema>CÓMO ELABORAR ORGANIGRAMAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO ENTENDER UN ORGANIGRAMA</lb:subtema>
+      <lb:subtema>CÓMO CONFIGURAR UNA ESTRUCTURA ORGANIZATIVA</lb:subtema>
+      <lb:subtema>CÓMO CONFIGURAR LOS ORGANIGRAMAS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo ahorrar tiempo con las macros y plantillas de Harvard Graphics">
+<lb:tema>CÓMO AHORRAR TIEMPO CON LAS MACROS Y PLANTILLAS DE HARVARD GRAPHICS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO USAR LAS PLANTILLAS</lb:subtema>
+      <lb:subtema>CÓMO CREAR UNA PLANTILLA</lb:subtema>
+      <lb:subtema>CÓMO TRABAJAR CON LA BIBLIOTEXA DE PLANTILLAS DE GRÁFICOS</lb:subtema>
+      <lb:subtema>CÓMO CONFIGURAR A HARVARD GRAPHICS PARA CARGAR AUTOMÁTICAMENTE LA BIBLIOTECA DE PLANTILLAS</lb:subtema>
+      <lb:subtema>CÓMO CREAR Y UTILIZAR UNA MACROINSTRUCCIÓN</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cómo utilizar la opción Draw/Annote">
+<lb:tema>CÓMO UTILIZAR LA OPCIÓN DRAW/ANNOTE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CARACTERÍSTICAS DE MENÚ DE DIBUJO</lb:subtema>
+      <lb:subtema>CÓMO UTILIZAR LA OPCIÓN ADD</lb:subtema>
+      <lb:subtema>CÓMO MODIFICAR LOS GRÁFICOS CON ESTAS HERRAMIENTAS</lb:subtema>
+      <lb:subtema>CÓMO CREAR UN ANUNCIO</lb:subtema>
+      <lb:subtema>CÓMO USAR LAS LINEAS DE REFERENCIA</lb:subtema>
+      <lb:subtema>CÓMO CONVERTIR SUS DIBUJOS EN UN SÍMBOLO</lb:subtema>
+      <lb:subtema>CÓMO CREAR LA PLANTILLA DE UN MAPA CON HARVARD GRAPHICS</lb:subtema>
+      <lb:subtema>CÓMO TRANSFORMAR UN GRÁFICO EN UN SÍMBOLO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF> 
+

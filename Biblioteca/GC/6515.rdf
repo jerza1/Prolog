@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INFORMATION AND MEANING">
+<lb:tema>INFORMATION AND MEANING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INFORMATION AND MEANING</lb:subtema>
+      <lb:subtema>ARRAYS AND SETS IN PASCAL</lb:subtema>
+      <lb:subtema>RECORDS IN PASCAL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THE STACK">
+<lb:tema>THE STACK</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>DEFINITION AND EXAMPLES</lb:subtema>
+      <lb:subtema>REPRESENTING STACKS IN PASCAL</lb:subtema>
+      <lb:subtema>AN EXAMPLE: INFIX, POSTFIX, AND PREFIX</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="RECURSION">
+<lb:tema>RECURSION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>RECURSIVE DEFINITION AND PROCESSES</lb:subtema>
+      <lb:subtema>RECURSION IN PASCAL</lb:subtema>
+      <lb:subtema>WRITING RECURSIVE PROGRAMS</lb:subtema>
+      <lb:subtema>SIMULATING RECURSION</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="QUEUES AND LISTS">
+<lb:tema>QUEUES AND LISTS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE QUEUE AND ITS SEQUENTIAL REPRESENTATION</lb:subtema>
+      <lb:subtema>LINKED LISTS</lb:subtema>
+      <lb:subtema>AN EXAMPLE: SIMULATION USING LINKED LISTS</lb:subtema>
+      <lb:subtema>OTHER LIST STRUCTURES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PASCAL LIST PROCESSING">
+<lb:tema>PASCAL LIST PROCESSING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>IMPLEMENTING LISTS USING DYNAMIC STORAGE</lb:subtema>
+      <lb:subtema>AN EXAMPLE: AN AIRLINE RESERVATION SYSTEM</lb:subtema>
+      <lb:subtema>AN EXAMPLE: SPARSE MATRICES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TREES">
+<lb:tema>TREES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BINARY TREES</lb:subtema>
+      <lb:subtema>BINARY TREE REPRESENTATIONS</lb:subtema>
+      <lb:subtema>OTHER REPRESENTATIONS AND APPLICATIONS THE HUFFMAN ALGORITHM</lb:subtema>
+      <lb:subtema>THE JOSEPHUS PROBLEM REVISITED</lb:subtema>
+      <lb:subtema>TREES AND THEIR APPLICATIONS</lb:subtema>
+      <lb:subtema>AN EXAMPLE: GAME TREES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GRAPHS AND THEIR APPLICATIONS">
+<lb:tema>GRAPHS AND THEIR APPLICATIONS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>GRAPHS</lb:subtema>
+      <lb:subtema>A FLOW PROBLEM</lb:subtema>
+      <lb:subtema>THE LINKED REPRESENTATION OF GRAPHS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SORTING">
+<lb:tema>SORTING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>GENERAL BACKGROUND</lb:subtema>
+      <lb:subtema>EXCHANGE SORTS</lb:subtema>
+      <lb:subtema>SELECTION AND TREE SORTING</lb:subtema>
+      <lb:subtema>INSERTION SORTS</lb:subtema>
+      <lb:subtema>MERGE AND RADIX SORTS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SEARCHING">
+<lb:tema>SEARCHING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BASIC SEARCH TECHNIQUES</lb:subtema>
+      <lb:subtema>TREE SEARCHING</lb:subtema>
+      <lb:subtema>HASHING</lb:subtema>
+      <lb:subtema>EXAMPLES AND APPLICATIONS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APPENDIX">
+<lb:tema>APPENDIX</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>SCALAR DATA TYPES IN PASCAL</lb:subtema>
+      <lb:subtema>USING ONE-DIMENSIONAL ARRAYS</lb:subtema>
+      <lb:subtema>PACKED ARRAYS</lb:subtema>
+      <lb:subtema>ARRAYS AS PARAMETERS</lb:subtema>
+      <lb:subtema>VALUE AND VARIABLE PARAMETERS</lb:subtema>
+      <lb:subtema>RECORDS IN PASCAL</lb:subtema>
+      <lb:subtema>ARRAYS OF RECORDS</lb:subtema>
+      <lb:subtema>SCOPE OF IDENTIFIERS</lb:subtema>
+      <lb:subtema>THE WITH STATEMENT</lb:subtema>
+      <lb:subtema>EFFICIENCY OF RECORD ACCESS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+</rdf:RDF>
