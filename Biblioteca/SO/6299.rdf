@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción a la programación en Linux">
+  <lb:tema>INTRODUCCIÓN A LA PROGRAMACIÓN EN LINUX</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     	<lb:subtema>PROGRAMACIÓN EN LINUX</lb:subtema>
+     	<lb:subtema>MAS ACERCA DE LINUX</lb:subtema>
+  		<lb:subtema>DISTRIBUCIONES DE LINUX</lb:subtema>
+  		<lb:subtema>RECURSOS DE LINUX</lb:subtema>
+     	<lb:subtema>EVALUACIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Scripts del Shell BASH">
+  <lb:tema>SCRIPTS DEL SHELL BASH</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>SCRIPTS DEL SHELL: COMANDOS Y COMENTARIOS</lb:subtema>
+     <lb:subtema>VARIABLES Y SCRIPTS</lb:subtema>
+     <lb:subtema>PROYECTO 2-1: ENTRADA DEL USUARIO</lb:subtema>
+     <lb:subtema>PROYECTO 2-2: EXPORTAR VARIABLES</lb:subtema>
+     <lb:subtema>OPERACIONES ARITMÉTICAS DEL SHELL: LET</lb:subtema>
+     <lb:subtema>EVALUACIÓN…</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Estructuras de control del shell">
+  <lb:tema>ESTRUCTURAS DE CONTROL DEL SHELL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>EL COMANDO TEST</lb:subtema>
+     <lb:subtema>CONDICIONES: IF, IF-ELSE, ELIF Y CASE</lb:subtema>
+     <lb:subtema>BUCLES: WHILE, UNTIL, FOR-IN Y FOR</lb:subtema>
+     <lb:subtema>PROYECTO 3-1: BUCLES BÁSICOS…</lb:subtema>
+     <lb:subtema>PROYECTO 3-2: ÍNDICE DE PÁGINAS WEB</lb:subtema>
+     <lb:subtema>USAR REDIRECCIONAMIENTO E INTERCONEXIONES CON ESTRUCTURAS CON ESTRUCTURAS DE CONTROL</lb:subtema>
+     <lb:subtema>ESTRUCTURAS DE DESVIÓ: TRAP</lb:subtema>
+     <lb:subtema>EVALUACIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Programacion del shell TCSH">
+  <lb:tema>PROGRAMACION DEL SHELL TCSH</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>VARIABLES, SCRIPTS Y ARGUMENTOS DEL SHELL TCSH</lb:subtema>
+     <lb:subtema>ARREGLOS: () Y #</lb:subtema>
+     <lb:subtema>ARREGLO DE ARGUMENTOS: ARGV</lb:subtema>
+     <lb:subtema>VARIABLES DE ENTORNO: SETENV</lb:subtema>
+     <lb:subtema>CONDICIONES DE SHELL TCSH: IF-THEN-ELSE Y SWITCH</lb:subtema>
+     <lb:subtema>PROYECTO 4-1: MENÚS CON SWITCH</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Condiciones de Shell TCSH: if-then-else y switch">
+  <lb:tema>CONDICIONES DE SHELL TCSH: IF-THEN-ELSE Y SWITCH</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LA ESTRUCTURA IF-THEN</lb:subtema>
+      <lb:subtema>LA ESTRUCTURA SWITCH</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF>

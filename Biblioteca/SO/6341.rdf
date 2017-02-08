@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Getting Started">
+      <lb:tema>GETTING STARTED</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>IF YOU HAVE A PREVIOUS VERSION OF DOS</lb:subtema>
+             <lb:subtema>IF YOU'RE INSTALLING MS-DOS FOR THE FIRST TIME</lb:subtema>
+             <lb:subtema>CREATING A BACKUP COPY OF MS-DOS</lb:subtema>
+             <lb:subtema>IF YOU HAVE PROBLEMS RUNNING AN APPLICATION</lb:subtema>
+             <lb:subtema>NEW FEATURES OF MS-DOS 5.0</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MS-DOS and Your System">
+      <lb:tema>MS-DOS AND YOUR SYSTEM</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>YOUR SYSTEM HARDWARE</lb:subtema>
+             <lb:subtema>WHAT IS MS-DOS?</lb:subtema>
+             <lb:subtema>USING PROGRAMS WITH MS-DOS</lb:subtema>
+             <lb:subtema>ORGANIZING INFORMATION WITH MS-DOS</lb:subtema>
+             <lb:subtema>THE COMMAND LINE AND THE SHELL</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Command Line Basics">
+      <lb:tema>COMMAND LINE BASICS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PARTS OF A COMMAND</lb:subtema>
+             <lb:subtema>TYPING IN COMMANDS</lb:subtema>
+             <lb:subtema>HOW MS-DOS RESPONDS TO COMMANDS</lb:subtema>
+             <lb:subtema>PAUSING OR CANCELING A COMMAND</lb:subtema>
+             <lb:subtema>TELLING MS-DOS WHICH DISK DRIVE TO USE</lb:subtema>
+             <lb:subtema>INTERNAL AND EXTERNAL COMMANDS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Shell Basics">
+      <lb:tema>SHELL BASICS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>STARTING THE SHELL</lb:subtema>
+             <lb:subtema>UNDERSTANDING THE SHELL AND ITS SCREENS</lb:subtema>
+             <lb:subtema>USING THE KEYBOARD WITH THE SHELL</lb:subtema>
+             <lb:subtema>WORKING WITH THE SHELL</lb:subtema>
+             <lb:subtema>USING PROGRAM MANAGER</lb:subtema>
+             <lb:subtema>USING FILE MANAGER</lb:subtema>
+             <lb:subtema>GETTING HELP</lb:subtema>
+            <lb:subtema>LEAVING THE SHELL</lb:subtema>
+            <lb:subtema>CUSTOMIZING THE LOOK OF THE SHELL</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Working with Files">
+      <lb:tema>WORKING WITH FILES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>TYPES OF FILES</lb:subtema>
+             <lb:subtema>FILENAMES</lb:subtema>
+             <lb:subtema>FILE SIZE AND TIME OF CREATION</lb:subtema>
+             <lb:subtema>USING MS-DOS WILDCARDS</lb:subtema>
+             <lb:subtema>DISPLAYING TEXT FILES</lb:subtema>
+             <lb:subtema>COPYING FILES</lb:subtema>
+             <lb:subtema>RENAMING FILES</lb:subtema>
+            <lb:subtema>PRITING TEXT FILES</lb:subtema>
+            <lb:subtema>DELETING FILES</lb:subtema>
+            <lb:subtema>MOVING FILES</lb:subtema>
+            <lb:subtema>COMPARING FILES</lb:subtema>
+            <lb:subtema>VIEWING AND CHANGING FILE ATTRIBUTES</lb:subtema>
+            <lb:subtema>FINDING TEXT WITHIN A FILE</lb:subtema>
+            <lb:subtema>USING THE SHELL TO SEARCH FOR FILES</lb:subtema>
+            <lb:subtema>USING THE SHELL TO GET INFORMATION ABOUT A FILE</lb:subtema>
+            <lb:subtema>USING THE SHELL TO ASSOCIATE A FILE WITH A PROGRAM</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Working with Directories">
+      <lb:tema>WORKING WITH DIRECTORIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING DIRECTORIES</lb:subtema>
+             <lb:subtema>VIEWING DIRECTORIES</lb:subtema>
+            <lb:subtema>VIEWING ALL DIRECTORIES ON A DISK</lb:subtema>
+            <lb:subtema>VIEWING DIRECTORIES IN THE SHELL</lb:subtema>
+            <lb:subtema>CREATING DIRECTORIES</lb:subtema>
+            <lb:subtema>MOVING BETWEEN DIRECTORIES</lb:subtema>
+            <lb:subtema>DELETING DIRECTORIES</lb:subtema>
+            <lb:subtema>COPYING DIRECTORIES</lb:subtema>
+            <lb:subtema>UPDATING DIRECTORIES</lb:subtema>
+            <lb:subtema>TELLING MS-DOS WHERE TO LOO FOR FILES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Managing Disks">
+      <lb:tema>MANAGING DISKS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>TYPES OF DISKS</lb:subtema>
+            <lb:subtema>BYTES, KILOBYTES, AND MEGABYTES</lb:subtema>
+            <lb:subtema>KINDS OF DISK DRIVES</lb:subtema>
+            <lb:subtema>FORMATING DISKS</lb:subtema>
+            <lb:subtema>LABELING DISKS</lb:subtema>
+            <lb:subtema>MAKING BACKUP DISKS</lb:subtema>
+            <lb:subtema>RESTORING DIRECTORIES AND FILES</lb:subtema>
+            <lb:subtema>RECOVERING FILES FROM BAD DISKS</lb:subtema>
+            <lb:subtema>GIVING A DRIVE LETTER TO A DIRECTORY</lb:subtema>
+            <lb:subtema>PARTITIONING YOUR HARD DISK</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Advanced Command Tecniques">
+      <lb:tema>ADVANCED COMMAND TECNIQUES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>REDIRECTING COMMAND OUTPUT AND INPUT</lb:subtema>
+            <lb:subtema>PASING INFORMATION THROUGH FILTER COMMANDS</lb:subtema>
+            <lb:subtema>USING COMMAND EDITING KEYS</lb:subtema>
+            <lb:subtema>USING DOSKEY TO WORK WITH COMMANDS</lb:subtema>
+            <lb:subtema>USING DOSKEY TO CREATE MACROS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="The Shell Program Manager">
+      <lb:tema>THE SHELL PROGRAM MANAGER</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WORKING WITH GROUPS</lb:subtema>
+            <lb:subtema>WORKING WITH PROGRAMS</lb:subtema>
+            <lb:subtema>CREATING STARTUP COMMANDS FOR YOUR PROGRAMS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Working with the MS-DOS Editor">
+      <lb:tema>WORKING WITH THE MS-DOS EDITOR</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>GETTING STARTED WITH EDIT</lb:subtema>
+            <lb:subtema>CREATING A TEXT FILE</lb:subtema>
+            <lb:subtema>EDITING TEXT</lb:subtema>
+            <lb:subtema>MANAGING FILES</lb:subtema>
+            <lb:subtema>CUSTOMIZING EDIT</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Working with Batch Files">
+      <lb:tema>WORKING WITH BATCH FILES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING BATCH FILES</lb:subtema>
+            <lb:subtema>CREATING SMALL BATCH FILES</lb:subtema>
+            <lb:subtema>DISPLAYING MESSAGES WITH THE ECHO COMMAND</lb:subtema>
+            <lb:subtema>PAUSING A BATCH FILE</lb:subtema>
+            <lb:subtema>INCLUDING REMARKS IN A BATCH FILES</lb:subtema>
+            <lb:subtema>USING REPLACEABLE PARAMETERS</lb:subtema>
+            <lb:subtema>CONTROLLING WHEN COMMANDS RUN</lb:subtema>
+            <lb:subtema>CREATING A BATCH FILE MENU SYSTEM</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Customizing Your System">
+      <lb:tema>CUSTOMIZING YOUR SYSTEM</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CREATING A STARTUP PROCEDURE</lb:subtema>
+            <lb:subtema>CONFIGURING MS-DOS FOR YOUR SYSTEM</lb:subtema>
+            <lb:subtema>CONFIGURING YOUR POST</lb:subtema>
+            <lb:subtema>ADDING DISK DRIVES</lb:subtema>
+            <lb:subtema>CONTROLLING YOUR MONITOR AND KEYBOARD</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Optimizing Your System">
+      <lb:tema>OPTIMIZING YOUR SYSTEM</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WHAT IS OPTIMIZING?</lb:subtema>
+            <lb:subtema>WHAT ARE SYSTEM RESOURCES?</lb:subtema>
+            <lb:subtema>IMPROVING YOUR SYSTEM'S SPEED</lb:subtema>
+            <lb:subtema>FREEING UP MEMORY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

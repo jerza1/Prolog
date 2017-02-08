@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Introducción">
+      <lb:tema>INTRODUCCIÓN</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>OBSERVACIONES PRELIMINARES</lb:subtema>
+             <lb:subtema>GENERACIONES DE SISTEMAS OPERATIVOS</lb:subtema>
+             <lb:subtema>PRIMEROS DESARROLLOS DE SISTEMAS OPERATIVOS</lb:subtema>
+             <lb:subtema>DESARROLLOS DURANTE LOS PRIMEROS AÑOS DE LA DÉCADA DE 1960</lb:subtema>
+             <lb:subtema>LA FAMILIA DE COMPUTADORES IBM. SISTEMA/360</lb:subtema>
+             <lb:subtema>SISTEMAS DE TIEMPO COMPARTIDO</lb:subtema>
+             <lb:subtema>SURGIMIENTO DE UN NUEVO CAMPO: LA INGENIERÍA DE SOFTWARE</lb:subtema>
+             <lb:subtema>TENDENCIA FUTURAS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Hardware, software, memoria fija">
+      <lb:tema>HARDWARE, SOFTWARE, MEMORIA FIJA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+             <lb:subtema>HARDWARE</lb:subtema>
+             <lb:subtema>SOFTWARE</lb:subtema>
+             <lb:subtema>MEMORIA FIJA</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Conceptos de proceso">
+      <lb:tema>CONCEPTOS DE PROCESO</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+             <lb:subtema>DEFINICIÓN DE PROCESO</lb:subtema>
+             <lb:subtema>TRANSICIONES DE ESTADO DE PROCESO</lb:subtema>
+             <lb:subtema>EL BLOQUE DE CONTROL DE PROCESO</lb:subtema>
+             <lb:subtema>OPERACIONES SOBRE PROCESOS</lb:subtema>
+            <lb:subtema>SUSPENSIÓN Y REANUDACIÓN</lb:subtema>
+            <lb:subtema>PROCESAMIENTO DE INTERRUPCIONES</lb:subtema>
+            <lb:subtema>EL NÚCLEO DEL SISTEMA OPERATIVO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Procesos concurrentes asincrónicos">
+      <lb:tema>PROCESOS CONCURRENTES ASINCRÓNICOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+             <lb:subtema>PROCESAMIENTO EN PARALELO</lb:subtema>
+             <lb:subtema>UNAS ESTRUCTURA PARA INDICAR EL PARALELISMO: PARBEGIN/PAREND</lb:subtema>
+             <lb:subtema>EXCLUSIÓN MUTUA</lb:subtema>
+             <lb:subtema>SECCIONES CRITICAS</lb:subtema>
+            <lb:subtema>PRIMITIVAS DE EXCLUSIÓN MUTUA</lb:subtema>
+            <lb:subtema>IMPLEMENTACIÓN DE LAS PRIMITIVAS DE EXCLUSIÓN MUTUA</lb:subtema>
+            <lb:subtema>ALGORITMO DE DEKKER</lb:subtema>
+            <lb:subtema>EXCLUSIÓN MUTUA DE N-PROCESOS</lb:subtema>
+            <lb:subtema>UNA SOLUCIÓN DE HARDWARE PARA LA EXCLUSIÓN MUTUA: LA INSTRUCCIÓN TESTANDSET</lb:subtema>
+            <lb:subtema>SEMÁFOROS</lb:subtema>
+            <lb:subtema>SINCRONIZACIÓN DE PROCESOS CON SEMÁFOROS</lb:subtema>
+            <lb:subtema>LA RELACIÓN PRODUCTOR-CONSUMIDOR</lb:subtema>
+            <lb:subtema>SEMÁFOROS CONTADORES</lb:subtema>
+            <lb:subtema>IMPLEMENTACIÓN DE SEMÁFOROS, P Y V</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Programación concurrente: monitores; el encuentro Ada">
+        <lb:tema>PROGRAMACIÓN CONCURRENTE: MONITORES; EL ENCUENTRO ADA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+             <lb:subtema>MONITORES</lb:subtema>
+             <lb:subtema>ASIGNACIÓN SIMPLE DE RECURSOS CON MONITORES</lb:subtema>
+             <lb:subtema>EJEMPLO DE MONITOR: EL BUFFER CIRCULAR</lb:subtema>
+             <lb:subtema>EJEMPLO DE MONITOR: LECTORES Y ESCRITORES</lb:subtema>
+            <lb:subtema>ADA: EL LENGUAJE DE PROGRAMACIÓN CONCURRENTE PARA LA DÉCADA DE 1980</lb:subtema>
+            <lb:subtema>MOTIVACIONES PARA LA MULTITAREA EN ADA</lb:subtema>
+            <lb:subtema>CORRECCIÓN DE LOS PROGRAMAS CONCURRENTES</lb:subtema>
+            <lb:subtema>EL ENCUENTRO ADA</lb:subtema>
+            <lb:subtema>PROPOSICIÓN ACCEPT</lb:subtema>
+            <lb:subtema>EJEMPLO ADA: RELACIÓN PRODUCTOR-CONSUMIDOR</lb:subtema>
+            <lb:subtema>PROPOSICIÓN SELECT</lb:subtema>
+            <lb:subtema>EJEMPLO ADA: EL BUFFER CIRCULAR</lb:subtema>
+            <lb:subtema>EJEMPLO ADA: LECTORES Y ESCRITORES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Interbloqueo">
+      <lb:tema>INTERBLOQUEO</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+            <lb:subtema>EJEMPLOS DE INTERBLOQUEO</lb:subtema>
+            <lb:subtema>UN PROBLEMA RELACIONADO: POSTERGACIÓN INDEFINIDA</lb:subtema>
+            <lb:subtema>CONCEPTOS DE RECURSO</lb:subtema>
+            <lb:subtema>CUATRO CONDICIONES NECESARIAS PARA EL INTERBLOQUEO</lb:subtema>
+            <lb:subtema>ÁREAS PRINCIPALES EN LA INVESTIGACIÓN DE UN INTERBLOQUEO</lb:subtema>
+            <lb:subtema>PREVENCIÓN DEL INTERBLOQUEO</lb:subtema>
+            <lb:subtema>EVITACIÓN DEL INTERBLOQUEO Y EL ALGORITMO DEL BANQUERO</lb:subtema>
+            <lb:subtema>DETECCIÓN DEL INTERBLOQUEO</lb:subtema>
+            <lb:subtema>CONSIDERACIONES DEL INTERBLOQUEO EN LOS SISTEMAS FUTUROS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Almacenamiento real">
+      <lb:tema>ALMACENAMIENTO REAL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+            <lb:subtema>ORGANIZACIÓN DEL ALMACENAMIENTO</lb:subtema>
+            <lb:subtema>ADMINISTRACIÓN DEL ALMACENAMIENTO</lb:subtema>
+            <lb:subtema>JERARQUÍA DE ALMACENAMIENTO</lb:subtema>
+            <lb:subtema>ESTRATEGIAS DE ADMINISTRACIÓN DEL ALMACENAMIENTO</lb:subtema>
+            <lb:subtema>ASIGNACIÓN CONTINUA DE ALMACENAMIENTO VERSUS NO CONTIGUA</lb:subtema>
+            <lb:subtema>ASIGNACIÓN CONTIGUA DE ALMACENAMIENTO DE UN SOLO USUARIO</lb:subtema>
+            <lb:subtema>MULTIPROGRAMACIÓN DE PARTICIÓN FIJA</lb:subtema>
+            <lb:subtema>MULTIPROGRAMACIÓN DE PARTICIÓN VARIABLE</lb:subtema>
+            <lb:subtema>MULTIPROGRAMACIÓN CON INTERCAMBIO DE ALMACENAMIENTO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Organización del almacenamiento virtual">
+      <lb:tema>ORGANIZACIÓN DEL ALMACENAMIENTO VIRTUAL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+            <lb:subtema>EVOLUCIÓN EN LAS ORGANIZACIONES DE ALMACENAMIENTO</lb:subtema>
+            <lb:subtema>ALMACENAMIENTO VIRTUAL: CONCEPTOS BÁSICOS</lb:subtema>
+            <lb:subtema>ORGANIZACIÓN DEL ALMACENAMIENTO DE NIVELES MÚLTIPLES</lb:subtema>
+            <lb:subtema>TRANSFORMACIÓN DE BLOQUES</lb:subtema>
+            <lb:subtema>PAGINACIÓN: CONCEPTOS BÁSICOS</lb:subtema>
+            <lb:subtema>SEGMENTACIÓN</lb:subtema>
+            <lb:subtema>SISTEMAS DE PAGINACIÓN/SEGMENTACIÓN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Administración del almacenamiento virtual">
+      <lb:tema>ADMINISTRACIÓN DEL ALMACENAMIENTO VIRTUAL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+            <lb:subtema>ESTRATEGIAS DE ADMINISTRACIÓN DEL ALMACENAMIENTO VIRTUAL</lb:subtema>
+            <lb:subtema>ESTRATEGIAS DE REPOSICIÓN DE PÁGINA</lb:subtema>
+            <lb:subtema>LOCALIDAD</lb:subtema>
+            <lb:subtema>CONJUNTOS DE TRABAJO</lb:subtema>
+            <lb:subtema>PAGINACIÓN POR DEMANDA</lb:subtema>
+            <lb:subtema>PAGINACIÓN ANTICIPADA</lb:subtema>
+            <lb:subtema>LIBERACIÓN DE PÁGINA</lb:subtema>
+            <lb:subtema>TAMAÑO DE PÁGINA</lb:subtema>
+            <lb:subtema>COMPORTAMIENTO DE UN PROGRAMA EN LA PAGINACIÓN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Planificación de trabajos y del procesador">
+      <lb:tema>PLANIFICACIÓN DE TRABAJOS Y DEL PROCESADOR</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN</lb:subtema>
+            <lb:subtema>NIVELES DE PLANIFICACIÓN</lb:subtema>
+            <lb:subtema>OBJETIVOS DE LA PLANIFICACIÓN</lb:subtema>
+            <lb:subtema>CRITERIOS DE PLANIFICACIÓN</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN APROPIATIVA VERSUS NO APROPIATIVA</lb:subtema>
+            <lb:subtema>TEMPORIZADOR DE INTERVALOS O RELOJ DE INTERRUPCIÓN</lb:subtema>
+            <lb:subtema>PRIORIDADES</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN A PLAZO FIJO</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN DEL PRIMERO EN ENTRAR PRIMERO EN SALIR(FIFO)</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN DE ASIGNACIÓN EN RUEDA(RR) </lb:subtema>
+            <lb:subtema>PLANIFICACIÓN DEL TRABAJO MÁS CORTO PRIMERO(SJF)</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN DEL TIEMPO RESTANTE MÁS CORTO (SRT)</lb:subtema>
+            <lb:subtema>PLANIFICACIÓN EL SIGUIENTE CON RELACIÓN DE RESPUESTA MÁXIMA (HRN)</lb:subtema>
+            <lb:subtema>COLAS DE RETROALIMENTACIÓN DE NIVELES MÚLTIPLES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="NETWORKING HARDWARE">
+   <lb:tema>NETWORKING HARDWARE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UNDERSTANDING ETHERNET</lb:subtema>
+      <lb:subtema>NETWORK INTERFACE CARDS </lb:subtema>
+      <lb:subtema>USING HUBS AND SWITCHES </lb:subtema>
+      <lb:subtema>CABLING CHOICES</lb:subtema>
+      <lb:subtema>ETHERNET KITS </lb:subtema>
+      <lb:subtema>DSL AND CABLE MODEMS</lb:subtema>
+      <lb:subtema>DSL AND CABLE MODEMS</lb:subtema>
+      <lb:subtema>TELEPHONE MODEMS</lb:subtema>
+      <lb:subtema>SUMMARY</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="UNDERSTANDING TCP/IP">
+   <lb:tema>UNDERSTANDING TCP/IP</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>THE TCP/IP STACK</lb:subtema>
+      <lb:subtema>ALTERNATIVES TO TCP/IP </lb:subtema>
+      <lb:subtema>SUMMARY </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="NETWORKING SERVICES">
+  <lb:tema>NETWORKING SERVICES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PORTS AND SOCKETS</lb:subtema>
+      <lb:subtema>THE CLIENT/SERVER ARCHITECTURE</lb:subtema>
+      <lb:subtema>UNDERSTANDING LINUX DAEMONS</lb:subtema>
+      <lb:subtema>A RUNDOWN OF AVAILABLE SERVICES</lb:subtema>
+      <lb:subtema>SUMMARY </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="INTRANETS AND THE INTERNET">
+  <lb:tema>INTRANETS AND THE INTERNET</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ETWORK TOPOLOGIES</lb:subtema>
+      <lb:subtema>NETWORK ADDRESSING </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

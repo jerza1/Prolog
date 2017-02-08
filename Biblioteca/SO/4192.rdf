@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="An introduction to Networking">
+  <lb:tema>AN INTRODUCTION TO NETWORKING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>NETWORKING PRIMER</lb:subtema>
+      <lb:subtema>WHAT IS A NETWORK? </lb:subtema>
+      <lb:subtema>WHAT IS TCP/IP?</lb:subtema>
+      <lb:subtema>NETWORKING HARDWARE AND PROTOCOLS</lb:subtema>
+      <lb:subtema>NETWORKING SOFTWARE</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Installing Networking">
+  <lb:tema>INSTALLING NETWORKING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ADDING NETWORKING TO YOUR LINUX</lb:subtema>
+      <lb:subtema>INSTALLING HARDWARE</lb:subtema>
+      <lb:subtema>INSTALLING HARDWARE </lb:subtema>
+      <lb:subtema>SELECTING AN INTERNET SERVICE PROVIDER </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Adding Networking Software to Your Linux System">
+  <lb:tema>ADDING NETWORKING SOFTWARE TO YOUR LINUX SYSTEM</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ADDING NETWORKING TO YOUR LINUX. KERNEL</lb:subtema>
+      <lb:subtema>ELEMENTARY</lb:subtema>
+      <lb:subtema>AUTODIALING</lb:subtema>
+      <lb:subtema></lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Adding Networking to Your Linux. Kernel">
+  <lb:tema>ADDING NETWORKING TO YOUR LINUX. KERNEL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PREPARATIONS</lb:subtema>
+      <lb:subtema>CONFIGURING THE KERNEL</lb:subtema>
+      <lb:subtema>COMPILING AND INSTALLING</lb:subtema>
+      <lb:subtema>CONFIGURING NETWORKING</lb:subtema>
+      <lb:subtema>CONFIGURATION FILES</lb:subtema>
+      <lb:subtema>NETWORK CONFIGURATION COMMANDS </lb:subtema>
+      <lb:subtema>INTERFACE CONFIGURATION COMMANDS</lb:subtema>
+      <lb:subtema>OTHER ACTIVATION COMMANDS</lb:subtema>
+      <lb:subtema>NETWORKING SCRIPTS</lb:subtema>
+      <lb:subtema>CONFIGURING PPP </lb:subtema>
+      <lb:subtema>CONCLUSION</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Elementary">
+  <lb:tema>ELEMENTARY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>TROUBLESHOOTING</lb:subtema>
+      <lb:subtema>PHILOSOPHY OF DEBUGGING </lb:subtema>
+      <lb:subtema>MONITORING TOOLS</lb:subtema>
+      <lb:subtema>SUMMARY</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Autodialing">
+  <lb:tema>AUTODIALING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>HOW DIALD WORKS</lb:subtema>
+      <lb:subtema>COMPILING DIALD</lb:subtema>
+      <lb:subtema>INSTALLATION AND CONFIGURATION</lb:subtema>
+      <lb:subtema>START DIALD </lb:subtema>
+      <lb:subtema>AUTOMATICALLY START DIALD</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Commands That Use Networking">
+  <lb:tema>COMMANDS THAT USE NETWORKING</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FTP: TRANSFER FILES </lb:subtema>
+      <lb:subtema>TELNET</lb:subtema>
+      <lb:subtema>USENET NEWS</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

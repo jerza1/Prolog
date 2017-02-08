@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción al shell">
+<lb:tema>INTRODUCCIÓN AL SHELL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BIENVENIDO A LINUX</lb:subtema>
+      <lb:subtema>¿QUÉ ES UN SHELL?</lb:subtema>
+      <lb:subtema>INICIAR SESIÓN EN LINUX</lb:subtema>
+      <lb:subtema>CERRAR SESIÓN EN LINUX</lb:subtema>
+      <lb:subtema>OBTENER AYUDA</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Introducción comandos">
+  <lb:tema>INTRODUCCIÓN COMANDOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCIR COMANDOS EN LA LÍNEA DE COMANDOS DEL SHELL</lb:subtema>
+      <lb:subtema>CREAR COMANDOS EN EL SHELL </lb:subtema>
+      <lb:subtema>CONTROLAR PROGRAMAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Desplazarse por el sistema de archivos de Linux">
+  <lb:tema>DESPLAZARSE POR EL SISTEMA DE ARCHIVOS DE LINUX</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>IMPRIMIR EL DIRECTORIO DE TRABAJO EN CURSO </lb:subtema>
+      <lb:subtema>CAMBIAR DE DIRECTORIO CON EL COMANDO CD</lb:subtema>
+      <lb:subtema>ENUMERAR DIRECTORIOS</lb:subtema>
+      <lb:subtema>VER ARCHIVOS DE TEXTO</lb:subtema>
+      <lb:subtema>CREAR ARCHIVOS Y DIRECTORIOS</lb:subtema>
+      <lb:subtema>COPIAR ARCHIVOS Y DIRECTORIOS</lb:subtema>
+      <lb:subtema>MOVER Y CAMBIAR EL NOMBRE DE LOS ARCHIVOS Y DIRECTORIOS </lb:subtema>
+      <lb:subtema>CREAR VÍNCULOS SIMBÓLICOS</lb:subtema>
+      <lb:subtema>ELIMINAR ARCHIVOS Y DIRECTORIOS</lb:subtema>
+      <lb:subtema>BUSCAR ARCHIVOS Y DIRECTORIOS</lb:subtema>
+      <lb:subtema>USO DEL CLIENTE GMC DE GNOME</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

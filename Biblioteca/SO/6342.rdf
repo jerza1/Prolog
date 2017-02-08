@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="introducción">
+      <lb:tema>INTRODUCCIÓN</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>EJECUCIÓN DE INSTALAR</lb:subtema>
+             <lb:subtema>CONFIGURACIÓN PARA WINDOWS DE ANTI-VIRUS. COPIA DE SEGURIDAD(BACK)</lb:subtema>
+             <lb:subtema>RESTLABLECER(UNDELETE)</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Conceptos básicos sobre MS-DOS">
+      <lb:tema>CONCEPTOS BÁSICOS SOBRE MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>APRENDIZAJE DE LOS CONCEPTOS BÁSICOS SOBRE MS-DOS TUTORIAL</lb:subtema>
+             <lb:subtema>SÍMBOLO DEL SISTEMA</lb:subtema>
+             <lb:subtema>ESCRITURA DE UN COMANDO</lb:subtema>
+            <lb:subtema>PRESENTACIÓN DEL CONTENIDO DE UN DIRECTORIO</lb:subtema>
+            <lb:subtema>CAMBIO DE DIRECTORIO</lb:subtema>
+            <lb:subtema>CAMBIO DE NUEVO AL DIRECTORIO RAÍZ</lb:subtema>
+            <lb:subtema>CAMBIO DE UN DIRECTORIO</lb:subtema>
+            <lb:subtema>ELIMINACIÓN DE UN DIRECTORIO</lb:subtema>
+            <lb:subtema>DAR FORMATO A UN DISQUETE</lb:subtema>
+            <lb:subtema>CÓMO ORGANIZA INFORMACIÓN MS-DOS</lb:subtema>
+            <lb:subtema>USO DE RUTAS PARA ESPECIFICAR LA POSICIÓN DE UN ARCHIVO</lb:subtema>
+            <lb:subtema>ASIGNACIÓN DE NOMBRE A ARCHIVOS Y DIRECTORIOS</lb:subtema>
+            <lb:subtema>OBTENENCIÓN DE AYUDA</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Administración de su sistema">
+      <lb:tema>ADMINISTRACIÓN DE SU SISTEMA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>COPIA DE SEGURIDAD DE SUS ARCHIVOS</lb:subtema>
+            <lb:subtema>PROTECCIÓN DE SU PC CONTRA VIRUS</lb:subtema>
+            <lb:subtema>USO DE SMARTDRIVE</lb:subtema>
+            <lb:subtema>USO DE DEFRAGMENTAR</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Configuración de su sistema">
+      <lb:tema>CONFIGURACIÓN DE SU SISTEMA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CONFIGURACIÓN DEL SISTEMA MEDIANTE LOS COMANDOS DE INICIO</lb:subtema>
+             <lb:subtema>DESVÍO DE LOS COMANDOS DE CONFIG.SYS Y AUTOEXEC.BAT</lb:subtema>
+            <lb:subtema>USO DE MÚLTIPLES CONFIGURACIONES</lb:subtema>
+            <lb:subtema>DEFINICIÓN DE UN MENÚ DE INICIO</lb:subtema>
+            <lb:subtema>DEFINICIÓN DE LOS BLOQUES [COMMON]</lb:subtema>
+            <lb:subtema>MODIFICACIÓN DEL ARCHIVO AUTOEXCE.BAT PARA MÚLTIPLES CONFIGURACIONES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Liberación de espacio en el disco">
+      <lb:tema>LIBERACIÓN DE ESPACIO EN EL DISCO</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>ELIMINACIÓN DE ARCHIVOS INNECESARIOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Aumento de la memoria disponible">
+      <lb:tema>AUMENTO DE LA MEMORIA DISPONIBLE</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>IDENTIFICACIÓN DE LA CONFIGURACIÓN DE LA MEMORIA EN SU PC</lb:subtema>
+            <lb:subtema>AUMENTO DE LA MEMORIA CONVENCIONAL</lb:subtema>
+            <lb:subtema>AUMENTO DE LA MEMORIA EXTENDIDA</lb:subtema>
+            <lb:subtema>AUMENTO DE LA MEMORIA EXPANDIDA</lb:subtema>
+            <lb:subtema>USO DE LOS ADMINISTRADORES DE MEMORIA DE MS-DOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Características para su PC portátil">
+      <lb:tema>CARACTERÍSTICAS PARA SU PC PORTÁTIL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>USO DE INTERINK PARA CONECTAR DOS EQUIPOS</lb:subtema>
+            <lb:subtema>CONSERVACIÓN DE ENERGIA EN SU PC PORTÁTIL</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Diagnóstico y solución de problemas">
+      <lb:tema>DIAGNÓSTICO Y SOLUCIÓN DE PROBLEMAS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>SOLUCIÓN DE PROBLEMAS DURANTE LA INSTALACIÓN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Personalización para uso internacional">
+      <lb:tema>PERSONALIZACIÓN PARA USO INTERNACIONAL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CAMBIO DE LAS CONVENCIONES ESPECÍFICAS DE PAÍSES</lb:subtema>
+            <lb:subtema>CAMBIO DE LA DISTRIBUCIÓN DEL TECLADO</lb:subtema>
+            <lb:subtema>CAMBIO DE JUEGOS DE CARCATERES</lb:subtema>
+            <lb:subtema>PRESENTACIÓN DE INFORMACIÓN SOBRE JUEGOS DE CARACTERES</lb:subtema>
+            <lb:subtema>CÓDIGOS PARA PAÍSES, PARA EL TECLADO Y PARA JUEGOS DE CARACTERES</lb:subtema>
+            <lb:subtema>CONFIGURACIÓN DE SU PC PARA USO INTERNACIONAL</lb:subtema>
+            <lb:subtema>EXPLICACIÓN DE LOS MENSAJES DE ERROR</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

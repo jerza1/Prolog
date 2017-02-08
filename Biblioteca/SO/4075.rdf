@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción a los sistemas operativos">
+  <lb:tema>INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿QUÉ ES UN SISTEMA OPERATIVO?</lb:subtema>
+      <lb:subtema>PROCESOS</lb:subtema>
+      <lb:subtema>ARCHIVOS Y DIRECTORIO</lb:subtema>
+      <lb:subtema>CAPAS DEL SISTEMA OPERATIV</lb:subtema>
+      <lb:subtema>ADELANT</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Los puntos básicos de Linux">
+  <lb:tema>LOS PUNTOS BÁSICOS DE LINUX</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LOS PUNTOS BÁSICOS DE LINUX </lb:subtema>
+      <lb:subtema>DE QUÉ SE TRATA LINUX </lb:subtema>
+      <lb:subtema>UN PASEO GUIADO</lb:subtema>
+      <lb:subtema>DE QUÉ ESTÁ COMPUESTO LINUX</lb:subtema>
+      <lb:subtema>QUÉ HACE LINUX</lb:subtema>
+      <lb:subtema>DE QUÉ CONSTA LINUX</lb:subtema>
+      <lb:subtema>SI QUIERE LEERLO TODO: LA DOCUMENTACIÓN DE LINUX</lb:subtema>
+      <lb:subtema>QUÉ SIGUE</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Los intérpretes de líneas de comandos, stiolls y las utilorías básicas">
+  <lb:tema>LOS INTÉRPRETES DE LÍNEAS DE COMANDOS, STIOLLS Y LAS UTILORÍAS BÁSICAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>HABLANDO CON LINUX: EL SHELL </lb:subtema>
+      <lb:subtema>UTILERÍAS QUE SE USAN CON FRECUENCIA</lb:subtema>
+      <lb:subtema>ESCRITURA BÁSICA DE SCRIPTS DE SHELL</lb:subtema>
+      <lb:subtema></lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Edición de archivos">
+  <lb:tema>EDICIÓN DE ARCHIVOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EDICIÓN INTERACTIVA DE ARCHIVOS CON VI</lb:subtema>
+      <lb:subtema>EDICIÓN DE ARCHIVOS EN FORMA INTERACTIVA CON EMACS</lb:subtema>
+      <lb:subtema>EDICIÓN DE ARCHIVOS EN FORMA NO INTERACTIVA CON SED </lb:subtema>
+      <lb:subtema>PROGRAMACIÓN CON AWK</lb:subtema>
+      <lb:subtema>UN REPASO FINAL</lb:subtema>
+      <lb:subtema>PERL: EL LENGUAJE DE WEB</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administración básica del sistema">
+  <lb:tema>ADMINISTRACIÓN BÁSICA DEL SISTEMA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CÓMO INICIAR Y DETENER EL SISTEMA</lb:subtema>
+      <lb:subtema>USUARIOS SISTEMA Y CUENTAS DE USUARIOS</lb:subtema>
+      <lb:subtema>CUENTAS DE USUARIOS</lb:subtema>
+      <lb:subtema>IMPRESORAS E INTERFACES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="El sistema operativo y su ambiente">
+  <lb:tema>EL SISTEMA OPERATIVO Y SU AMBIENTE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL KERNE!: EL LATIDO DEL CORAZÓN DE LINUX</lb:subtema>
+      <lb:subtema>RECONSTRUCCIÓN DEL KERNEL</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

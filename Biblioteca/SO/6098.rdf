@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    
+    <rdf:Description
+      rdf:about="The Role of DOS in Personal Computers">
+      <lb:tema>THE ROLE OF DOS IN PERSONAL COMPUTERS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING THE PERSONAL COMPUTER</lb:subtema>
+             <lb:subtema>UNDERSTANDING THE ROLE OF DOS</lb:subtema>
+             <lb:subtema>STARTING DOS</lb:subtema>
+             <lb:subtema>USING THE DOS SHELL</lb:subtema>
+             <lb:subtema>USING DOS COMMANDS</lb:subtema>
+            <lb:subtema>UNDERSTANDING DISKS AND FILES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Putting DOS To Work for You">
+      <lb:tema>PUTTING DOS TO WORK FOR YOU</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING DISK PREPARATION AND MANAGEMENT</lb:subtema>
+             <lb:subtema>UNDERSTANDING HIERARCHICAL DIRECTORIES</lb:subtema>
+             <lb:subtema>MANAGING DIRECTORIES</lb:subtema>
+             <lb:subtema>KEEPING FILES IN ORDER</lb:subtema>
+             <lb:subtema>UNDERSTANDING BACKUPS AND THE CARE OF DATA</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Getting the Most from DOS">
+      <lb:tema>GETTING THE MOST FROM DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>USING THE DOS EDITOR</lb:subtema>
+             <lb:subtema>UNDERSTANDING BATCH FILES, DOSKEY, AND MACROS</lb:subtema>
+             <lb:subtema>CONFIGURING THE DOS SHELL</lb:subtema>
+             <lb:subtema>CONFIGURING YOUR COMPUTER AND MANAGING DEVICES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Command Reference">
+      <lb:tema>COMMAND REFERENCE</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>COMMAND REFERENCE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Appendixes">
+      <lb:tema>APPENDIXES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>DOS MESSAGES</lb:subtema>
+            <lb:subtema>CHANGES BETWEEN VERSIONS OF DOS</lb:subtema>
+            <lb:subtema>DOS CONTROL AND EDITING KEYS</lb:subtema>
+            <lb:subtema>USING EDLIN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Understanding the Personal Computer">
+      <lb:tema>UNDERSTANDING THE PERSONAL COMPUTER</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>EXPLORING THE COMPONENTS OF COMPUTER SYSTEMS</lb:subtema>
+            <lb:subtema>UNDERSTANDING COMPUTER SOFTWARE</lb:subtema>
+            <lb:subtema>UNDERSTANDING COMPUTER HARDWARE</lb:subtema>
+            <lb:subtema>EXPLORING THE COMPUTER DISPLAY</lb:subtema>
+            <lb:subtema>EXPLORING THE COMPUTER KEYBOARD</lb:subtema>
+            <lb:subtema>EXPLORING THE SYSTEM UNIT</lb:subtema>
+            <lb:subtema>UNDERSTANDING DISK DRIVES AND DISKS</lb:subtema>
+            <lb:subtema>UNDERSTANDING PERIPHERAL DEVICES</lb:subtema>
+            <lb:subtema>UNDERSTANDING HOW COMPUTERS WORK WITH DISK</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Understanding the Role of DOS">
+      <lb:tema>UNDERSTANDING THE ROLE OF DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WHAT IS DOS?</lb:subtema>
+            <lb:subtema>EXAMINING THE VARIATIONS OF MS-DOS</lb:subtema>
+            <lb:subtema>EXAMINING THE DOS PACKAGE</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE PARTS OF DOS</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE FUNCTIONS OF DOS</lb:subtema>
+            <lb:subtema>DEVELOPING A WORKING KNOWLEDGE OF DOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Starting DOS">
+      <lb:tema>STARTING DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PERFORMING A COLD BOOT</lb:subtema>
+            <lb:subtema>USING THE COOTED PC</lb:subtema>
+            <lb:subtema>PERFORMING A WARM BOOT</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using the DOS Shell">
+      <lb:tema>USING THE DOS SHELL</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>GETTING STARTED WITH THE DOS SHELL</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE DOS SHELL WINDOWS</lb:subtema>
+            <lb:subtema>USING THE DOS SHELL MENUS</lb:subtema>
+            <lb:subtema>USING KEYSTROKE COMMANDS</lb:subtema>
+            <lb:subtema>USING DIALOG BOXES</lb:subtema>
+            <lb:subtema>MODIFYING THE VIEW</lb:subtema>
+            <lb:subtema>USING THE HELP SYSTEM</lb:subtema>
+            <lb:subtema>USING THE PROGRAM LIST</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using DOS Commands">
+      <lb:tema>USING DOS COMMANDS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>UNDERSTANDING DOS COMMANDS</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE ELEMENTS OF A DOS COMMAND</lb:subtema>
+            <lb:subtema>GETTING COMMAND-LINE HELP</lb:subtema>
+            <lb:subtema>ISSUING DOS COMMANDS</lb:subtema>
+            <lb:subtema>USING DIR TO LOOK AT FILES</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Understanding Disks and Files">
+      <lb:tema>UNDERSTANDING DISKS AND FILES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCING THE DOS FILE SYSTEM</lb:subtema>
+            <lb:subtema>EXAMINING DISKS AND DRIVES</lb:subtema>
+            <lb:subtema>TRYING SOME DISK COMMANDS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Understanding Disk Preparation and Management">
+      <lb:tema>UNDERSTANDING DISK PREPARATION AND MANAGEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>KEY TERMS USED IN THIS CHAPTER</lb:subtema>
+            <lb:subtema>LOOKING AT FORMAT'S SWICHES</lb:subtema>
+            <lb:subtema>UNFORMATTING A DISK</lb:subtema>
+            <lb:subtema>REVIEWING THE CONCEPT OF DEFAULTS</lb:subtema>
+            <lb:subtema>USING FORMAT ON ANOTHER DRIVE</lb:subtema>
+            <lb:subtema>PREPARING THE HARD DISK</lb:subtema>
+            <lb:subtema>DIVIDING A HARD DISK WITH FDISK</lb:subtema>
+            <lb:subtema>FORMATTING A HARD DISK</lb:subtema>
+            <lb:subtema>NAMING DISKS WITH LABEL</lb:subtema>
+            <lb:subtema>EXAMINING VOLUME LABELS WITH VOL</lb:subtema>
+            <lb:subtema>TRANSFERRING THE DOS SYSTEM USING SYS</lb:subtema>
+            <lb:subtema>ANALYZING A DISK WITH CHKDSK</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Understanding Hierarchical Directories">
+      <lb:tema>UNDERSTANDING HIERARCHICAL DIRECTORIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>REVIEWING DISKS</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE ROLE OF DIRECTORIES</lb:subtema>
+            <lb:subtema>CHAINING THROUGH A FILE</lb:subtema>
+            <lb:subtema>UNDERSTANTING FILE ATTRIBUTES</lb:subtema>
+            <lb:subtema>EXPANDING THE FILE SYSTEM THROUGH SUBDIRECTORIES</lb:subtema>
+            <lb:subtema>UNDERSTANDING THE HIERARCHICAL DIRECTORY SYSTEM</lb:subtema>
+            <lb:subtema>HELPING DOS FIND EXTERNAL COMMANDS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Managing Directories">
+      <lb:tema>MANAGING DIRECTORIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>REVIEWING DIRECTORIES AND SUBDIRECTORIES</lb:subtema>
+            <lb:subtema>WORKING WITH DIRECTORIES THROUGH THE DOS SHELL</lb:subtema>
+            <lb:subtema>CREATING DIRECTORIES</lb:subtema>
+            <lb:subtema>CHANGING THE CURRENT DIRECTORY WITH CHDIR (CD)</lb:subtema>
+            <lb:subtema>DELETING DIRECTORIES</lb:subtema>
+            <lb:subtema>RENAMING DIRECTORIES</lb:subtema>
+            <lb:subtema>LISTING DIRECTORIES WITH TREE</lb:subtema>
+            <lb:subtema>TRYING HANDS-ON EXAMPLES</lb:subtema>
+            <lb:subtema>PUTTING HIERARCHICAL DIRECTORIES TO WORK FOR YOU</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

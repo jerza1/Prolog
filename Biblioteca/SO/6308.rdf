@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Learning About MS-DOS">
+      <lb:tema>LEARNING ABOUT MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>TERMS YOU SHOULD KNOW</lb:subtema>
+             <lb:subtema>KEYS YOU USE WIDTH MS-DOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Learning About Disks, Files, and Directories">
+      <lb:tema>LEARNING ABOUT DISKS, FILES, AND DIRECTORIES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FLOPPY DISKS</lb:subtema>
+             <lb:subtema>3.5-INCH DISKS</lb:subtema>
+             <lb:subtema>HARD DISKS</lb:subtema>
+             <lb:subtema>FORMATING YOUR DISKS</lb:subtema>
+             <lb:subtema>HOW TO NAME YOUR FILES</lb:subtema>
+             <lb:subtema>DIRECTORIES</lb:subtema>
+            <lb:subtema>GETTING STARTED</lb:subtema>
+            <lb:subtema>HOW TO INSTALL MS-DOS USING THE SELECT PROGRAMA</lb:subtema>
+            <lb:subtema>RUNNING THE SELECT PROGRAM</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Getting Started, cont’d">
+      <lb:tema>GETTING STARTED, CONT’D</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>RUNNING THE SELECT PROGRAM, CONT’D</lb:subtema>
+             <lb:subtema>CONTINUING MS-DOS INSTALLATION</lb:subtema>
+             <lb:subtema>AN OVERVIEW OF THE MS-DOS SHELL</lb:subtema>
+             <lb:subtema>HOW TO QUIT MS-DOS</lb:subtema>
+             <lb:subtema>HOW TO MAKE A BACKUP COPY OF YOUR MS-DOS DISK</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Commands">
+      <lb:tema>USING COMMANDS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FILE COMMANDS</lb:subtema>
+             <lb:subtema>DISK COMMAND</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Aplications with MS-DOS">
+      <lb:tema>USING APLICATIONS WITH MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>HOW TO RUN APPLICATION PROGRAMS</lb:subtema>
+             <lb:subtema>HOW TO CREATE A FILE WITH EDLIN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Setting Up MS-DOS">
+      <lb:tema>SETTING UP MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>THE CONFIG.SYS FILE</lb:subtema>
+            <lb:subtema>THE AUTOEXEC.BAT FILE</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+            <lb:subtema>WHAT COMES NEXT?</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

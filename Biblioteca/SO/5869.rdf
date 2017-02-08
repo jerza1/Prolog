@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTROUCCION">
+   <lb:tema>INTROUCCION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL PROYECTO DE MISCROSEP</lb:subtema>
+      <lb:subtema>EL SISTEMA OPERATIVO CP/M</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PAGINA CERO DE MEMORIA">
+  <lb:tema>PAGINA CERO DE MEMORIA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BYTE DE ENTRADA/SALIDA</lb:subtema>
+      <lb:subtema>CONTROL DE ARCHIVOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="CONTROL DE DISCO">
+  <lb:tema>CONTROL DE DISCO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PORCIÓN INDEPENDIENTE:BDOS</lb:subtema>
+      <lb:subtema>PORCIÓN DEPENDIENTE:BIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="TABLAS DE PARÁMETROS">
+  <lb:tema>TABLAS DE PARÁMETROS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ENCABEZADO DE DISCO</lb:subtema>
+      <lb:subtema>PARÁMETROS DEL DISCO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="RUTINAS DE ACCESO">
+  <lb:tema>RUTINAS DE ACCESO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INICIALIZACIÓN DEL SISTEMA</lb:subtema>
+      <lb:subtema>MANEJO DE CONSOLA</lb:subtema>
+      <lb:subtema>MANEJO DEL DISCO</lb:subtema>
+      <lb:subtema>MANEJO DEL LA IMPRESORA</lb:subtema>
+      <lb:subtema>MANEJO DE OTRAS UNIDADES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="UTILERIAS">
+  <lb:tema>UTILERIAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FORMATEADOR DE DISCO</lb:subtema>
+      <lb:subtema>COPIADOR DE ARCHIVOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

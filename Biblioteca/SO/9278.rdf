@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    
+    <rdf:Description
+      rdf:about="How UUCP Works">
+      <lb:tema>HOW UUCP WORKS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>BEHIND THE SCENES</lb:subtema>
+             <lb:subtema>A WORD ABOUT MODERNS</lb:subtema>
+             <lb:subtema>SETTING UP A LINK</lb:subtema>
+             <lb:subtema>FILES AND DIRECTORIES</lb:subtema>
+             <lb:subtema>UUCP LOGIN IDS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="The Physical Connection">
+      <lb:tema>THE PHYSICAL CONNECTION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>BUILDING SERIAL CABLES</lb:subtema>
+             <lb:subtema>CONFIGURING SERIAL PORTS</lb:subtema>
+             <lb:subtema>COMMUNICATIONS SETTINGS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Setting Up a UUCP Link">
+      <lb:tema>SETTING UP A UUCP LINK</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>SUMMARY OF PROCEDURE</lb:subtema>
+             <lb:subtema>GIVING YOUR SYSTEM A NAME</lb:subtema>
+             <lb:subtema>WHO YOU GONNA CALL?</lb:subtema>
+            <lb:subtema>MULTIPLE SYSTEMS FILES</lb:subtema>
+            <lb:subtema>DIALING PREFIXES</lb:subtema>
+            <lb:subtema>ALIASES</lb:subtema>
+            <lb:subtema>SELECTING THE DEVICE TO USE</lb:subtema>
+            <lb:subtema>MODEM DIALING INSTRUCTIONS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Making Sure the Link Works">
+      <lb:tema>MAKING SURE THE LINK WORKS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>TESTING WITH CU</lb:subtema>
+             <lb:subtema>TESTING WITH TIP</lb:subtema>
+             <lb:subtema>TESTING WITH UUCICO -X</lb:subtema>
+            <lb:subtema>CHECKING THE LOG FILE</lb:subtema>
+            <lb:subtema>SYSTEM STATUS FILES</lb:subtema>
+            <lb:subtema>TESTING SITH UUTRY</lb:subtema>
+            <lb:subtema>CORRECTING THE CHAT</lb:subtema>
+            <lb:subtema>MORE CHAT</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Acess and Security Considerations">
+      <lb:tema>ACESS AND SECURITY CONSIDERATIONS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CREATING /ETC/PASSWD ENTRIES</lb:subtema>
+             <lb:subtema>SECURITY IN VERSION 2 UUCP</lb:subtema>
+             <lb:subtema>SECURITY IN BNU</lb:subtema>
+            <lb:subtema>MODES AND OWNERSHIP OF UUCP FILES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="UUCP Administration">
+      <lb:tema>UUCP ADMINISTRATION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CONTENTS OF THE SPOOL DIRECTORY</lb:subtema>
+             <lb:subtema>KEEPING TRACK OF UUCP ACTIVITY</lb:subtema>
+             <lb:subtema>AUTOMATIC MAINTENANCE</lb:subtema>
+            <lb:subtema>AUTOMATIC MAINTENANCE IN XENIX</lb:subtema>
+            <lb:subtema>POLLING PASSIVE SYSTEMS</lb:subtema>
+            <lb:subtema>TROUBLESHOOTING</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Intoduction to Usenet">
+      <lb:tema>INTODUCTION TO USENET</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>NEWSGROUP CATEGORIES</lb:subtema>
+             <lb:subtema>ADMINISTERING NETNEWS</lb:subtema>
+             <lb:subtema>OVERVIEW OF THE NETNEWS SOFTWARE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Installing Netnews">
+      <lb:tema>INSTALLING NETNEWS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FINDING A NEWS FEED</lb:subtema>
+             <lb:subtema>CONFIGURING B NEWS 2.11</lb:subtema>
+             <lb:subtema>CONFIGURING B NEWS</lb:subtema>
+             <lb:subtema>THE ACTUAL INSTALL</lb:subtema>
+             <lb:subtema>TESTING THE NEWS LINK</lb:subtema>
+            <lb:subtema>INSTALLING DOCUMENTATION ON-LINE</lb:subtema>
+            <lb:subtema>REGISTERING YOUR SITE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Administering Netnews">
+      <lb:tema>ADMINISTERING NETNEWS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>MAINTAINING THE LIST OF ACTIVE GROUPS</lb:subtema>
+             <lb:subtema>UUCP CONGESTION</lb:subtema>
+             <lb:subtema>CREATING NEWSGROUPS</lb:subtema>
+             <lb:subtema>EXPIRING ARTICLES</lb:subtema>
+             <lb:subtema>TRIMMING HISTORY AND LOG FILES</lb:subtema>
+            <lb:subtema>CREATING RECORDINGS</lb:subtema>
+            <lb:subtema>ONBATCHING NEWS ARTICLES</lb:subtema>
+            <lb:subtema>KEEPING UP TO DATE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="NNTP: Transferring News Over the Network">
+      <lb:tema>NNTP: TRANSFERRING NEWS OVER THE NETWORK</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WHAT IS NNTP AND WHY DO WE CARE?</lb:subtema>
+             <lb:subtema>CONFIGURING, COMPILING, AND INSTALLING NNTP</lb:subtema>
+             <lb:subtema>ADMINISTERING NNTP</lb:subtema>
+             <lb:subtema>FOR MORE INFORMATION</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

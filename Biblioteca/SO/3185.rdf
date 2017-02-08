@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTRODUCCION">
+<lb:tema>INTRODUCCION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿QUÉ ES UN SISTEMA OPERATIVO? </lb:subtema>
+      <lb:subtema>HISTORIA DE LOS SISTEMAS OPERATIVOS </lb:subtema>
+      <lb:subtema>REVISIÓN DEL HARDWARE DE COMPUTADORA</lb:subtema>
+      <lb:subtema>LOS TIPOS DE SISTEMAS OPERATIVOS</lb:subtema>
+      <lb:subtema>CONCEPTOS DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+      <lb:subtema>LLAMADAS AL SISTEMA</lb:subtema>
+      <lb:subtema>ESTRUCTURA DE UN SISTEMA OPERATIVO</lb:subtema>
+      <lb:subtema>EL MUNDO SEGÚN C</lb:subtema>
+      <lb:subtema>INVESTIGACIÓN ACERCA DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+      <lb:subtema>DESCRIPCIÓN GENERAL SOBRE EL RESTO DE ESTE LIBRO</lb:subtema>
+      <lb:subtema>UNIDADES MÉTRICAS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PROCESOS E HILOS">
+  <lb:tema>PROCESOS E HILOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PROCESOS</lb:subtema>
+      <lb:subtema>HILOS</lb:subtema>
+      <lb:subtema>COMUNICACIÓN ENTRE PROCESOS</lb:subtema>
+      <lb:subtema>PLANIFICACIÓN</lb:subtema>
+      <lb:subtema>PROBLEMAS CLÁSICOS DE COMUNICACIÓN ENTRE PROCESOS (IPC)</lb:subtema>
+      <lb:subtema>INVESTIGACIÓN ACERCA DE LOS PROCESOS E HILOS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PROCESOS">
+  <lb:tema>PROCESOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL MODELO DEL PROCESO</lb:subtema>
+      <lb:subtema>CREACIÓN DE UN PROCESO</lb:subtema>
+      <lb:subtema>TERMINACIÓN DE PROCESOS</lb:subtema>
+      <lb:subtema>JERARQUÍAS DE PROCESOS</lb:subtema>
+      <lb:subtema>ESTADOS DE UN PROCESO</lb:subtema>
+      <lb:subtema>IMPLEMENTACIÓN DE LOS PROCESOS</lb:subtema>
+      <lb:subtema>MODELACIÓN DE LA MULTIPROGRAMACIÓN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="HILOS">
+  <lb:tema>HILOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>USO DE HILOS</lb:subtema>
+      <lb:subtema>EL MODELO CLÁSICO DE HILO</lb:subtema>
+      <lb:subtema>HILOS EN POSIX</lb:subtema>
+      <lb:subtema>IMPLEMENTACIÓN DE HILOS EN EL ESPACIO DE USUARIO</lb:subtema>
+      <lb:subtema>IMPLEMENTACIÓN DE HILOS EN EL KERNEL</lb:subtema>
+      <lb:subtema>IMPLEMENTACIONES HÍBRIDAS</lb:subtema>
+      <lb:subtema>ACTIVACIONES DEL PLANIFICADOR</lb:subtema>
+      <lb:subtema>HILOS EMERGENTES</lb:subtema>
+      <lb:subtema>CONVERSIÓN DE CÓDIGO DE HILADO SIMPLE A MULTIHILADO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="COMUNICACIÓN ENTRE PROCESOS">
+  <lb:tema>COMUNICACIÓN ENTRE PROCESOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CONDICIONES DE CARRERA </lb:subtema>
+      <lb:subtema>REGIONES CRÍTICAS</lb:subtema>
+      <lb:subtema>EXCLUSIÓN MUTUA CON ESPERA OCUPADA</lb:subtema>
+      <lb:subtema>DORMIR Y DESPERTAR</lb:subtema>
+      <lb:subtema>SEMÁFOROS</lb:subtema>
+      <lb:subtema>MUTEXES</lb:subtema>
+      <lb:subtema>MONITORES</lb:subtema>
+      <lb:subtema>PASAJE (TRANSMISIÓN) DE MENSAJES</lb:subtema>
+      <lb:subtema>BARRERAS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PLANIFICACIÓN">
+  <lb:tema>PLANIFICACIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCIÓN A LA PLANIFICACIÓN</lb:subtema>
+      <lb:subtema>PLANIFICACIÓN EN SISTEMAS DE PROCESAMIENTO POR LOTES</lb:subtema>
+      <lb:subtema>PLANIFICACIÓN EN SISTEMAS INTERACTIVOS</lb:subtema>
+      <lb:subtema>PLANIFICACIÓN EN SISTEMAS DE TIEMPO REAL</lb:subtema>
+      <lb:subtema>POLÍTICA CONTRA MECANISMO</lb:subtema>
+      <lb:subtema>PLANIFICACIÓN DE HILOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PROBLEMAS CLÁSICOS DE COMUNICACIÓN ENTRE PROCESOS (IPC)">
+  <lb:tema>PROBLEMAS CLÁSICOS DE COMUNICACIÓN ENTRE PROCESOS (IPC)</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL PROBLEMA DE LOS FILÓSOFOS COMELONES</lb:subtema>
+      <lb:subtema>EL PROBLEMA DE LOS LECTORES Y ESCRITORES</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

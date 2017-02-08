@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Juegue con los shells">
+  <lb:tema>JUEGUE CON LOS SHELLS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>EXPLORACIÓN DE LOS PERMISOS DE ACCESO</lb:subtema>
+    	<lb:subtema>EJECUTE UN SCRIPT SHELL</lb:subtema>
+    	<lb:subtema>EXPLORE LA PROGRAMACIÓN DEL SHELL</lb:subtema>
+    	<lb:subtema>SHELLS DE CONTEO</lb:subtema>
+    	<lb:subtema>EXPLORACIÓN DE LAS CARACTERÍSTICAS DEL SHELL</lb:subtema>
+    	<lb:subtema>PUENTE SHELL/PERL/TCL</lb:subtema>
+    	<lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Variables y operadores">
+  <lb:tema>VARIABLES Y OPERADORES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      	<lb:subtema>SUSTITUCIÓN DE VARIABLE VARIABLES POSICIONALES</lb:subtema>
+    	<lb:subtema>VARIABLES DE PROCESO</lb:subtema>
+    	<lb:subtema>REGLAS DE COMILLADO EN BASH</lb:subtema>
+    	<lb:subtema>OPERADORES SUSTITUCIÓN DE EXPRESIONES </lb:subtema>
+    	<lb:subtema>VARIABLES DE SHELL ESTÁNDAR</lb:subtema>
+    	<lb:subtema>COMANDOS QUE AFECTAN VARIABLES </lb:subtema>
+    	<lb:subtema>RESUMEN </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Procedimientos">
+  <lb:tema>PROCEDIMIENTOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>USO DE VARIABLES DENTRO DE LOS PROCEDIMIENTOSV</lb:subtema>
+      <lb:subtema>EL COMANDO SHIFTV</lb:subtema>
+    	<lb:subtema>CREACIÓN DE VARIABLES LOCALES PARA PROCEDIMIENTOSV</lb:subtema>
+    	<lb:subtema>REGRESO DE VALORES DESDE PROCEDIMIENTOSV</lb:subtema>
+    	<lb:subtema>RESUMENV</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Comandos de ejecución de script">
+  <lb:tema>COMANDOS DE EJECUCIÓN DE SCRIPT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL COMANDO EXITS</lb:subtema>
+      <lb:subtema>EL COMANDO TRAPS</lb:subtema>
+      <lb:subtema>EL COMANDO IFS</lb:subtema>
+      <lb:subtema>EL COMANDO CASE S</lb:subtema>
+      <lb:subtema>EL COMANDO FORS</lb:subtema>
+      <lb:subtema>EL COMANDO WHILES</lb:subtema>
+      <lb:subtema>EL COMANDO UNTILS</lb:subtema>
+      <lb:subtema>EL COMANDO BREAKS</lb:subtema>
+      <lb:subtema>EL COMANDO CONTINUES</lb:subtema>
+      <lb:subtema>RESUMEN S</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Control del shell">
+  <lb:tema>CONTROL DEL SHELL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>CREACIÓN DE LISTAS DE COMANDOS</lb:subtema>
+      <lb:subtema>CREACIÓN DE COMANDOS COMPUESTOS</lb:subtema>
+      <lb:subtema>REDIRECCIÓN DE ENTRADA/SALIDA (I/O) </lb:subtema>
+      <lb:subtema>LECTURA DE ENTRADAS </lb:subtema>
+      <lb:subtema>EMPLEO DEL ARCHIVO "-"</lb:subtema>
+      <lb:subtema>EMPLEO DE LOS ARCHIVOS DE DISPOSITIVO</lb:subtema>
+      <lb:subtema>USO DE EXEC</lb:subtema>
+      <lb:subtema>EMPLEO DE EVAL</lb:subtema>
+      <lb:subtema>EMPLEO DE PROCESOS EN SEGUNDO PLANO</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Empleo de Perl">
+  <lb:tema>EMPLEO DE PERL</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LAS CARACTERÍSTICAS DE PERL </lb:subtema>
+      <lb:subtema>INTRODUCCIÓN A PERL</lb:subtema>
+      <lb:subtema>VARIABLES EN PERL</lb:subtema>
+      <lb:subtema>EMPLEO DE INFORMACIÓN ESTÁTICA </lb:subtema>
+      <lb:subtema>EMPLEO DE CADENAS DE CARACTERES ENTRE COMILLAS INVERTIDAS </lb:subtema>
+      <lb:subtema>EMPLEO DE ENUNCIADOS</lb:subtema>
+      <lb:subtema>EMPLEO DE ARCHIVOS</lb:subtema>
+      <lb:subtema>VARIABLES ESPECIALES </lb:subtema>
+      <lb:subtema>OBJETOS</lb:subtema>
+      <lb:subtema>EMPLEO DE MÓDULOS</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+      </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Empleo de Tcl/Tk">
+  <lb:tema>EMPLEO DE TCL/TK</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>LAS CARACTERÍSTICAS DE TCL </lb:subtema>
+      <lb:subtema>INTRODUCCIÓN A TCL</lb:subtema>
+      <lb:subtema>ENTENDIENDO LOS CONCEPTOS DE SUSTITUCIÓN</lb:subtema>
+      <lb:subtema>LOS CONCEPTOS DE AGRUPAMIENTO</lb:subtema>
+      <lb:subtema>ESTRUCTURAS DE DATOS</lb:subtema>
+      <lb:subtema>EMPLEO DE ENUNCIADOS </lb:subtema>
+      <lb:subtema>EMPLEO DE ARCHIVOS</lb:subtema>
+      <lb:subtema>MÁS ALLÁ DEL SHELL </lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Comparación de patrones">
+  <lb:tema>COMPARACIÓN DE PATRONES</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>BASH</lb:subtema>
+      <lb:subtema>PERL</lb:subtema>
+      <lb:subtema>LOS OPERADORES DE UNIÓN </lb:subtema>
+      <lb:subtema>TCL</lb:subtema>
+      <lb:subtema>RESUMEN</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Examen de las herramientas">
+  <lb:tema>EXAMEN DE LAS HERRAMIENTAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL COMANDO BASENAME</lb:subtema>
+      <lb:subtema>EL COMANDO CAT</lb:subtema>
+      <lb:subtema>EL COMANDO CKSUM </lb:subtema>
+      <lb:subtema>EL COMANDO CLEAR</lb:subtema>
+      <lb:subtema>EL COMANDO COL</lb:subtema>
+      <lb:subtema>EL COMANDO CP</lb:subtema>
+      <lb:subtema>EL COMANDO CSPLIT</lb:subtema>
+      <lb:subtema>EL COMANDO CUT</lb:subtema>
+      <lb:subtema>EL COMANDO DATE</lb:subtema>
+      <lb:subtema>EL COMANDO DIFF</lb:subtema>
+      <lb:subtema>EL COMANDO ECHO </lb:subtema>
+      <lb:subtema>EL COMANDO ENV</lb:subtema>
+      <lb:subtema>EL COMANDO EXPR</lb:subtema>
+      <lb:subtema>EL COMANDO EVAL</lb:subtema>
+      <lb:subtema>EL COMANDO FALSE</lb:subtema>
+      <lb:subtema>EL COMANDO FGREP</lb:subtema>
+      <lb:subtema>EL COMANDO FIND</lb:subtema>
+      <lb:subtema>EL COMANDO GREP </lb:subtema>
+      <lb:subtema>EL COMANDO GROFF</lb:subtema>
+      <lb:subtema>EL COMANDO HEAD</lb:subtema>
+      <lb:subtema>EL COMANDO INFO</lb:subtema>
+      <lb:subtema>EL COMANDO JOIN</lb:subtema>
+      <lb:subtema>EL COMANDO KILL</lb:subtema>
+      <lb:subtema>EL COMANDO LESS</lb:subtema>
+      <lb:subtema>EL COMANDO MAN</lb:subtema>
+      <lb:subtema>EL COMANDO MV</lb:subtema>
+      <lb:subtema>EL COMANDO N1</lb:subtema>
+      <lb:subtema>EL COMANDO PS</lb:subtema>
+      <lb:subtema>EL COMANDO PSTREE </lb:subtema>
+      <lb:subtema>EL COMANDO READ</lb:subtema>
+      <lb:subtema>EL COMANDO MI</lb:subtema>
+      <lb:subtema>EL COMANDO SORT</lb:subtema>
+      <lb:subtema>EL COMANDO SPLIT </lb:subtema>
+      <lb:subtema>EL COMANDO STRINGS</lb:subtema>
+      <lb:subtema>EL COMANDO TAIL</lb:subtema>
+      <lb:subtema>EL COMANDO TEE</lb:subtema>
+      <lb:subtema>EL COMANDO TEST</lb:subtema>
+      <lb:subtema>EL COMANDO TR</lb:subtema>
+      <lb:subtema>EL COMANDO TRUE</lb:subtema>
+      <lb:subtema>EL COMANDO TTY</lb:subtema>
+      <lb:subtema>EL COMANDO TYPE</lb:subtema>
+      <lb:subtema>EL COMANDO UNAME</lb:subtema>
+      <lb:subtema>EL COMANDO UNIQ</lb:subtema>
+      <lb:subtema>EL COMANDO WC</lb:subtema>
+      <lb:subtema>EL COMANDO WHO</lb:subtema>
+      <lb:subtema>EL COMANDO WRITE</lb:subtema>
+      <lb:subtema>EL COMANDO XARGS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

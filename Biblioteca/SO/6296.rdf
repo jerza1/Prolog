@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="The Basics of Symbian OS Communication">
+  <lb:tema>THE BASICS OF SYMBIAN OS COMMUNICATION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCTION</lb:subtema>
+      <lb:subtema>INTRODUCTION TO THE SYMBIAN OS COMMUNICATION ARCHITECTURE</lb:subtema>
+      <lb:subtema>SEVERAL INTRODUCTIONS TO THE ARCHITECTURE INFRASTRUCTURE</lb:subtema>
+      <lb:subtema>TRANSPORT TECHNOLOGIES </lb:subtema>
+      <lb:subtema>A LOOK AT CONTENT TECHNOLOGIES</lb:subtema>
+      <lb:subtema>SECURITY AND COMMUNICATION </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Programming using Symbian OS Communication">
+  <lb:tema>PROGRAMMING USING SYMBIAN OS COMMUNICATION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>GETTING STARTED WITH COMMUNICATIONS PROGRAMMING</lb:subtema>
+      <lb:subtema>SERIAL COMMUNICATIONS</lb:subtema>
+      <lb:subtema>COMMUNICATING VIA INFRARED: SERIAL COMMUNICATION</lb:subtema>
+      <lb:subtema>USING SOCKETS </lb:subtema>
+      <lb:subtema>COMMUNICATING VIA INFRARED: USING SOCKETS PROTOCOL</lb:subtema>
+      <lb:subtema>COMMUNICATING WITH TCP/IP</lb:subtema>
+      <lb:subtema>BLUETOOTH COMMUNICATIONS</lb:subtema>
+    </rdf:Seq> 
+  </lb:subtema> 
+</rdf:Description>
+</rdf:RDF> 
