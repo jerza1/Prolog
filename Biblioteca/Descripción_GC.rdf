@@ -1,29 +1,556 @@
 <?xml version="1.0"?>
-
 <rdf:RDF
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:lb="Biblioteca/">
+  <rdf:Description
+       rdf:about="gc/4160.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>4160</lb:ficha>
+       <lb:titulo>AUTOCAD 12 PRACTICO</lb:titulo>
+       <lb:autor>JORDI CROS I FERRANDIZ</lb:autor>
+       <lb:clasificacion>T385 C76</lb:clasificacion>
+       <lb:anio>S.A</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="gc/4144.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>4144</lb:ficha>
+       <lb:titulo>AUTOCAD 14:GUIA COMPLETA</lb:titulo>
+       <lb:autor>JORDI CROS I FERRANDIZ</lb:autor>
+       <lb:clasificacion>T38 C767</lb:clasificacion>
+       <lb:anio>S.A</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="gc/4138.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>4138</lb:ficha>
+       <lb:titulo>AUTOCAD RELEASE 12</lb:titulo>
+       <lb:autor>AUTODESK</lb:autor>
+       <lb:clasificacion>T385 A886</lb:clasificacion>
+       <lb:anio>1192</lb:anio>
+       <lb:ejemplares>19</lb:ejemplares>
+  </rdf:Description>
+       
+  <rdf:Description
+       rdf:about="gc/5841.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>5841</lb:ficha>
+       <lb:titulo>PANORAMA DE APLICACIONES GRAFICAS DEL ORDENADOR</lb:titulo>
+       <lb:autor>LEWELL JOHN</lb:autor>
+       <lb:clasificacion>T385 L49</lb:clasificacion>
+       <lb:anio>1986</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="gc/6081.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>6081</lb:ficha>
+       <lb:titulo>MANUAL DEL USUARIO DEL PAQUETE SMARTWORK</lb:titulo>
+       <lb:autor>GUZMAN MENDOZA CARLOS ALBERTO</lb:autor>
+       <lb:clasificacion>T385 G89</lb:clasificacion>
+       <lb:anio>1988</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+  
+  <rdf:Description
+  rdf:about="gc/4159.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4159</lb:ficha>
+    <lb:titulo>AUTOCAD: REFERENCIA INSTANTANEA</lb:titulo>
+    <lb:autor>OMURA GEORGE</lb:autor>
+    <lb:clasificacion>T385 O49</lb:clasificacion>
+    <lb:anio>1990</lb:anio>
+    <lb:ejemplares>3</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4162.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4162</lb:ficha>
+    <lb:titulo>AUTOCAD: MANUAL DE REFERENCIA</lb:titulo>
+    <lb:autor>JOHNSON NELSON</lb:autor>
+    <lb:clasificacion>T385 J64</lb:clasificacion>
+    <lb:anio>1990</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/6125.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6125</lb:ficha>
+    <lb:titulo>COMO USAR</lb:titulo>
+    <lb:autor>LARSEN GLENN H.</lb:autor>
+    <lb:clasificacion>T385 L37</lb:clasificacion>
+    <lb:anio>1991</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/6231.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6231</lb:ficha>
+    <lb:titulo>MICROSOFT DRAW. MANUAL DEL USUARIO: APLICACION DE</lb:titulo>
+    <lb:autor>MICROSOFT CORPORATION</lb:autor>
+    <lb:clasificacion>T385 M53</lb:clasificacion>
+    <lb:anio>1991</lb:anio>
+    <lb:ejemplares>4</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/6318.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6318</lb:ficha>
+    <lb:titulo>RESOURCE WORKSHOP: USER'S GUIDE</lb:titulo>
+    <lb:autor>BORLAND INTERNATIONAL</lb:autor>
+    <lb:clasificacion>T385 B67</lb:clasificacion>
+    <lb:anio>1991</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+  
+   <rdf:Description
+  rdf:about="gc/3863.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>3863</lb:ficha>
+    <lb:titulo>HARVARD GRAPHICS A SU ALANCE</lb:titulo>
+    <lb:autor>CAMPBELL MARY</lb:autor>
+    <lb:clasificacion>T385 C34</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+   <rdf:Description
+  rdf:about="gc/3885.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>3885</lb:ficha>
+    <lb:titulo>MICROSOFT POWER POINT : PRESENTATION GRAPHICS PROG</lb:titulo>
+    <lb:autor>MICROSOFT CORPORATION</lb:autor>
+    <lb:clasificacion>T385 M5</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
 
 <rdf:Description
-rdf:about="6498.rdf">
-  <lb:ficha>6498</lb:ficha>
-  <lb:titulo>THE PSYCHOLOGY OF HUMAN-COMPUTER INTERACTION</lb:titulo>
-  <lb:autor>CARD, STUART K.</lb:autor>
-  <lb:clasificacion>QA76.9 I58 C37</lb:clasificacion>
-  <lb:anio>1983</lb:anio>
-  <lb:ejemplares>1</lb:ejemplares>
-  <lb:area>GC</lb:area>
+  rdf:about="gc/4071.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4071</lb:ficha>
+    <lb:titulo>INSIDE AUTOCAD RELEASE 12</lb:titulo>
+    <lb:autor> </lb:autor>
+    <lb:clasificacion>T385 I58</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4103.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4103</lb:ficha>
+    <lb:titulo>GENERIC CADD 6.0</lb:titulo>
+    <lb:autor>AUTODESK RETAIL PRODUCTS</lb:autor>
+    <lb:clasificacion>T385 A886 A8</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>12</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4158.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4158</lb:ficha>
+    <lb:titulo>AUTOCAD AVANZADO VERSION 11 (INCLUYE AME)</lb:titulo>
+    <lb:autor>LOPEZ FERNANDEZ JAVIER</lb:autor>
+    <lb:clasificacion>T385 L66</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/6123.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6123</lb:ficha>
+    <lb:titulo>HARVARD GRAPHICS : MANUAL DE REFERENCIA</lb:titulo>
+    <lb:autor>JENSEN CARY</lb:autor>
+    <lb:clasificacion>T385 J45</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+<rdf:Description
+  rdf:about="gc/6128.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6128</lb:ficha>
+    <lb:titulo>MICROSOFT GRAPH MANUAL DEL USUARIO : SERIE APPLE M</lb:titulo>
+    <lb:autor>MICROSOFT CORPORATION</lb:autor>
+    <lb:clasificacion>T385 M537</lb:clasificacion>
+    <lb:anio>1992</lb:anio>
+    <lb:ejemplares>4</lb:ejemplares>
+  </rdf:Description>
+
+
+<rdf:Description
+  rdf:about="gc/4161.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4161</lb:ficha>
+    <lb:titulo>AUTOCAD RELEASE 13 : INSTALLATION GUIDE FOR WINDOW</lb:titulo>
+    <lb:autor>AUTODESK</lb:autor>
+    <lb:clasificacion>T385 A8</lb:clasificacion>
+    <lb:anio>1993</lb:anio>
+    <lb:ejemplares>7</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/8466.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8466</lb:ficha>
+    <lb:titulo>SIGRAF : UN SISTEMA INTERACTIVO PARA GRAFICACION E</lb:titulo>
+    <lb:autor> </lb:autor>
+    <lb:clasificacion>T385 S54</lb:clasificacion>
+    <lb:anio>1994</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
 </rdf:Description>
 
 <rdf:Description
-rdf:about="6090.rdf">
-  <lb:ficha>6090</lb:ficha>
-  <lb:titulo>Z (VERSION 1)</lb:titulo>
-  <lb:autor>RUIZ DE VELASCO, CARLOS</lb:autor>
-  <lb:clasificacion>QA76.9 I58 R85</lb:clasificacion>
-  <lb:anio>1981</lb:anio>
-  <lb:ejemplares>1</lb:ejemplares>
-  <lb:area>GC</lb:area>
+  rdf:about="gc/8654.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8654</lb:ficha>
+    <lb:titulo>GRAFICAS PODEROSAS CON TURBO C++</lb:titulo>
+    <lb:autor>WEISKAMP KEITH</lb:autor>
+    <lb:clasificacion>T385 W45</lb:clasificacion>
+    <lb:anio>1994</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="gc/3860.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>3860</lb:ficha>
+       <lb:titulo>MICROSOFT POWER POINT 4 PARA WINDOWS PASO A PASO</lb:titulo>
+       <lb:autor>MICROSOFT CORPORATION</lb:autor>
+       <lb:clasificacion>T385 M52</lb:clasificacion>
+       <lb:anio>1995</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/8446.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>8446</lb:ficha>
+       <lb:titulo>DIGITAL IMAGES : A PRACTICAL GUIDE</lb:titulo>
+       <lb:autor>DROBLAS GREENBERG ADELE</lb:autor>
+       <lb:clasificacion>T385 D76</lb:clasificacion>
+       <lb:anio>1995</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/8460.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>8460</lb:ficha>
+       <lb:titulo>SOLIDWORKS 2007 : CONCEPTOS BASICOS DE SOLIDWORKS</lb:titulo>
+       <lb:autor>SOLIDWORKS (FIRMA COMERCIAL)</lb:autor>
+       <lb:clasificacion>T385 S64</lb:clasificacion>
+       <lb:anio>1995</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/3484.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>3484</lb:ficha>
+       <lb:titulo>POWERPOINT PARA GENTE OCUPADA : EL LIBRO PARA APRE</lb:titulo>
+       <lb:autor>MANSFIELD RON</lb:autor>
+       <lb:clasificacion>T385 M35</lb:clasificacion>
+       <lb:anio>1996</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/3357.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>3357</lb:ficha>
+       <lb:titulo>AUTOCAD ARCHITECTURAL DESKTOP : USER´S GUIDE</lb:titulo>
+       <lb:autor></lb:autor>
+       <lb:clasificacion>T385 A886 A88</lb:clasificacion>
+       <lb:anio>1999</lb:anio>
+       <lb:ejemplares>3</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/4143.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>4143</lb:ficha>
+       <lb:titulo>ASTONISHING WEB GRAPHICS WITH KAI'S POWER TOOLS AN</lb:titulo>
+       <lb:autor>BUSCH DAVID D</lb:autor>
+       <lb:clasificacion>T385 B88</lb:clasificacion>
+       <lb:anio>1999</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/8449.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>8449</lb:ficha>
+       <lb:titulo>MATHEMATICS FOR COMPUTER GRAPHICS APPLICATIONS</lb:titulo>
+       <lb:autor>MORTENSON MICHAEL E</lb:autor>
+       <lb:clasificacion>T385 M67</lb:clasificacion>
+       <lb:anio>1999</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/8455.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>8455</lb:ficha>
+       <lb:titulo>OPENGL PROGRAMMING GUIDE : THE OFFICIAL GUIDE TO L</lb:titulo>
+       <lb:autor></lb:autor>
+       <lb:clasificacion>T385 O64</lb:clasificacion>
+       <lb:anio>1999</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+       rdf:about="gc/8456.rdf">
+       <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+       <lb:ficha>8456</lb:ficha>
+       <lb:titulo>GRAPH DRAWING : ALGORITHMS FOR THE VISUALIZATION O</lb:titulo>
+       <lb:autor></lb:autor>
+       <lb:clasificacion>T385 G73</lb:clasificacion>
+       <lb:anio>1999</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+</rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4136.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4136</lb:ficha>
+    <lb:titulo>AUTOCAD 2000I : USER'S GUIDE</lb:titulo>
+    <lb:autor>AUTODESK</lb:autor>
+    <lb:clasificacion>T385 A886 A886</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>3</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4137.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4137</lb:ficha>
+    <lb:titulo>AUTOCAD MECHANICAL 2000I</lb:titulo>
+    <lb:autor>AUTODESK</lb:autor>
+    <lb:clasificacion>T385 A88</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>6</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4156.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4156</lb:ficha>
+    <lb:titulo>AUTOCAD 2000</lb:titulo>
+    <lb:autor>BURCHARD BILL</lb:autor>
+    <lb:clasificacion>T385 B87</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/8454.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8454</lb:ficha>
+    <lb:titulo>DISENO GRAFICO Y PRESENTACIONES AVANZADAS EN COMPUTADORA</lb:titulo>
+    <lb:autor>CENTRO DE COMPUTACION PROFESIONAL DE MEXICO (MEXICO)</lb:autor>
+    <lb:clasificacion>T385 C45</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/8461.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8461</lb:ficha>
+    <lb:titulo>MANUAL IMPRESCINDIBLE DE PHOTOSHOP 5.5 PARA WINDOWS</lb:titulo>
+    <lb:autor>DELGADO CABRERA JOSE MARIA</lb:autor>
+    <lb:clasificacion>T385 D44</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/8478.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8478</lb:ficha>
+    <lb:titulo>APPLIED GEOMETRY FOR COMPUTER GRAPHICS AND CAD</lb:titulo>
+    <lb:autor>MARSH DUNCAN</lb:autor>
+    <lb:clasificacion>T385 M37</lb:clasificacion>
+    <lb:anio>2000</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4135.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4135</lb:ficha>
+    <lb:titulo>GUIA OFICIAL DE COREL DRAW 10</lb:titulo>
+    <lb:autor>BAIN STEVE</lb:autor>
+    <lb:clasificacion>T385 B35</lb:clasificacion>
+    <lb:anio>2001</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4175.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4175</lb:ficha>
+    <lb:titulo>ADOBE ILLUSTRATOR 9.0 : CURSO COMPLETO EN UN LIBRO</lb:titulo>
+    <lb:autor>ADOBE PRESS</lb:autor>
+    <lb:clasificacion>T385 A36</lb:clasificacion>
+    <lb:anio>2001</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/4157.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>4157</lb:ficha>
+    <lb:titulo>AUTOCAD 2002</lb:titulo>
+    <lb:autor>HARRINGTON DAVID</lb:autor>
+    <lb:clasificacion>T385 H37</lb:clasificacion>
+    <lb:anio>2002</lb:anio>
+    <lb:ejemplares>4</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/8372.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>8372</lb:ficha>
+    <lb:titulo>COMPUTER GRAPHICS AND GEOMETRIC MODELING MATHEMATICS</lb:titulo>
+    <lb:autor>AGOSTON MAX K.</lb:autor>
+    <lb:clasificacion>T385 A46</lb:clasificacion>
+    <lb:anio>2005</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/5317.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>5317</lb:ficha>
+    <lb:titulo>AUTOCAD 2009</lb:titulo>
+    <lb:autor>MONTANO LA CRUZ FERNANDO</lb:autor>
+    <lb:clasificacion>T385 M65</lb:clasificacion>
+    <lb:anio>2008</lb:anio>
+    <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="gc/6223.rdf">
+  <lb:area>GRAFICACION POR COMPUTADORA</lb:area>
+    <lb:ficha>6223</lb:ficha>
+    <lb:titulo>MANUAL AVANZADO DE AUTOCAD 2009</lb:titulo>
+    <lb:autor>MONTANO LA CRUZ FERNANDO</lb:autor>
+    <lb:clasificacion>T385 M658</lb:clasificacion>
+    <lb:anio>2009</lb:anio>
+    <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/6497.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>6497</lb:ficha>
+       <lb:titulo>RISS : A RELATIONAL DATA BASE MANAGEMENT SYSTEM FOR MINICOMPUTERS</lb:titulo>
+       <lb:autor></lb:autor>
+       <lb:clasificacion>QA76.9 D3 R58</lb:clasificacion>
+       <lb:anio>1978</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/1939.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>1939</lb:ficha>
+       <lb:titulo>CREACION DE UNA TABLA PARA BASE DE DATOS DEL MODEL</lb:titulo>
+       <lb:autor>ALBIZURI R. BEGONA</lb:autor>
+       <lb:clasificacion>QA76.9 D3 A42</lb:clasificacion>
+       <lb:anio>1980</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/6322.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>6322</lb:ficha>
+       <lb:titulo>EL PROGRAMA HARTIGAN : MANEJO DE UN PAQUETE DE TE</lb:titulo>
+       <lb:autor>ARDISSON MONICA</lb:autor>
+       <lb:clasificacion>QA76.9 D35 A73</lb:clasificacion>
+       <lb:anio>1980</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/5918.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>5918</lb:ficha>
+       <lb:titulo>OPERACIONES DE ALGEBRA RELACIONAL PARA EL MANEJO DE BASES DE DATOS DESARROLLADAS POR CIRCUITERIA DIGITAL</lb:titulo>
+       <lb:autor>CALVARIO HECTOR</lb:autor>
+       <lb:clasificacion>QA76.9 D3 C34</lb:clasificacion>
+       <lb:anio>1981</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/6515.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>6515</lb:ficha>
+       <lb:titulo>DATA STRUCTURES USING PASCAL</lb:titulo>
+       <lb:autor>TENENBAUM AARON M.</lb:autor>
+       <lb:clasificacion>QA76.9 D35 T45</lb:clasificacion>
+       <lb:anio>1981</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/6574.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>6574</lb:ficha>
+       <lb:titulo>ESTRUCTURA DE DATOS EN PASCAL</lb:titulo>
+       <lb:autor>TENENBAUM AARON M.</lb:autor>
+       <lb:clasificacion>QA76.9 D35 T454</lb:clasificacion>
+       <lb:anio>1983</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/10791.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>10791</lb:ficha>
+       <lb:titulo>DATA STRUCTURES AND ALGORITHMS</lb:titulo>
+       <lb:autor>AHO ALFRED V.</lb:autor>
+       <lb:clasificacion>QA76.9 D35 A46</lb:clasificacion>
+       <lb:anio>1983</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/6548.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>6548</lb:ficha>
+       <lb:titulo>DISTRIBUTED DATABASES : PRINCIPLES AND SYSTEMS</lb:titulo>
+       <lb:autor>CERI STEFANO</lb:autor>
+       <lb:clasificacion>QA76.9 D3 C47</lb:clasificacion>
+       <lb:anio>1984</lb:anio>
+       <lb:ejemplares>4</lb:ejemplares>
+  </rdf:Description>
+
+  <rdf:Description
+       rdf:about="bd/904.rdf">
+       <lb:area>BASE DE DATOS</lb:area>
+       <lb:ficha>904</lb:ficha>
+       <lb:titulo>BASES DE DATOS ESTADISTICAS, PRINCIPALES PROBLEMAS</lb:titulo>
+       <lb:autor>CARRERA, ROLANDO S.</lb:autor>
+       <lb:clasificacion>QA76.9 D3 C3774</lb:clasificacion>
+       <lb:anio>1985</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
 </rdf:Description>
 
 </rdf:RDF> 
