@@ -1,0 +1,20 @@
+empaquetar([],[]).
+empaquetar([X|L1],[L2|L3]):-
+	empaquetarA(X,L1,L4,L2),
+	empaquetar(L4,L3).
+empaquetarA(X,[],[],[X]).
+empaquetarA(X,[X|L1],L4,[X|L2]):-
+	!,
+	empaquetarA(X,L1,L4,L2).
+empaquetarA(X,[Y|L1],[Y|L1],[X]).
+contar([],0).
+contar([_|R],N):-
+	contar(R,N1),
+	N is N1 + 1.
+clasificaRepA([],[]).
+clasificaRepA([[X|R]|L1],[N-X|L2]):-
+	contar([X|R],N),
+	clasificaRepA(L1,L2).
+clasificaRep(L1,L2):-
+	empaquetar(L1,L),
+	clasificaRepA(L,L2).
